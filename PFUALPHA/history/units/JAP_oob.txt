@@ -1,0 +1,112 @@
+RYU = { value = 125 }
+SUL = { value = 100 }
+BRU = { value = 100 }
+
+leader = {
+	name = "Sakuma Shozan"
+	date = 1836.1.1
+	type = land
+	personality = clever
+	background = politician
+	prestige = 0.1
+}
+
+leader = {
+	name = "Takashima Shuhan"
+	date = 1836.1.1
+	type = land
+	personality = defiant
+	background = school_of_the_bayonet
+	prestige = 0.1
+}
+
+leader = {
+	name = "Watanabe Kazan"
+	date = 1836.1.1
+	type = land
+	personality = strange
+	background = aristocrat
+	prestige = 0.1
+}
+
+leader = {
+	name = "Takano Choei"
+	date = 1836.1.1
+	type = land
+	personality = bold
+	background = aristocrat
+	prestige = 0.1
+}
+
+leader = {
+	name = "Prince Fushimi Kuniie"
+	date = 1836.1.1
+	type = land
+	personality = efficient
+	background = renowned_adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Prince Fushimi Sadanori"
+	date = 1836.1.1
+	type = land
+	personality = fearsome
+	background = rising_star
+}
+
+army = {
+	name = "Imperial Guard"
+	location = 1657
+	regiment = {
+		name= "1.Guard"
+		type = guard
+		home = 1657
+	}
+	regiment = {
+		name= "2.Guard"
+		type = guard
+		home = 1657
+	}
+	regiment = {
+		name= "3.Guard"
+		type = guard
+		home = 1657
+	}
+	regiment = {
+		name= "4.Guard"
+		type = guard
+		home = 1662
+	}
+	regiment = {
+		name= "5.Guard"
+		type = guard
+		home = 1665
+	}
+	regiment = {
+		name= "6.Guard"
+		type = guard
+		home = 1640
+	}
+	regiment = {
+		name= "7.Guard"
+		type = guard
+		home = 1646
+	}
+	regiment = {
+		name= "8.Guard"
+		type = guard
+		home = 1649
+	}
+	regiment = {
+		name= "Imperial Cavalry"
+		type = hussar
+		home = 1649
+	}
+	regiment = {
+		name= "Imperial Artillery Regiment"
+		type = artillery
+		home = 1642
+	}
+}
+

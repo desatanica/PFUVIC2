@@ -1,0 +1,45 @@
+political_decisions = {
+
+	will_receive = {
+	picture = "institute_central_bank"
+		alert = no
+		potential = {
+			ai = no
+			NOT = { has_country_flag = will_receive_grants }
+			}
+		
+		allow = { 
+            NOT = { has_country_modifier = requested_grant }
+			NOT = { has_country_flag = will_receive_grants } 
+			ai = no
+			}
+		effect = {
+			add_country_modifier = {
+				name = requested_grant
+				duration = 30
+			}
+			country_event = {id = 100000 days = 0}
+
+		}
+
+	}
+
+#	will_not_receive = {
+#		alert = no
+#		potential = {
+#			ai = no
+#			has_country_flag = will_receive_grants
+#			}
+#		
+#		allow = { 
+#			has_country_flag = will_receive_grants
+#			}
+#		effect = {
+#			clr_country_flag = will_receive_grants 
+#
+#		}
+#
+#	}
+
+
+}

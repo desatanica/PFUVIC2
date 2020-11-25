@@ -1,0 +1,136 @@
+political_decisions = {
+	fatherland_volunteers = {
+		potential = {
+			tag = BRZ
+			government = hms_government
+			NOT = {
+				has_country_flag = pedro_said_it_best
+			}
+		}
+		allow = {
+			army_decision_making = 1
+			war = yes
+		}
+		effect = {
+			war_exhaustion = -1
+			prestige = 10
+			set_country_flag = pedro_said_it_best
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	the_golden_law = {
+		potential = {
+			tag = BRZ
+			OR = {
+				government = hms_government
+				government = democracy
+			}
+			NOT = {
+				has_country_flag = free_at_last
+				ruling_party_ideology = reactionary
+				slavery = no_slavery
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = free_at_last
+			any_pop = {
+				limit = {
+					pop_type = aristocrats
+				}
+				consciousness = 5
+				militancy = 10
+			}
+			political_reform = no_slavery	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	integration = {
+		potential = {
+			tag = BRZ
+			NOT = {
+				has_country_flag = integrated
+			}
+		}
+		allow = {
+			OR = {
+				government = hms_government
+				government = democracy
+			}
+			slavery = no_slavery
+			biologism = 1
+			NOT = {
+				average_militancy = 3
+			}	
+		}
+		effect = {
+			any_pop = {
+				limit = {
+					culture = afro_brazilian
+				}
+				consciousness = -4
+				militancy = -4
+			}
+			add_accepted_culture = afro_brazilian
+			set_country_flag = integrated
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+			
+	law_1420_of_general_common_education = {
+		potential = {
+			tag = ARG
+			NOT = {
+				has_country_flag = 1420_passed
+			}
+		}
+		allow = {
+			social_science = 1
+			ruling_party_ideology = conservative
+		}
+		effect = {
+			set_country_flag = 1420_passed
+			years_of_research = 0.2
+			plurality = 5
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	valparaiso_harbor = {
+		potential = {
+			NOT = { is_canal_enabled = 3 }
+			NOT = {
+				has_country_flag = valpariasoharbor_built
+			}
+			tag = CHL
+			owns = 2325
+		}
+		
+		allow = {
+			battleship_column_doctrine = 1
+		}
+		
+		effect = {
+			2325 = {
+				life_rating = 10
+				add_province_modifier = {
+					name = gateway_to_harbor
+					duration = -1
+				}
+			}
+			prestige = 5
+			set_country_flag = valpariasoharbor_built
+		}
+	}
+	
+}

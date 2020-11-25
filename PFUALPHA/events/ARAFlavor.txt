@@ -1,0 +1,572 @@
+#########################################################
+#														#
+#      			   Arabia Events						#
+#														#
+#########################################################
+
+country_event = {
+
+	id = 96100
+	title = "EVTNAME96100" #The Arab Revolt
+	desc = "EVTDESC96100"
+	picture = "arab_revolt"
+
+	trigger = {	exists = yes
+		civilized = yes
+		OR = {
+			revolution_n_counterrevolution = 1
+			any_neighbor_country = { has_country_flag = arab_revolt }
+			AND = {
+				tag = TUR
+				NOT = {
+					government = hms_government
+					government = prussian_constitutionalism
+					government = absolute_monarchy
+				}
+			}
+		}
+		OR = {
+			year = 1900
+			AND = {
+				tag = TUR
+				NOT = {
+					government = hms_government
+					government = prussian_constitutionalism
+					government = absolute_monarchy
+				}
+			}
+		}
+		NOT = {
+			AND = {
+				tag = TUR
+				OR = {
+					government = hms_government
+					government = prussian_constitutionalism
+					government = absolute_monarchy
+				}
+				has_country_modifier = ottomanism_reform
+				minorities_reform = protected
+				citizenship_policy = full_citizenship
+			}
+			is_culture_group = arabic
+			is_culture_group = iranian_turanian
+			has_country_flag = arab_revolt
+			has_country_flag = arab_revolt_ended
+			has_country_flag = friend_of_the_arabs
+			has_country_flag = ottoman_islamic_caliphate
+			tag = ISR
+		}
+		any_owned_province = {
+			any_core = {
+			primary_culture = bedouin
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 100
+		modifier = {
+			factor = 0.1
+			tag = TUR
+			NOT = {
+				government = hms_government
+				government = prussian_constitutionalism
+				government = absolute_monarchy
+			}
+		}
+		modifier = {
+			factor = 0.1
+			has_global_flag = arab_revolt_has_begun
+		}
+		modifier = {
+			factor = 0.5
+			any_neighbor_country = { has_country_flag = arab_revolt }
+		}
+		modifier = {
+			factor = 0.8
+			invention = separatism
+		}
+		modifier = {
+			factor = 0.75
+			minorities_reform = oppression
+		}
+		modifier = {
+			factor = 1.25
+			minorities_reform = limited
+		}
+		modifier = {
+			factor = 2
+			minorities_reform = protected
+		}
+		modifier = {
+			factor = 0.75
+			citizenship_policy = residency
+		}
+		modifier = {
+			factor = 1.25
+			citizenship_policy = limited_citizenship
+		}
+		modifier = {
+			factor = 1.5
+			citizenship_policy = full_citizenship
+		}		
+		modifier = {
+			factor = 0.9
+			any_owned_province = {
+				culture = bedouin
+				average_militancy = 4
+			}
+		}
+		modifier = {
+			factor = 0.9
+			any_owned_province = {
+				culture = bedouin
+				average_militancy = 5
+			}
+		}
+		modifier = {
+			factor = 0.9
+			any_owned_province = {
+				culture = bedouin
+				average_militancy = 6
+			}
+		}
+	}
+
+	option = {
+		name = "Put them down."
+		set_country_flag = arab_revolt
+		set_global_flag = arab_revolt_has_begun
+		random_owned = {
+			limit = {
+				owner = { accepted_culture = bedouin }
+			}
+			owner = { remove_accepted_culture = bedouin }
+		}
+		any_pop = { 
+			limit = {
+				has_pop_culture = bedouin
+				location = {
+					any_core = { primary_culture = bedouin }
+				}
+			}
+			militancy = 10
+		}
+		any_owned = {
+			limit = {
+				any_core = {
+				primary_culture = bedouin
+				}
+			}
+			add_province_modifier = {
+				name = nationalist_agitation
+				duration = 1825
+			}
+		}
+		ai_chance = {
+			factor = 75
+			modifier = {
+				factor = 0.5
+				war_policy = pacifism
+			}
+			modifier = {
+				factor = 0.75
+				war_policy = anti_military
+			}
+		}
+	}
+
+	option = {
+		name = "Perhaps self-governance will make them happy?"
+		set_country_flag = arab_revolt
+		set_global_flag = arab_revolt_has_begun
+		prestige = -10
+		any_country = {
+			limit = {
+				any_core = { owned_by = THIS }
+				exists = no
+				primary_culture = bedouin
+			}
+			country_event = 96101
+		}
+		any_pop = { 
+			limit = {
+				has_pop_culture = bedouin
+				location = {
+					any_core = { primary_culture = bedouin }
+				}
+			}
+			militancy = 4
+		}
+		any_owned = {
+			limit = {
+				any_core = {
+				primary_culture = bedouin
+				}
+			}
+			add_province_modifier = {
+				name = nationalist_agitation
+				duration = 1095
+			}
+		}
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0.25
+				tag = TUR
+			}
+			modifier = {
+				factor = 2
+				OR = {
+					government = democracy
+					government = hms_government
+				}
+			}
+			modifier = {
+				factor = 2
+				war_policy = pacifism
+			}
+			modifier = {
+				factor = 1.5
+				war_policy = anti_military
+			}
+			modifier = {
+				factor = 0.25
+				war_policy = jingoism
+			}
+		}			
+	}
+}
+
+country_event = {
+
+	id = 96101
+	title = "EVTNAME96101" #Self-Rule Granted
+	desc = "EVTDESC96101"
+	picture = "arab_revolt"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "They think this will make us happy?"
+		random_country = {
+			limit = { tag = FROM }
+			release_vassal = THIS
+		}
+	}
+}
+
+country_event = {
+		
+	id = 96102
+	title = "EVTNAME96100" #Arab Revolt (for vassals)
+	desc = "EVTDESC96102"
+	picture = "arab_revolt"
+
+	trigger = {	exists = yes
+		is_vassal = yes
+		is_culture_group = arabic
+		NOT = { has_country_flag = arab_revolt }
+		any_neighbor_country = {
+			has_country_flag = arab_revolt
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 12
+	}
+
+	option = {
+		name = "We shall see."
+		set_country_flag = arab_revolt
+		any_pop = { 
+			limit = { is_culture_group = arabic }
+			militancy = 6
+		}
+		any_owned = {
+			add_province_modifier = {
+				name = nationalist_agitation
+				duration = 1095
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 96105
+	title = "EVTNAME96105" #End of the Arab Revolt
+	desc = "EVTDESC96105"
+	picture = "arab_revolt"
+	
+	trigger = {	exists = yes
+		has_country_flag = arab_revolt
+		NOT = {
+			has_country_flag = arab_revolt_ended
+			is_vassal = yes
+			num_of_revolts = 1
+			any_owned_province = {
+				has_province_modifier = nationalist_agitation
+				any_core = {
+				primary_culture = bedouin
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 24
+		modifier = {
+			factor = 0.5
+			NOT = { average_militancy = 1 }
+		}
+		modifier = {
+			factor = 1.2
+			average_militancy = 3
+		}
+		modifier = {
+			factor = 1.2
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 1.2
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 2
+			minorities_reform = oppression
+		}
+		modifier = {
+			factor = 0.75
+			minorities_reform = protected
+		}
+		modifier = {
+			factor = 1.5
+			citizenship_policy = residency
+		}
+		modifier = {
+			factor = 0.9
+			citizenship_policy = full_citizenship
+		}
+		modifier = {
+			factor = 0.75
+			invention = secret_police
+		}
+		modifier = {
+			factor = 0.9
+			year = 1910
+		}
+		modifier = {
+			factor = 0.9
+			year = 1915
+		}
+		modifier = {
+			factor = 0.8
+			year = 1920
+		}
+		modifier = {
+			factor = 0.5
+			year = 1925
+		}
+	}
+	
+	option = {
+		name = "Excellent news!"
+		set_country_flag = arab_revolt_ended
+		any_pop = {
+			limit = { is_culture_group = arabic }
+			militancy = -4
+			consciousness = 4
+		}
+	}
+}
+	
+
+province_event = {
+	id = 96106
+	title = "EVTNAME96106" #Arab Uprising in $PROVINCENAME$
+	desc = "EVTDESC96106"
+	
+	trigger = {
+		owner = {
+			has_country_flag = arab_revolt
+			NOT = {
+				is_culture_group = arabic
+				is_culture_group = iranian_turanian
+			}
+		}
+		controlled_by = THIS
+		NOT = { has_province_modifier = nationalist_agitation }
+		any_core = {
+		primary_culture = bedouin
+		}
+		culture = bedouin
+	}
+	
+	mean_time_to_happen = {
+		months = 100
+		modifier = {
+			factor = 0.5
+			owner = {
+				NOT = { is_culture_group = arabic }
+			}
+		}
+		modifier = {
+			factor = 1.5
+			NOT = { average_militancy = 1 }
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 3
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.5
+			any_neighbor_province = { has_province_modifier = nationalist_agitation }
+		}
+		modifier = {
+			factor = 0.5
+			owner = { minorities_reform = oppression }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { minorities_reform = protected }
+		}
+		modifier = {
+			factor = 0.75
+			owner = { citizenship_policy = residency }
+		}
+		modifier = {
+			factor = 1.25
+			owner = { citizenship_policy = full_citizenship }
+		}
+		modifier = {
+			factor = 1.25
+			owner = { invention = secret_police }
+		}
+		modifier = {
+			factor = 1.2
+			year = 1910
+		}
+		modifier = {
+			factor = 1.2
+			year = 1915
+		}
+		modifier = {
+			factor = 1.2
+			year = 1920
+		}
+		modifier = {
+			factor = 1.5
+			year = 1925
+		}
+	}
+	
+	option = {
+		name = "Reprimand the governor. This cannot get out of hand."
+		owner = { prestige = -3 }
+		add_province_modifier = {
+			name = nationalist_agitation
+			duration = 1095
+		}
+		any_pop = { 
+			limit = { is_culture_group = arabic }
+			militancy = 6
+		}	
+	}
+	
+	option = {
+		name = "Put this down quickly."
+		state_scope = {
+			any_pop = { 
+				limit = { is_culture_group = arabic }
+				militancy = 4
+			}
+			any_owned = {
+				limit = {
+					any_core = {
+					primary_culture = bedouin
+					}
+				}
+				add_province_modifier = {
+					name = nationalist_agitation
+					duration = 365
+				}
+			}
+		}
+	}
+}
+		
+#Arab Union
+country_event = {
+	id = 98725
+	title = "EVTNAME98725" #The Call for Arab Unity
+	desc = "EVTDESC98725"
+	picture = "arab_revolt"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "We will lead the Arab world!"
+		any_country = {
+			limit = {
+				NOT = { tag = THIS }
+				is_culture_group = arabic
+			}
+			all_core = { add_core = ARU }
+		}
+		MOR_1696 = { add_core = ARU }
+		any_country = {
+			limit = {
+				NOT = { is_culture_group = arabic }
+				any_owned_province = { is_core = THIS }
+			}
+			relation = { who = THIS value = -100 }
+			leave_alliance = THIS
+			casus_belli = {
+				target = THIS
+				type = free_peoples
+				months = 60
+			}
+			casus_belli = {
+				target = THIS
+				type = humiliate
+				months = 60
+			}
+			any_owned = {
+				limit = { is_core = THIS }
+				add_province_modifier = {
+					name = nationalist_agitation
+					duration = 1095
+				}
+				any_pop = {
+					limit = { is_culture_group = arabic }
+					militancy = 5
+				}
+			}
+		}
+		any_country = {
+			limit = {
+				exists = yes
+				ai = yes
+				is_culture_group = arabic
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					AND = {
+						is_vassal = no
+						part_of_sphere = no
+						relation = { who = THIS value = 100 }
+					}
+				}
+			}
+			country_event = 98650
+		}
+	}
+}		

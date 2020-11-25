@@ -1,0 +1,11 @@
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = sulphur
+life_rating = 30
+terrain = mountain_farmland
+1861.1.1 = {
+	owner = PEU
+	controller = PEU
+	remove_core = SPU
+}

@@ -1,0 +1,82 @@
+# Denmark-Schleswig-Holstein
+vassal = {
+	first = DEN
+	second = SWH
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# USA-Liberia
+vassal = {
+	first = USA
+	second = LIB
+	start_date = 1822.1.1
+	end_date = 1847.7.26
+}
+
+# United Kingdom-Hanover
+vassal = {
+	first = ENG
+	second = HAN
+	start_date = 1814.10.1
+	end_date = 1837.1.1
+}
+
+# Russia-Finland
+vassal = {
+	first = RUS
+	second = FIN
+	start_date = 1809.3.29
+	end_date = 1917.12.6
+}
+
+# Dai Nam-Cambodia
+vassal = {
+	first = DAI
+	second = CAM
+	start_date = 1807.1.1
+	end_date = 1863.1.1
+}
+
+# China/tibet.
+vassal = {
+	first = QNG
+	second = TIB
+	start_date = 1815.11.9
+	end_date = 1912.1.1
+}
+
+#China/Korea
+vassal = {
+	first = QNG
+	second = KOR
+	start_date = 1636.1.1
+	end_date = 1876.1.1
+}
+
+#China/Mongolia
+vassal = {
+	first = QNG
+	second = MGL
+	start_date = 1691.1.1
+	end_date = 1911.1.1
+}
+
+#########1861
+# Siam - Cambodia
+vassal = {
+	first = SIA
+	second = CAM
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+
+# UK - KAS
+vassal = {
+	first = ENG
+	second = KAS
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+
+
