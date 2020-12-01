@@ -1652,7 +1652,6 @@ free_peoples = {
 		NOT = {
 			tag = FROM
 			FROM = { tag = THIS }
-			FROM = { tag = MTC }
 			FROM = { tag = ETH }
 			this_culture_union = FROM
 			AND = {
@@ -2000,7 +1999,6 @@ liberate_country = {
 		NOT = {
 			tag = FROM
 			FROM = { tag = THIS }
-			FROM = { tag = MTC }
 			this_culture_union = FROM
 			AND = {
 				FROM = { tag = ETH }

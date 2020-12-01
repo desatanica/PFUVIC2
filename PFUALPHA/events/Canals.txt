@@ -463,17 +463,9 @@ country_event = {
 		name = "Proceed with the negotiations."
 		random_country = {
 			limit = {
-				NOT = { tag = PNM }
 				owns = 1723
 			}
 			country_event = 97390
-		}
-		random_country = {
-			limit = {
-				tag = PNM
-				owns = 1723
-			}
-			country_event = 97394
 		}
 	}
 }

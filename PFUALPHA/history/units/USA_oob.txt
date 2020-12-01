@@ -22,17 +22,7 @@ ECU = {
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
 }
-PEU = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
 BOL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-PBC = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
@@ -42,23 +32,8 @@ CHL = {
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
 }
-PRG = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-CLM = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
 BRZ = {
 	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-URU = {
-	value = 75		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 0
 }
@@ -70,30 +45,6 @@ ENG = {
 FRA = {
 	value = 75
 }
-
-#Other
-TKG = {
-	value = 0
-	level = 3
-	influence_value = 25
-}
-MOR = {
-	value = 200
-}
-QNG ={
-	level = 0
-}
-LIB = {
-	value = 125
-	level = 5
-	influence_value = 0
-}
-EGY = {
-	value = 0		#relation
-	level = 0		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 0
-}
-
 
 leader = {
 	name = "Winfield Scott"
@@ -175,10 +126,6 @@ leader = {
 	background = war_college
 	prestige = 0.1
 }
-
-
-
-
 
 
 army = {

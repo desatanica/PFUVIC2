@@ -1,7 +1,7 @@
 owner = ENG
 controller = ENG
 add_core = RPL
-add_core = MTC
+
 trade_goods = grain
 life_rating = 30
 terrain = boreal_forest

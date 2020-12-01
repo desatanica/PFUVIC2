@@ -7,18 +7,10 @@ REB 	= 	"countries/rebels.txt"
 
 #Latin America
 
-ENT		= "countries/Entre Rios.txt"
+
 GCO		= "countries/Gran Colombia.txt"
 GUY		= "countries/Guyana.txt"
-LOS		= "countries/Los Altos.txt"
-LPL		= "countries/La Plata.txt"
-PBC		= "countries/Peru-Bolivia Confederation.txt"
-PTG		= "countries/Patagonia.txt"
-RGR		= "countries/Rio Grande.txt"
-RGS		= "countries/Rio Grande do Sul.txt"
-SON		= "countries/Sonora.txt"
-SPU		= "countries/South Peru.txt"
-YUC		= "countries/Yucatan.txt"
+
 
 #North America
 DAK		= "countries/Dakota.txt"
@@ -428,24 +420,15 @@ XIN		="countries/Xinjiang.txt"
 # North America
 CAL		="countries/Californian Republic.txt"
 CAN		="countries/Canada.txt"
-CHE		="countries/Cherokee.txt"
 COL		="countries/Columbia.txt"
-COS		="countries/Costa Rica.txt"
 CSA		="countries/CSA.txt"
 CUB		="countries/Cuba.txt"
-DES		="countries/Deseret.txt"
-DOM		="countries/Dominican Republic.txt"
-ELS		="countries/El Salvador.txt"
-GUA		="countries/Guatemala.txt"
 HAI		="countries/Haiti.txt"
 HAW		="countries/Hawaii.txt"
 MEX		="countries/Mexico.txt"
-MTC		="countries/Metis Confederacy.txt"
-HON		="countries/Honduras.txt"
 NEN		="countries/New England.txt"
 NEW		="countries/Newfoundland.txt"
-NIC		="countries/Nicaragua.txt"
-PNM		="countries/Panama.txt"
+
 QUE		="countries/Quebec.txt"
 TEX		="countries/Texas.txt"
 UCA		="countries/United States of Central America.txt"
@@ -461,7 +444,6 @@ PEU		="countries/Peru.txt"
 PRG		="countries/Paraguay.txt"
 URU		="countries/Uruguay.txt"
 VNZ		="countries/Venezuela.txt"
-CHP		="countries/Chiapas.txt"
 USS		="countries/United States of South America.txt"
 
 # Australasia
@@ -471,9 +453,6 @@ NZL		="countries/New Zealand.txt"
 
 #new for 1.2
 ISR		="countries/Israel.txt"
-BYZ		="countries/Byzantium.txt"
-ICL		="countries/Iceland.txt"
-BAB		="countries/Babylonia.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
@@ -490,9 +469,6 @@ SPA		= "countries/Spain.txt"
 TUR		= "countries/Ottoman Empire.txt"
 CHI		= "countries/China.txt"
 QNG		= "countries/Qing China.txt"
-
-# Civil War Nations
-XXA		= "countries/Civil War France.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

@@ -4,8 +4,4 @@ add_core = PEU
 trade_goods = fish
 life_rating = 35
 terrain = desert_hills
-1861.1.1 = {
-	owner = PEU
-	controller = PEU
-	remove_core = SPU
-}
+

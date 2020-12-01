@@ -1339,13 +1339,6 @@ country_event = {
 				reduce_pop = 0.25
 			}
 		}
-		MEX_94 = { add_core = DES }
-		MEX_97 = { add_core = DES }
-		88 = { add_core = DES }
-		89 = { add_core = DES }
-		90 = { add_core = DES }
-		100 = { add_core = DES }
-		101 = { add_core = DES }
 	}
 }
 

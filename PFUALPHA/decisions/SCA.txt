@@ -169,10 +169,6 @@ political_decisions = {
 					DEN = { has_country_modifier = kalmar_union }
 				}
 				AND = {
-					NOT = { tag = ICL }
-					ICL = { has_country_modifier = kalmar_union }
-				}
-				AND = {
 					NOT = { tag = FIN }
 					FIN = { has_country_modifier = kalmar_union }
 				}
@@ -229,10 +225,6 @@ political_decisions = {
 					DEN = { has_country_modifier = kalmar_union }
 				}
 				AND = {
-					NOT = { tag = ICL }
-					ICL = { has_country_modifier = kalmar_union }
-				}
-				AND = {
 					NOT = { tag = FIN }
 					FIN = { has_country_modifier = kalmar_union }
 				}
@@ -287,10 +279,6 @@ political_decisions = {
 					is_greater_power = no
 				}
 				SWE = { 
-					has_country_modifier = leader_of_kalmar	
-					is_greater_power = no
-				}
-				ICL = { 
 					has_country_modifier = leader_of_kalmar	
 					is_greater_power = no
 				}
