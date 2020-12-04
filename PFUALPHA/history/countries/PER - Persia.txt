@@ -76,38 +76,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "PER_oob.txt"
-1861.1.1 = {
-	oob = "/1861/PER_oob.txt"
-}
-1861.1.1 = {
-
-foreign_training = yes_foreign_training
-foreign_weapons = yes_foreign_weapons
-army_schools = yes_army_schools
-land_reform = yes_land_reform
-admin_reform = yes_admin_reform
-finance_reform = yes_finance_reform
-education_reform = yes_education_reform
-academic_institutions = universities
-medicine_reform = alchemy
-taxation_reform = tax_farmers
-diplomatic_reform = interactive
-
-# Technologies
-military_staff_system = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-freedom_of_trade = 1
-enlightenment_thought = 1
-no_standard = 1
-ad_hoc_money_bill_printing = 1
-malthusian_thought = 1
-late_enlightenment_philosophy = 1
-idealism = 1
-basic_chemistry = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

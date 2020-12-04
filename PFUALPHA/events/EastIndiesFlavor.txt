@@ -157,7 +157,6 @@ country_event = {
 					tag = ATJ
 					tag = SAK
 					tag = SLW
-					tag = BAL
 					tag = KTI
 					tag = KLM
 				}
@@ -185,7 +184,6 @@ country_event = {
 					tag = ATJ
 					tag = SAK
 					tag = SLW
-					tag = BAL
 					tag = KTI
 					tag = KLM
 				}
@@ -213,7 +211,6 @@ country_event = {
 					tag = ATJ
 					tag = SAK
 					tag = SLW
-					tag = BAL
 					tag = KTI
 					tag = KLM
 				}
@@ -252,7 +249,6 @@ country_event = {
 					tag = ATJ
 					tag = SAK
 					tag = SLW
-					tag = BAL
 					tag = KTI
 					tag = KLM
 				}
@@ -553,17 +549,6 @@ country_event = {
 			owner = {
 				change_tag = CHK
 				clr_country_flag = Champasak
-			}
-		}
-		random_owned = {
-			limit = {
-				owner = {
-					has_country_flag = Wiangchhan
-				}
-			}
-			owner = {
-				change_tag = WIA
-				clr_country_flag = Wiangchhan
 			}
 		}		
 	}

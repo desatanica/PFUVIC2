@@ -80,6 +80,3 @@ nonstate_consciousness = 0
 schools = industrial_tech_school
 
 oob = "FIN_oob.txt"
-1861.1.1 = {
-	oob = "/1861/FIN_oob.txt"
-}

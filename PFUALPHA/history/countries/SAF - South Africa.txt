@@ -46,8 +46,3 @@ upper_house = {
 
 set_country_flag = post_colonial_country
 
-1861.1.1 = {
-# Technologies
-
-#Inventions
-}

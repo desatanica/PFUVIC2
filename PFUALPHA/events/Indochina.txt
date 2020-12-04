@@ -437,7 +437,6 @@ country_event = {
 							is_core = DAI
 							is_core = CAM
 							is_core = LUA
-							is_core = WIA
 							is_core = CHK
 						}
 					}
@@ -455,7 +454,6 @@ country_event = {
 			casus_belli = DAI
 			casus_belli = CAM
 			casus_belli = LUA
-			casus_belli = WIA
 			casus_belli = CHK
 			casus_belli = LXA
 			casus_belli = SIA
@@ -490,7 +488,6 @@ country_event = {
 								is_core = DAI
 								is_core = CAM
 								is_core = LUA
-								is_core = WIA
 								is_core = CHK
 							}
 						}
@@ -528,7 +525,6 @@ country_event = {
 								is_core = DAI
 								is_core = CAM
 								is_core = LUA
-								is_core = WIA
 								is_core = CHK
 							}
 						}
@@ -602,7 +598,6 @@ country_event = {
 								is_core = DAI
 								is_core = CAM
 								is_core = LUA
-								is_core = WIA
 								is_core = CHK
 							}
 						}
@@ -656,11 +651,6 @@ country_event = {
 			limit = { is_core = LUA }
 			remove_core = SIA
 			secede_province = LUA
-		}
-		any_owned = {
-			limit = { is_core = WIA }
-			remove_core = SIA
-			secede_province = WIA
 		}
 		any_owned = {
 			limit = { is_core = CHK }
@@ -767,7 +757,6 @@ country_event = {
 		relation = { who = SIA value = 200 }
 		diplomatic_influence = { who = SIA value = 100 }
 		diplomatic_influence = { who = LUA value = 200 }
-		diplomatic_influence = { who = WIA value = 200 }
 		diplomatic_influence = { who = CHK value = 200 }			
 	}
 }

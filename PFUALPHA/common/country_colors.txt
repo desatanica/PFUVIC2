@@ -137,13 +137,6 @@ TUR = {
 }
 
 
-# Connacht
-CNN = {
-    color1= { 255 255 255  }
-    color2= { 80 79 88  }
-    color3= { 134 166 117  }
-}
-
 # United Kingdom
 ENG = {
     color1= { 193 26 14  }
@@ -163,13 +156,6 @@ ION = {
     color1= { 69 80 169  }
     color2= { 248 199 67  }
     color3= { 131 101 85  }
-}
-
-# Scotland
-SCO = {
-    color1= { 199 175 12  }
-    color2= { 202 112 85  }
-    color3= { 104 137 140  }
 }
 
 # Brazil
@@ -489,13 +475,6 @@ ITA = {
     color3= { 80 79 88  }
 }
 
-# Manhattan Commune
-MAN = {
-    color1= { 191 83 101  }
-    color2= { 126 203 120  }
-    color3= { 99 137 153  }
-}
-
 # Modena
 MOD = {
     color1= { 241 252 151  }
@@ -529,13 +508,6 @@ SIC = {
     color1= { 134 224 126  }
     color2= { 255 255 255  }
     color3= { 131 101 85  }
-}
-
-# Siebenbürgen
-SIE = {
-    color1= { 75 111 205  }
-    color2= { 124 140 162  }
-    color3= { 117 127 174  }
 }
 
 # Tuscany FIXED 
@@ -771,13 +743,6 @@ PER = {
     color3= { 83 149 105  }
 }
 
-# Cherokee
-CHE = {
-    color1= { 105 145 40  }
-    color2= { 197 92 106  }
-    color3= { 199 175 12  }
-}
-
 # Siam FIXED
 SIA = {
     color1= { 244 56 49  }
@@ -806,12 +771,6 @@ ATJ = {
     color3= { 80 79 88  }
 }
 
-# Bali FIXED
-BAL = {
-    color1= { 69 80 169  }
-    color2= { 255 255 255  }
-    color3= { 193 26 14  }
-}
 
 # Brunei FIXED
 BRU = {
@@ -862,12 +821,7 @@ LUA = {
     color3= { 48 164 51  }
 }
 
-# Panjab
-PAN = {
-    color1= { 229 165 69  }
-    color2= { 100 100 100  }
-    color3= { 166 189 199  }
-}
+
 
 # Tibet FIXED
 TIB = {
@@ -911,12 +865,7 @@ BHU = {
     color3= { 183 176 194  }
 }
 
-# Bijapur
-BIJ = {
-    color1= { 40 121 66  }
-    color2= { 202 112 85  }
-    color3= { 193 26 14  }
-}
+
 
 # Bundelkhand FIXED
 BUN = {

@@ -54,13 +54,4 @@ classicism_n_early_romanticism = 1
 consciousness = 0
 nonstate_consciousness = 0
 
-1861.1.1 = {
 
-diplomatic_reform = interactive
-
-# Technologies
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

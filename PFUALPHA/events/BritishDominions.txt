@@ -224,9 +224,6 @@ country_event = {
 			limit = { location = { is_core = NZL } }
 			militancy = -10
 		}
-		AOT = {
-			all_core = { remove_core = AOT }
-		}
 		NZL = {
 			set_country_flag = post_colonial_country
 			all_core = { remove_core = ENG }

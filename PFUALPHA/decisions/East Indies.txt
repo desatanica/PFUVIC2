@@ -12,7 +12,6 @@ political_decisions = {
 				tag = SLW
 				tag = SAK
 				tag = JAV
-				tag = BAL
 				tag = ATJ
 				tag = JOH
 				tag = SWK
@@ -124,25 +123,6 @@ political_decisions = {
 					}
 				}
 			}
-			OR = {
-				tag = BAL
-				AND = {
-					exists = BAL
-					BAL = { war = no }
-					relation = {
-						who = BAL
-						value = 50
-					}
-				}
-				BAL = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = { in_sphere = THIS }
-						}
-					}
-				}
-			}
 		}
 
 		effect = {
@@ -165,7 +145,6 @@ political_decisions = {
 			SLW = { all_core = { add_core = INO } }
 			SAK = { all_core = { add_core = INO } }
 			JAV = { all_core = { add_core = INO } }
-			BAL = { all_core = { add_core = INO } }
 			ATJ = { all_core = { add_core = INO } }
 			1452 = { add_core = INO }
 			1453 = { add_core = INO }
@@ -182,7 +161,6 @@ political_decisions = {
 						tag = SLW
 						tag = SAK
 						tag = JAV
-						tag = BAL
 						tag = ATJ
 					}
 					NOT = { tag = THIS }
@@ -562,14 +540,6 @@ political_decisions = {
 					set_country_flag = Champasak
 				}
 			}
-			random_owned = {
-				limit = {
-					owner = { tag = WIA }
-				}
-				owner = {
-					set_country_flag = Wiangchhan
-				}
-			}
 			LUA_1356 = { add_core = LXA }
 			1358 = { add_core = LXA }
 			1359 = { add_core = LXA }						
@@ -722,21 +692,6 @@ political_decisions = {
 						vassal_of = FRA
 					}
 				}
-				WIA = {
-					NOT = { has_country_flag = annexed_to_FRA }
-					neighbour = THIS
-					civilized = no
-					ai = yes
-					war = no
-					OR = {
-						part_of_sphere = no
-						in_sphere = FRA
-					}
-					OR = {
-						is_vassal = no
-						vassal_of = FRA
-					}
-				}
 				CHK = {
 					NOT = { has_country_flag = annexed_to_FRA }
 					neighbour = THIS
@@ -798,7 +753,6 @@ political_decisions = {
 						is_core = DAI
 						is_core = CAM
 						is_core = LUA
-						is_core = WIA
 						is_core = CHK
 					}
 				}
@@ -870,7 +824,6 @@ political_decisions = {
 			civilized = yes
 			NOT = {
 				exists = LUA
-				exists = WIA
 				exists = CHK
 				exists = LXA
 				has_global_flag = laos_organized
@@ -897,12 +850,6 @@ political_decisions = {
 				all_core = {
 					add_core = LXA
 					remove_core = LUA
-				}
-			}
-			WIA = {
-				all_core = {
-					add_core = LXA
-					remove_core = WIA
 				}
 			}
 			CHK = {

@@ -59,18 +59,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "GBU_oob.txt"
-1861.1.1 = {
-	oob = "/1861/GBU_oob.txt"
-}
-1861.1.1 = {
-
-foreign_weapons = yes_foreign_weapons
-diplomatic_reform = interactive
-
-# Technologies
-flintlock_rifles = 1
-classicism_n_early_romanticism = 1
-
-# Inventions
-
-}

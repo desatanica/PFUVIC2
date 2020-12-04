@@ -1114,10 +1114,6 @@ country_event = {
 	
 	option = {
 		name = "Great!"   
-		250 = {
-			add_core = USA
-			add_core = NEN
-		}
 		relation = {
 			who = ENG
 			value = 100
@@ -1553,7 +1549,6 @@ country_event = {
 				owned_by = USA
 				owned_by = ENG
 				owned_by = CAN
-				owned_by = RPL
 			}
 		}
 		NOT = { war_with = ENG }
@@ -1664,15 +1659,12 @@ country_event = {
 		CAN_13 = { add_core = ENG }
 		ENG_22 = { add_core = ENG }
 		USA_78 = {
-			remove_core = COL
 			remove_core = ENG
 		}
 		USA_81 = {
-			remove_core = COL
 			remove_core = ENG
 		}
 		USA_91 = {
-			remove_core = COL
 			remove_core = ENG
 		}
 		any_owned = {
@@ -1717,7 +1709,7 @@ country_event = {
 		ENG_22 = { add_core = ENG }
 		78 = {
 			add_core = ENG
-			add_core = COL
+			add_core = CAN
 		}
 		ai_chance = {
 			factor = 5
@@ -1932,15 +1924,15 @@ country_event = {
 		ENG_22 = { add_core = ENG }
 		USA_78 = {
 			add_core = ENG
-			add_core = COL
+			add_core = CAN
 		}
 		USA_81 = {
 			add_core = ENG
-			add_core = COL
+			add_core = CAN
 		}
 		USA_91 = {
 			add_core = ENG
-			add_core = COL
+			add_core = CAN
 		}
 		ai_chance = {
 			factor = 75

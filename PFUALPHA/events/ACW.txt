@@ -241,7 +241,6 @@ country_event = {
 		OR = {
 			tag = USA
 			tag = CSA
-			tag = FSA
 		}
 		has_global_flag = american_civil_war_has_happened
 		war = no

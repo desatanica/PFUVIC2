@@ -59,18 +59,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "MOS_oob.txt"
-1861.1.1 = {
-	oob = "/1861/MOS_oob.txt"
-}
-1861.1.1 = {
-
-foreign_weapons = yes_foreign_weapons
-diplomatic_reform = interactive
-
-# Technologies
-flintlock_rifles = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

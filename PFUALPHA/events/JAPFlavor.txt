@@ -25,20 +25,6 @@ country_event = {
 		name = "To resist the westerners, we must learn their ways."
 		set_country_flag = rangaku_applied
 		random_owned = {
-			limit = {
-				owner = { tag = SAT }
-			}
-			owner = {		
-				add_country_modifier = {
-					name = visionary_thinker
-					duration = -1
-				}
-			}
-		}
-		random_owned = {
-			limit = {
-				owner = { NOT = { tag = SAT } }
-			}
 			owner = {		
 				add_country_modifier = {
 					name = military_man

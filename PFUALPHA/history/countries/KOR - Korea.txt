@@ -62,22 +62,4 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "KOR_oob.txt"
-1861.1.1 = {
-	oob = "/1861/KOR_oob.txt"
-}
-1861.1.1 = {
 
-foreign_weapons = yes_foreign_weapons
-admin_reform = yes_admin_reform
-academic_institutions = madrasahs
-taxation_reform = tax_inspectors
-
-# Technologies
-flintlock_rifles = 1
-enlightenment_thought = 1
-late_enlightenment_philosophy = 1
-private_banks = 1
-
-# Inventions
-
-}

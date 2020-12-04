@@ -66,20 +66,3 @@ govt_flag = {
 	government = absolute_monarchy
 	flag = fascist_dictatorship
 }
-
-1861.1.1 = {
-
-foreign_weapons = yes_foreign_weapons
-academic_institutions = madrasahs
-taxation_reform = tax_farmers
-diplomatic_reform = interactive
-
-# Technologies
-flintlock_rifles = 1
-late_enlightenment_philosophy = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

@@ -1190,9 +1190,8 @@ political_decisions = {
 		
 		effect = {
 			250 = {
-				remove_core = ENG
-				remove_core = MRU
 				remove_core = CAN
+				add_core = USA
 				secede_province = USA
 			}
 			badboy = -2

@@ -63,24 +63,3 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "ASH_oob.txt"
-1861.1.1 = {
-	oob = "/1861/ASH_oob.txt"
-}
-1861.1.1 = {
-
-admin_reform = yes_admin_reform
-foreign_training = yes_foreign_training
-foreign_weapons = yes_foreign_weapons
-taxation_reform = tax_farmers
-diplomatic_reform = interactive
-
-# Technologies
-enlightenment_thought = 1
-military_staff_system = 1
-flintlock_rifles = 1
-private_banks = 1
-early_classical_theory_and_critique = 1
-
-# Inventions
-
-}

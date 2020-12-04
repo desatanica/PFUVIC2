@@ -758,7 +758,6 @@ restore_america = {
 			OR = {
 				is_core = USA
 				is_core = CSA
-				is_core = FSA
 			}
 		}
 		NOT = { in_sphere = THIS }
@@ -775,7 +774,6 @@ restore_america = {
 			OR = {
 				is_core = USA
 				is_core = CSA
-				is_core = FSA
 			}
 		}
 	}
@@ -1658,10 +1656,6 @@ free_peoples = {
 				FROM = { tag = ETH }
 				ETH = { exists = no }
 			}
-			AND = {
-				FROM = { tag = BOL }
-				exists = PBC
-			}
 		}
 		FROM = {
 			OR = {
@@ -2003,10 +1997,6 @@ liberate_country = {
 			AND = {
 				FROM = { tag = ETH }
 				NOT = { exists = ETH }
-			}
-			AND = {
-				FROM = { tag = BOL }
-				exists = PBC
 			}
 		}
 		OR = {

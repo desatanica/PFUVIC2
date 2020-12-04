@@ -13,18 +13,10 @@ GUY		= "countries/Guyana.txt"
 
 
 #North America
-DAK		= "countries/Dakota.txt"
-FSA		= "countries/Free States of America.txt"
 JAM		= "countries/Jamaica.txt"
 LSK		= "countries/Alaska.txt"
-MRU		= "countries/Maritime Union.txt"
 PRI		= "countries/PuertoRico.txt"
-RPL		= "countries/Rupert's Land.txt"
-TTB		= "countries/Trinidad.txt"
-UIL		= "countries/Illinois.txt"
-UNB		= "countries/Nebraska.txt"
-UNM		= "countries/New Mexico.txt"
-UOR		= "countries/Oregon.txt"
+
 
 #Europe
 ALS		= "countries/Elsass.txt"
@@ -40,14 +32,13 @@ GLM		= "countries/Galicia-Lodomeria.txt"
 IBR		= "countries/Iberia.txt"
 MCD		= "countries/Macedonia.txt"
 MLT		= "countries/Malta.txt"
-OCC     = "countries/Occitania.txt"
+
 RMG		= "countries/Romagna.txt"
 SPC		= "countries/Carlist Spain.txt"
 SRD		= "countries/Sardinia.txt"
 SVY		= "countries/Savoy.txt"
 SWH		= "countries/Schleswig-Holstein.txt"
 SYL		= "countries/Transylvania.txt"
-WHA     = "countries/Wales.txt"
 
 #Germany
 LUZ     = "countries/Luzica.txt"
@@ -188,14 +179,7 @@ ZAM		= "countries/Zambia.txt"
 
 #Japan
 AIN		= "countries/Ainu.txt"
-CHO		= "countries/Choshu.txt"
-KAG		= "countries/Kaga.txt"
-RYU		= "countries/Ryukyu.txt"
-SAT		= "countries/Satsuma.txt"
-SEN		= "countries/Sendai.txt"
-TKG		= "countries/Shogunate Japan.txt"
-TOS		= "countries/Tosa.txt"
-YZW		= "countries/Yonezawa.txt"
+
 
 # Eastern Asia
 BIM		= "countries/Bima.txt"
@@ -223,10 +207,6 @@ TAI		= "countries/Taiwan.txt"
 TPG		= "countries/Taiping.txt"
 
 # Australasia & the Pacific
-AOT     = "countries/Aotearoa.txt"
-FIJ		= "countries/Fiji.txt"
-SNZ     = "countries/South Island.txt"
-TGA		= "countries/Tonga.txt"
 
 # New for 2.3
 PLC		= "countries/Poland-Lithuania.txt"
@@ -249,7 +229,6 @@ FLA		= "countries/Flanders.txt"
 IRE		= "countries/Ireland.txt"
 NET		= "countries/Netherlands.txt"
 POR		= "countries/Portugal.txt"
-SCO		= "countries/Scotland.txt"
 WLL		= "countries/Wallonia.txt"
 
 # Germany
@@ -392,7 +371,6 @@ TRA		="countries/Travancore.txt"
 
 # Eastern Asia
 ATJ		="countries/Atjeh.txt"
-BAL		="countries/Bali.txt"
 BHU		="countries/Bhutan.txt"
 BRU		="countries/Brunei.txt"
 BUR		="countries/Burma.txt"
@@ -408,7 +386,7 @@ JOH		="countries/Johore.txt"
 SIA		="countries/Siam.txt"
 TIB		="countries/Tibet.txt"
 MGL		="countries/Mongolia.txt"
-WIA		="countries/Wiang Chhan.txt"
+
 PHL		="countries/Philippines.txt"
 MCK		="countries/Manchukuo.txt"
 GXI		="countries/Guangxi Clique.txt"
@@ -420,14 +398,11 @@ XIN		="countries/Xinjiang.txt"
 # North America
 CAL		="countries/Californian Republic.txt"
 CAN		="countries/Canada.txt"
-COL		="countries/Columbia.txt"
 CSA		="countries/CSA.txt"
 CUB		="countries/Cuba.txt"
 HAI		="countries/Haiti.txt"
 HAW		="countries/Hawaii.txt"
 MEX		="countries/Mexico.txt"
-NEN		="countries/New England.txt"
-NEW		="countries/Newfoundland.txt"
 
 QUE		="countries/Quebec.txt"
 TEX		="countries/Texas.txt"

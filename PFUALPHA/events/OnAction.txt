@@ -67,7 +67,6 @@ country_event = {
 						province_id = 159 #Wisconsin
 						province_id = 110 #Wyoming
 						is_core = CAN
-						is_core = COL
 					}
 				}
 			}

@@ -59,27 +59,3 @@ freedom_of_trade = 1
 classicism_n_early_romanticism = 1
 
 # Inventions
-
-1861.1.1 = {
-
-diplomatic_reform = interactive
-foreign_weapons = yes_foreign_weapons
-foreign_officers = yes_foreign_officers
-army_schools = yes_army_schools
-admin_reform = yes_admin_reform
-finance_reform = yes_finance_reform
-academic_institutions = madrasahs
-taxation_reform = tax_farmers
-
-# Technologies
-flintlock_rifles = 1
-army_command_principle = 1
-bronze_muzzle_loaded_artillery = 1
-enlightenment_thought = 1
-no_standard = 1
-late_enlightenment_philosophy = 1
-early_classical_theory_and_critique = 1
-private_banks = 1
-
-# Inventions
-}

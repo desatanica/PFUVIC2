@@ -7,9 +7,6 @@ KOR = {
 RUS = {
 	value = 75
 }
-RYU = {
-	value = 125
-}
 PNJ = {
 	value = 50
 }

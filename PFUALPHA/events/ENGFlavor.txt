@@ -1321,17 +1321,11 @@ country_event = {
 	news_desc_short = "EVTDESC36929_NEWS_SHORT"
 
 	trigger = {
-		OR = {
-			tag = ENG
-			tag = ENL
-		}
+		tag = ENG
 		year = 1879
 		owns = 270
 		owns = 269
-		NOT = {
-			exists = SCO
-			year = 1882
-		}
+		NOT = { year = 1882 }
 	}
 	
 	fire_only_once = yes
@@ -1867,8 +1861,6 @@ country_event = {
 	option = {
 		name = "EVTOPTA36941"
 		set_country_flag = flagstaff_war
-		ENG_2509 = { add_core = AOT }
-		ENG_2513 = { add_core = AOT }
 		any_owned = {
 			limit = {
 				OR = {
@@ -2212,14 +2204,6 @@ country_event = {
 			}
 			leave_alliance = THIS
 			THIS = { diplomatic_influence = { who = SLW value = -200 } }
-		}
-		random_country = {
-			limit = {
-				tag = BAL
-				exists = yes
-			}
-			leave_alliance = THIS
-			THIS = { diplomatic_influence = { who = BAL value = -200 } }
 		}
 		random_country = {
 			limit = {
@@ -2779,8 +2763,6 @@ country_event = {
 			ENG_284 = { NOT = { owned_by = ENG } }
 			ENG_280 = { NOT = { owned_by = ENG } }
 			ENG_277 = { NOT = { owned_by = ENG } }
-			exists = SCO
-			exists = WHA
 			AND = {
 				exists = IRE
 				NOT = { year = 1905 }

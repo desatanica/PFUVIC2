@@ -1636,59 +1636,6 @@ country_event = {
 	}
 }
 
-# 555152 - The American Civil War (AACW start)
-country_event = {
-
-	id = 555152
-	title = "EVTNAME555152"
-	desc = "EVTDESC555152"
-	picture = "senate_debate"
-	fire_only_once = yes
-	major = yes
-
-	trigger = {	
-		exists = yes
-		tag = USA
-		has_global_flag = AACW_preparations
-		not = { has_global_flag = american_civil_war_has_happened }
-		NOT = { has_country_modifier = no_more_war }
-		NOT = { has_country_modifier = neutrality }
-	}
-	
-	mean_time_to_happen =  {
-		days = 1
-	}
-	
-	immediately = {
-		USA = {
-			clr_country_modifier = no_more_war
-			clr_country_modifier = neutrality
-		}
-		FSA = {
-			clr_country_modifier = no_more_war
-			clr_country_modifier = neutrality
-		}
-	}
-	
-	option = {
-		name = "EVTOPTA555152"
-		
-		USA = {
-			war = {
-				target = FSA
-				attacker_goal = {
-					casus_belli = civil_war
-				}
-				defender_goal = {
-					casus_belli = status_quo
-				}
-			}
-		}
-		set_global_flag = american_civil_war_has_happened
-		set_global_flag = alt_american_civil_war_has_happened
-	}
-}
-
 # 555153 - The Taiping Rebellion (Taiping start)
 country_event = {
 
