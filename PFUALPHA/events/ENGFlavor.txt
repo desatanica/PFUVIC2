@@ -11,10 +11,7 @@ country_event = {
 
 	
 	trigger = {
-		OR = {
-			tag = ENG
-			tag = ENL
-		}
+		tag = ENG
 		year = 1838
 		OR = {
 			government = absolute_monarchy
@@ -33,12 +30,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA36898"
-		release_vassal = HAN
-		diplomatic_influence = {
-			who = HAN
-			value = -200
-		}
-		prestige = 5
+		prestige = 15
 	}
 }
 
@@ -1582,65 +1574,6 @@ country_event = {
 	}
 }
 
-
-country_event = {
-
-	id = 36937 #sets up COB35000
-
-	trigger = {
-		OR = {
-			tag = ENG
-			tag = ENL
-		}
-		year = 1836
-		exists = COB
-		OR = {
-			war_with = GER
-			war_with = PRU
-			}
-		OR = {
-			government = absolute_monarchy
-			government = prussian_constitutionalism
-			government = hms_government
-			}
-		NOT = {
-			year = 1936
-			has_global_flag = ENGRoyalHouseAnglified
-			}
-		}
- 
-	mean_time_to_happen =  {
-		months = 12
-
-		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1860
-		}
-
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1880
-		}
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1900
-		}
-	}
-
-	title = "EVTNAME36937"
-	desc = "EVTDESC36937"
-	picture = "windsor"
-
-	option = {
-		name = "EVTOPTA36937" 
-		set_global_flag = ENGRoyalHouseAnglified
-		any_pop = {
-			consciousness = 1
-		}
-	}
-}
 
 province_event = {
 

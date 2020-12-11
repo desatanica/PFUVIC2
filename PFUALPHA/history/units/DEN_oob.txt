@@ -7,9 +7,6 @@ SWE = {
 NOR = {
 	value = 150
 }
-SWH = {
-	value = 200
-}
 ENG = {
 	value = 125
 }

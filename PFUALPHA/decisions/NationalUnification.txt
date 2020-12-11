@@ -11,6 +11,7 @@ political_decisions = {
 		allow = {
 			war = no
 			state_n_government = 1
+			year = 1855
 			GER = {
 				all_core = {
 					OR = {
@@ -51,27 +52,7 @@ political_decisions = {
 			}
 			change_tag = NGF
 			
-			FRA_412 = { add_core = GER }
-			
-			HAN = { all_core = { add_core = NGF } annex_to = NGF }
-			SCH = { all_core = { add_core = NGF } annex_to = NGF }
-			SWH = { all_core = { add_core = NGF } annex_to = NGF }
-			LUB = { all_core = { add_core = NGF } annex_to = NGF }
-			HAM = { all_core = { add_core = NGF } annex_to = NGF }
-			MEC = { all_core = { add_core = NGF } annex_to = NGF }
-			BRE = { all_core = { add_core = NGF } annex_to = NGF }
-			OLD = { all_core = { add_core = NGF } annex_to = NGF }
-			BRA = { all_core = { add_core = NGF } annex_to = NGF }
-			ANH = { all_core = { add_core = NGF } annex_to = NGF }
-			SAX = { all_core = { add_core = NGF } annex_to = NGF }
-			WEI = { all_core = { add_core = NGF } annex_to = NGF }
-			COB = { all_core = { add_core = NGF } annex_to = NGF }
-			MEI = { all_core = { add_core = NGF } annex_to = NGF }
-			HES = { all_core = { add_core = NGF } annex_to = NGF }
-			NAS = { all_core = { add_core = NGF } annex_to = NGF }
-			FRM = { all_core = { add_core = NGF } annex_to = NGF }	
-            HEK = { all_core = { add_core = NGF } annex_to = NGF }	
-            LIP = { all_core = { add_core = NGF } annex_to = NGF }			
+			FRA_412 = { add_core = GER }		
 		
 		}
 		ai_will_do = {
@@ -189,7 +170,6 @@ political_decisions = {
 				add_core = GER
 			}
 			change_tag = GER
-			add_accepted_culture = north_german
 			set_global_flag = 3hurrahs
 			random_country = {
 				limit = {
@@ -281,10 +261,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					in_sphere = THIS
-					OR = {
-						is_culture_group = germanic
-						tag = SCH
-					}
+					is_culture_group = germanic
 					NOT = { 
 						tag = KUK
 						tag = AUS
@@ -519,143 +496,6 @@ political_decisions = {
 		}
 	}
 	
-	form_north_german_confederation2 = {
-		picture = form_north_german_confederation
-		potential = {
-			is_greater_power = yes
-			primary_culture = north_german
-			NOT = {
-				has_country_flag = post_colonial_country
-				exists = GER
-				exists = NGF
-			}
-			revolution_n_counterrevolution = 1
-		}	
-		allow = {
-			war = no
-			revolution_n_counterrevolution = 1
-			GER = {
-				all_core = {
-					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-								OR = {
-									is_vassal = no
-									vassal_of = THIS
-								}
-								war = no
-								is_greater_power = no
-							}
-						}
-						NOT = { culture = north_german }
-						owner = {
-							NOT = { is_culture_group = germanic }
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			badboy = 5
-			clr_country_flag = crown_from_the_gutter
-			all_core = { add_core = NGF }
-			any_owned = {
-				limit = {
-					NOT = { is_core = THIS }
-					any_core = {
-						exists = no
-						primary_culture = north_german
-						has_country_flag = wants_to_unify
-						NOT = { has_country_flag = post_colonial_country }
-					}
-				}
-				add_core = NGF
-			}
-			change_tag = NGF
-			set_country_flag = secondary_union_formation
-			any_country = {
-				limit = {
-					OR = {
-						primary_culture = north_german
-						tag = SCH
-					}
-					in_sphere = THIS 
-					NOT = { tag = THIS }
-					NOT = { has_country_flag = post_colonial_country }
-					OR = {
-						is_vassal = no
-						vassal_of = THIS
-					}
-				}
-				country_event = 11106
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				badboy = 0.8
-			}
-		}
-	}
-	
-	become_holstein = {
-		picture = gtfo
-		potential = {
-			tag = SWH
-			any_owned_province = { is_core = HOL }
-			NOT = {
-				any_owned_province = {
-					is_core = GER
-					NOT = { is_core = HOL }
-				}
-			}
-		}
-		
-		allow = {
-			owns = 369
-		}
-		
-		effect = {
-			capital = 369
-			prestige = -5
-			all_core = { remove_core = THIS }
-			random_owned = {
-				limit = {
-					HOL = { exists = no }
-				}
-				owner = { change_tag = HOL }
-			}
-			random_owned = {
-				limit = {
-					HOL = { exists = yes }
-				}
-				owner = { annex_to = HOL }
-			}
-			clr_country_flag = crown_from_the_gutter
-			clr_country_flag = secondary_union_formation
-			any_pop = {
-				limit = { is_primary_culture = yes }
-				militancy = -6
-			}
-			random_country = {
-				limit = {
-					is_greater_power = yes
-					primary_culture = north_german
-				}
-				diplomatic_influence = { who = THIS value = 100 }
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
 	call_for_south_american_union = {
 		picture = switch_to_fraternity
 		potential = {
@@ -709,7 +549,7 @@ political_decisions = {
 	form_USSA = {
 		picture = switch_to_freedom
 		potential = {
-            tag = BRA
+            tag = BRZ
 			has_global_flag = the_call_for_south_american_union
 			NOT = {
 				has_country_flag = post_colonial_country

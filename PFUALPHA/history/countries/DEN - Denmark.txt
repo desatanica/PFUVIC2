@@ -83,7 +83,3 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "DEN_oob.txt"
-
-1850.1.1 = {
-	decision = danmarks_riges_grundlov
-}

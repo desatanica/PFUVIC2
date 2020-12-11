@@ -268,49 +268,6 @@ political_decisions = {
 			set_country_flag = schwabing_encircled
 		}
 	}
-	
-	support_biesterfelds = {
-		potential = {
-			tag = LIP
-			year = 1880
-			NOT = {
-				has_country_flag = lippe_dispute_solved
-			}
-			exists = PRU
-		}
-		
-		allow = {
-			is_independant = yes
-		}
-		
-		effect = {
-			prestige = 10
-			set_country_flag = lippe_dispute_solved
-		}
-	}
-	
-	support_schaumburgs = {
-		potential = {
-			tag = LIP
-			year = 1880
-			NOT = {
-				has_country_flag = lippe_dispute_solved
-			}
-			exists = PRU
-		}
-		
-		allow = {
-			is_independant = yes
-		}
-		
-		effect = {
-			relation = {
-				who = PRU
-				value = 50
-			}
-			set_country_flag = lippe_dispute_solved
-		}
-	}
 
 	kaiser_wilhelms_land = {
 		picture = kaiser_wilhelms_land
@@ -393,31 +350,6 @@ political_decisions = {
 				}
 			}
 			set_global_flag = the_walhalla_is_built
-		}
-	}
-	
-	introduce_the_presbyteries = {
-		potential = {
-			tag = HAN
-			NOT = {
-				has_country_flag = presbyteries_introduced
-			}
-		}
-		allow = {
-			average_militancy = 3
-			NOT = {
-				vassal_of = ENG
-			}
-		}
-		
-		effect = {
-			any_pop = {
-				limit = {
-					has_pop_religion = protestant
-				}
-				militancy = -1
-			}
-			set_country_flag = presbyteries_introduced
 		}
 	}
 	

@@ -1,6 +1,6 @@
-owner = OLD
-controller = OLD
-add_core = OLD
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = GER
 trade_goods = lead
 life_rating = 40
