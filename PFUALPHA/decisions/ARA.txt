@@ -93,49 +93,6 @@ political_decisions = {
 		}
 	}
 
-	encourage_arab_nationalism = {
-		picture = form_the_ikhwan
-		potential = {
-			is_greater_power = yes
-			NOT = { has_global_flag = arab_nationalism_encouraged }
-			NOT = { tag = TUR }
-			TUR = {
-				NOT = { has_country_flag = arab_revolt }
-				NOT = { has_country_flag = ottoman_islamic_caliphate }
-				NOT = {
-					AND = {
-						has_country_modifier = ottomanism_reform
-						minorities_reform = protected
-						citizenship_policy = full_citizenship
-					}
-				}
-				any_owned_province = {
-					any_core = {
-						primary_culture = bedouin
-						exists = no
-					}
-				}
-				OR = {
-					government = hms_government
-					government = prussian_constitutionalism
-					government = absolute_monarchy
-				}
-			}
-			year = 1900
-		}
-		
-		allow = {
-			revolution_n_counterrevolution = 1
-			war_with = TUR
-		}
-		
-		effect = {
-			set_global_flag = arab_nationalism_encouraged
-			set_country_flag = friend_of_the_arabs
-			TUR = { country_event = 96100 }
-		}
-	}
-
 	ibn_saud = {
 		potential = {
 			has_global_flag = arab_revolt_has_begun

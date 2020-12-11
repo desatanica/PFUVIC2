@@ -19,6 +19,7 @@ automobile_factory = {
 	{
 		machine_parts = 200
 		steel = 1000
+		bronze = 1000
 		cement = 1000
 		electric_gear = 300
 	}
@@ -43,6 +44,7 @@ aeroplane_factory = {
 		machine_parts = 250
 		electric_gear = 500
 		steel = 1000
+		bronze = 1000
 		cement = 1000
 	}
 	time = 1080
@@ -65,6 +67,7 @@ barrel_factory = {
 	{
 		machine_parts = 250
 		steel = 1000
+		bronze = 1000
 		cement = 1000
 		electric_gear = 500
 	}
@@ -89,6 +92,7 @@ telephone_factory = {
 	{
 		machine_parts = 150
 		steel = 500
+		bronze = 500
 		cement = 500
 		electric_gear = 300
 	}
@@ -113,6 +117,7 @@ radio_factory = {
 	{
 		machine_parts = 150
 		steel = 500
+		bronze = 500
 		cement = 500
 		electric_gear = 300
 	}
@@ -138,6 +143,7 @@ electric_gear_factory = {
 	goods_cost = 
 	{
 		steel = 300
+		bronze = 300
 		cement = 300
 		machine_parts = 100
 	}
@@ -227,6 +233,7 @@ machine_parts_factory = {
 	goods_cost = 
 	{
 		steel = 600
+		bronze = 300
 		cement = 600
 	}
 	time = 1080
@@ -249,6 +256,7 @@ synthetic_oil_factory = {
 	{
 		machine_parts = 100
 		steel = 400
+		bronze = 200
 		cement = 400
 	}
 	time = 1080
@@ -291,6 +299,7 @@ fuel_refinery = {
 	goods_cost = 
 	{
 		steel = 400
+		bronze = 400
 		cement = 400
 		machine_parts = 100
 	}
@@ -314,6 +323,7 @@ steamer_shipyard = {
 	max_level = 99
 	goods_cost = {
 		steel = 500
+		bronze = 500
 		cement = 600
 		machine_parts = 150
 	}
@@ -335,6 +345,7 @@ clipper_shipyard = {
 	cost = 0 
 	max_level = 99
 	goods_cost = {
+		steel = 200
 		bronze = 200
 		cement = 200
 		machine_parts = 50
@@ -357,8 +368,8 @@ bronze_factory = {
 	max_level = 99
 	goods_cost = 
 	{
-		machine_parts = 30
-		cement = 200
+		machine_parts = 50
+		cement = 400
 	}
 	time = 1080
 	visibility = yes
@@ -378,7 +389,7 @@ steel_factory = {
 	max_level = 99
 	goods_cost = 
 	{
-		cement = 200
+		cement = 400
 		machine_parts = 50
 	}
 	time = 1080
@@ -398,8 +409,9 @@ small_arms_factory = {
 	max_level = 99
 	goods_cost = 
 	{
-		machine_parts = 30
+		machine_parts = 50
 		steel = 200
+		bronze = 200
 		cement = 300
 	}
 	time = 1080
@@ -421,6 +433,7 @@ artillery_factory = {
 	{
 		machine_parts = 100
 		steel = 400
+		bronze = 400
 		cement = 600
 	}
 	time = 1080
@@ -484,6 +497,7 @@ explosives_factory = {
 	{
 		machine_parts = 30
 		steel = 200
+		bronze = 200
 		cement = 300
 	}
 	time = 1080
@@ -788,6 +802,7 @@ stock_exchange = {
 	goods_cost = 
 	{
 		steel = 300
+		bronze = 300
 		cement = 500
 		glass = 500
 	}
@@ -808,6 +823,7 @@ bank = {
 	goods_cost = 
 	{
 		steel = 700
+		bronze = 700
 		cement = 1000
 		glass = 700
 	}
@@ -867,6 +883,7 @@ synthetic_fabric_factory = {
 	{
 		machine_parts = 150
 		steel = 400
+		bronze = 400
 		cement = 400
 	}
 	time = 1080
@@ -910,6 +927,7 @@ luxury_clothes_factory = {
 	{
 		machine_parts = 150
 		steel = 400
+		bronze = 400
 		cement = 400
 	}
 	time = 1080
@@ -993,6 +1011,7 @@ Cigar_factory = {
 	{
 		machine_parts = 150
 		steel = 400
+		bronze = 400
 		cement = 400
 	}
 	time = 1080
@@ -1077,7 +1096,7 @@ naval_base = {
 	goods_cost = 
 	{
 		steel = 2500
-		bronze = 1000
+		bronze = 2000
 		lumber = 1000
 		cement = 500
 	}
@@ -1104,7 +1123,7 @@ railroad = {
 	cost = 0
 	goods_cost = {
 	steel = 500
-	bronze = 100
+	bronze = 250
 	lumber = 100
 	cement = 50
 	}

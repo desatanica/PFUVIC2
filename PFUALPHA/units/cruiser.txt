@@ -23,15 +23,16 @@ cruiser = {
 	build_time = 800
 	build_cost = {	
 		steel = 500
+		bronze = 250
 		steamer_convoy = 30
 		artillery = 10
 		canned_food = 12
-		regular_clothes = 10
+		regular_clothes = 5
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		canned_food = 1
+		canned_food = 2
 		artillery = 0.5
 		fuel = 2
 		ammunition = 0.5

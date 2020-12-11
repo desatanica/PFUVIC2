@@ -25,8 +25,8 @@ infantry = {
 	
 	supply_consumption = 1
 	supply_cost = {
+		canned_food = 0.75
 		ammunition = 0.5
-		canned_food = 0.5
 		horses = 0.1
 	}
 	

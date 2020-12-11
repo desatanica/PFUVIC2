@@ -34,7 +34,7 @@ political_decisions = {
 			372 = { add_province_modifier = { name = sound_dues_toll duration = -1 } } #Copenhagen		
 			163 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Chicago
 			######################Literacy Setup######################
-		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = japanese } literacy = -0.15 } }
+		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = japanese } literacy = -0.25 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = swedish } literacy = 0.10 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = norwegian } literacy = 0.10 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = finnish } literacy = 0.10 } }

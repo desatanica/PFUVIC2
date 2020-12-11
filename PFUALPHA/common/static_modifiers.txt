@@ -175,12 +175,16 @@ disarming = {
 }
 
 war_exhaustion = {
-	org_regain = -0.01
-	factory_throughput = -0.01
-	tax_efficiency = -0.002
-	cb_generation_speed_modifier = -0.05
-	RGO_throughput = -0.01
 	prestige = -0.01
+	
+	org_regain = -0.01
+	
+	tax_efficiency = -0.005
+	tariff_efficiency_modifier = -0.005
+	cb_generation_speed_modifier = -0.1
+	
+	RGO_throughput = -0.005
+	factory_cost = 0.005
 }
 
 

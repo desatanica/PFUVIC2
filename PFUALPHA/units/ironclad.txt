@@ -25,6 +25,7 @@ ironclad = {
 	build_cost = {	
 		steamer_convoy = 25
 		steel = 50
+		bronze = 25
 		artillery = 10
 		canned_food = 10
 		regular_clothes = 8

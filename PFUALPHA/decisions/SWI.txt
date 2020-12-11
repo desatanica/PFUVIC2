@@ -1,48 +1,5 @@
 political_decisions = {
-	declare_republic_of_neuchatel = {
-		potential = {
-			owns = 608
-			not = { tag = PRU
-				tag = NGF
-				tag = GER
-			 }
-			608 = {
-				OR = {
-					is_core = PRU
-					is_core = NGF
-					is_core = GER
-				}
-			}
-		}
-		allow = {
-			prestige = 1
-			OR = {
-				romanticism = 1
-				PRU = { exists = no }
-			}
-		}
-		effect = {
-			prestige = 5
-			608 = {
-				remove_core = PRU
-				remove_core = NGF
-				remove_core = GER
-			}
-			relation = {
-				who = PRU
-				value = 20
-			}
-			relation = {
-				who = NGF
-				value = 20
-			}
-			relation = {
-				who = GER
-				value = 20
-			}
-		}
-	}
-	call_geneva_convention = {
+             call_geneva_convention = {
 		potential = {
 			tag = SWI
 			owns = 607
@@ -97,25 +54,4 @@ political_decisions = {
 		}
 	}
 
-	build_gotthard_tunnel = {
-		potential = {
-			tag = SWI
-			owns = 606
-			NOT = {
-				has_country_flag = gotthard_tunnel_built
-			}
-		}
-		
-		allow = {
-			invention = machine_tools
-		}
-		
-		effect = {
-			606 = {
-				infrastructure = 4
-			}
-			prestige = 5
-			set_country_flag = gotthard_tunnel_built
-		}
-	}
 }

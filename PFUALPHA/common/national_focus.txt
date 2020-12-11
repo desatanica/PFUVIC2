@@ -259,7 +259,7 @@ promotion_focus = {
 	}
 
 	promote_craftsmen = {
-		craftsmen = 0.1 #20% more likely to become this type
+		craftsmen = 0.05 #20% more likely to become this type
 		icon = 17
 		outliner_show_as_percent = yes
 		limit = {
@@ -272,7 +272,7 @@ promotion_focus = {
 	}
 
 	promote_soldiers = {
-		soldiers = 0.1 #20% more likely to become this type
+		soldiers = 0.05 #20% more likely to become this type
 		icon = 21
 		outliner_show_as_percent = yes
 		limit = {

@@ -9,6 +9,7 @@ commerce_raider = {
 	select_sound = steam_selected
 	floating_flag = yes
 	colonial_points = 10
+	can_build_overseas = no
 	
 	#Core Abilities
 	priority = 15
@@ -22,6 +23,7 @@ commerce_raider = {
 	build_cost = {
 		steamer_convoy = 10
 		steel = 25
+		bronze = 15
 		artillery = 5
 		canned_food = 2
 		regular_clothes = 5

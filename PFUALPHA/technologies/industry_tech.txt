@@ -1728,7 +1728,7 @@ advanced_metallurgy = {
 		copper = 0.25
 	}
 	rgo_goods_throughput = {
-		lead = 0.2
+		lead = 0.25
 	}
 	rgo_goods_throughput = {
 		coal = 0.5
@@ -1827,7 +1827,7 @@ electric_furnace = {
 		copper = 0.25
 	}
 	rgo_goods_throughput = {
-		lead = 0.1
+		lead = 0.15
 	}
 	rgo_goods_throughput = {
 		oil = 0.5
@@ -1925,7 +1925,7 @@ modern_metallurgy = {
 		copper = 0.25
 	}
 	rgo_goods_throughput = {
-		lead = 0.2
+		lead = 0.25
 	}
 	rgo_goods_throughput = {
 		oil = 0.5

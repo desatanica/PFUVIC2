@@ -32,7 +32,7 @@ clipper_transport = {
 	#Naval Abilties
 	hull = 2
 	gun_power = 1
-	can_build_overseas = yes
+	can_build_overseas = no
 	fire_range = 0.1
 	evasion = 0.5
 	min_port_level = 1

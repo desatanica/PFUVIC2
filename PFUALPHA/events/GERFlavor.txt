@@ -332,47 +332,26 @@ country_event = {
 
 	option = {
 		name = "We agree."
+		prestige = 10
 		random_owned = {
 			limit = {
-				owner = { owns = 2029 }
+				owner = { owns = 2084 }
 			}
 			owner = {
 				any_owned = {
 					limit = {
-						OR = {
-							region = ENG_2024
-							region = ENG_2026
-						}
+					OR = {
+					region = ENG_2083
+					region = ENG_2078
+					}
 					}
 					secede_province = ENG
+					add_core = SAF
 				}
 			}
 		}
-		random_owned = {
-			limit = {
-				owner = { owns = 2029 }
-			}
-			owner = {
-				random_state = {
-					limit = {
-						is_colonial = yes
-						any_owned_province = {
-							continent = africa
-							OR = {
-								port = yes
-								any_neighbor_province = { owned_by = ENG }
-							}
-						}
-					}
-					any_owned = { secede_province = ENG }
-				}
-			}
-		}
-		ENG = { country_event = 33007 }
-			
-		ai_chance = {
-			factor = 100
-		}
+		ENG = { country_event = 33007 }			
+		ai_chance = { factor = 100 }
 	}
 
 	option = {

@@ -10,72 +10,18 @@ country_event = {
 	major = yes
 	picture = "Bankruptcy"
 	
-	trigger = {	exists = yes
+	trigger = {
+	    exists = yes
 		NOT = { has_global_flag = great_depression_happened }
-		has_country_modifier = stock_market_crash
+		year = 1919
 		is_greater_power = yes
-		any_neighbor_country = {
-			has_country_modifier = stock_market_crash
-		}
 	}
 	
 	mean_time_to_happen = {
-		months = 6
+		months = 3
 		modifier = {
 			factor = 0.5
 			unemployment = 0.15
-		}
-		modifier = {
-			factor = 1.1
-			business_banks = 1
-		}
-		modifier = {
-			factor = 1.1
-			investment_banks = 1
-		}
-		modifier = {
-			factor = 1.1
-			bank_inspection_board = 1
-		}
-		modifier = {
-			factor = 1.1
-			mutual_funds = 1
-		}
-		modifier = {
-			factor = 10
-			keynesian_economics = 1
-		}
-		modifier = {
-			factor = 100
-			NOT = { year = 1900 }
-		}
-		modifier = {
-			factor = 0.7
-			war_exhaustion = 10
-		}
-		modifier = {
-			factor = 0.9
-			average_militancy = 4
-		}
-		modifier = {
-			factor = 0.9
-			average_consciousness = 5
-		}
-		modifier = {
-			factor = 0.6
-			economic_policy = laissez_faire
-		}
-		modifier = {
-			factor = 2
-			economic_policy = interventionism
-		}
-		modifier = {
-			factor = 3
-			economic_policy = state_capitalism
-		}
-		modifier = {
-			factor = 1.25
-			invention = crisis_control_measures
 		}
 	}
 	
@@ -151,7 +97,7 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 50
+		months = 60
 		modifier = {
 			factor = 0.5
 			war = yes

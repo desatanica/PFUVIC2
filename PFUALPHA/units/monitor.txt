@@ -23,6 +23,7 @@ monitor = {
 	build_cost = {
 		steamer_convoy = 25
 		steel = 50
+		bronze = 25
 		artillery = 12
 		canned_food = 12
 		regular_clothes = 8

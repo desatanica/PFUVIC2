@@ -132,6 +132,17 @@ respectable_navy = {
 	icon = 9
 }
 
+riots = {
+	trigger = {
+    war_exhaustion = 50
+	}
+	prestige = 0.02
+	factory_throughput = -0.1
+	tariff_efficiency_modifier = -0.1
+	tax_efficiency = -0.1
+	icon = 9
+}
+
 small_navy = {
 	trigger = {
 		is_greater_power = yes
@@ -145,14 +156,37 @@ small_navy = {
 	icon = 9
 }
 
+
+growing_industry = {
+	trigger = {
+    industrial_score = 500
+	}
+	prestige = 0.01
+	factory_throughput = -0.05
+	tariff_efficiency_modifier = -0.05
+	tax_efficiency = -0.025
+	icon = 9
+}
+
 large_industry = {
 	trigger = {
     industrial_score = 1000
 	}
-	prestige = 0.01
+	prestige = 0.02
 	factory_throughput = -0.05
-	tariff_efficiency_modifier = -0.02
-	tax_efficiency = -0.02
+	tariff_efficiency_modifier = -0.1
+	tax_efficiency = -0.05
+	icon = 9
+}
+
+very_large_industry = {
+	trigger = {
+    industrial_score = 1500
+	}
+	prestige = 0.04
+	factory_throughput = -0.1
+	tariff_efficiency_modifier = -0.15
+	tax_efficiency = -0.1
 	icon = 9
 }
 
@@ -160,10 +194,10 @@ huge_industry = {
 	trigger = {
     industrial_score = 2000
 	}
-	prestige = 0.02
-	factory_throughput = -0.1
-	tariff_efficiency_modifier = -0.05
-	tax_efficiency = -0.05
+	prestige = 0.05
+	factory_throughput = -0.15
+	tariff_efficiency_modifier = -0.2
+	tax_efficiency = -0.15
 	icon = 9
 }
 

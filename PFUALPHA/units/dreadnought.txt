@@ -24,19 +24,19 @@ dreadnought = {
 	build_time = 1800
 	build_cost = {	
 		steel = 2000
+		bronze = 1000
 		steamer_convoy = 200
 		artillery = 120
 		canned_food = 40
-        regular_clothes = 20
-		telephones = 10
+        regular_clothes = 10
 	}
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		canned_food = 2.5
+		canned_food = 3
 		artillery = 1
 		ammunition = 2
-		telephones = 2
+		telephones = 1
 		fuel = 2
 	}
 	

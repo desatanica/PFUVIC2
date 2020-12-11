@@ -618,6 +618,7 @@ social_reforms = {
 		no_subsidies = {
 		}
 		trinket_subsidies = {
+			min_social_spending = 0.025
 			unemployment_benefit = 1
 			global_immigrant_attract = 0.05
 			social_reform_desire = -0.025
@@ -625,6 +626,7 @@ social_reforms = {
 			
 		}
 		low_subsidies = {
+			min_social_spending = 0.05
 			unemployment_benefit = 2
 			global_immigrant_attract = 0.1
 			social_reform_desire = -0.05
@@ -633,6 +635,7 @@ social_reforms = {
 			
 		}
 		acceptable_subsidies = {
+			min_social_spending = 0.075
 			unemployment_benefit = 3
 			global_immigrant_attract = 0.15
 			global_pop_consciousness_modifier = -0.02
@@ -641,6 +644,7 @@ social_reforms = {
 			
 		}
 		good_subsidies = {
+			min_social_spending = 0.1
 			unemployment_benefit = 4
 			global_immigrant_attract = 0.2
 			global_pop_consciousness_modifier = -0.03
@@ -654,6 +658,7 @@ social_reforms = {
 		no_pensions = {
 		}
 		trinket_pensions = {
+			min_social_spending = 0.025
 			pension_level = 1
 			global_immigrant_attract = 0.05
 			social_reform_desire = -0.025
@@ -661,6 +666,7 @@ social_reforms = {
 			
 		}
 		low_pensions = {
+			min_social_spending = 0.05
 			pension_level = 2
 			global_immigrant_attract = 0.1
 			social_reform_desire = -0.05
@@ -669,6 +675,7 @@ social_reforms = {
 			
 		}
 		acceptable_pensions = {
+			min_social_spending = 0.075
 			pension_level = 3
 			global_pop_consciousness_modifier = -0.02
 			global_immigrant_attract = 0.15
@@ -677,6 +684,7 @@ social_reforms = {
 			
 		}
 		good_pensions = {
+			min_social_spending = 0.1
 			pension_level = 4
 			global_pop_consciousness_modifier = -0.03
 			global_immigrant_attract = 0.2
@@ -692,6 +700,7 @@ social_reforms = {
 		}
 		trinket_health_care = {
 			global_immigrant_attract = 0.05
+			min_social_spending = 0.05
 			administrative_multiplier = 1
 			social_reform_desire = -0.025
 			political_reform_desire = -0.025
@@ -699,6 +708,7 @@ social_reforms = {
 		}
 		low_health_care = {
 			global_immigrant_attract = 0.1
+			min_social_spending = 0.1
 			administrative_multiplier = 2.5
 			social_reform_desire = -0.05
 			political_reform_desire = -0.05
@@ -707,6 +717,7 @@ social_reforms = {
 		}
 		acceptable_health_care = {
 			global_immigrant_attract = 0.15
+			min_social_spending = 0.15
 			administrative_multiplier = 5
 			global_pop_consciousness_modifier = -0.02
 			social_reform_desire = -0.075
@@ -715,6 +726,7 @@ social_reforms = {
 		}
 		good_health_care = {
 			global_immigrant_attract = 0.2
+			min_social_spending = 0.2
 			administrative_multiplier = 10
 			global_pop_consciousness_modifier = -0.03
 			social_reform_desire = -0.10
@@ -799,12 +811,14 @@ social_reforms = {
 			global_immigrant_attract = 0.05
 			social_reform_desire = -0.025
 			political_reform_desire = -0.025
+			min_social_spending = 0.05
 		}
 		public = {
 			education_efficiency_modifier = 0.15
 			global_immigrant_attract = 0.1
 			social_reform_desire = -0.05
 			political_reform_desire = -0.05
+			min_social_spending = 0.1
 		}
 	}
 	
