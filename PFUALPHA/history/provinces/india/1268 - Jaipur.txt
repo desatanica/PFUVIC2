@@ -1,6 +1,6 @@
 owner = ENG
 controller = ENG
-add_core = JAI
+
 add_core = HND
 trade_goods = spices
 life_rating = 33

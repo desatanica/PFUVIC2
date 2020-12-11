@@ -35,13 +35,6 @@ ALB = {
     color2= { 161 126 128  }
     color3= { 131 101 85  }
 }
- 
-# Awadh FIXED
-AWA = {
-    color1= { 215 59 53  }
-    color2= { 255 216 85  }
-    color3= { 117 127 174  }
-}
 
 # Belgium FIXED
 BEL	 = {
@@ -226,13 +219,6 @@ CLM = {
 MEX = {
     color1= { 219 124 139  }
     color2= { 101 102 163  }
-    color3= { 69 157 208  }
-}
-
-# Mewar
-MEW = {
-    color1= { 157 85 255  }
-    color2= { 255 216 85  }
     color3= { 69 157 208  }
 }
 
@@ -673,13 +659,6 @@ JAP = {
     color2= { 37 37 37  }
     color3= { 219 192 50  }
 }
-
-#Johore FIXED
-JOH = {
-    color1= { 69 80 169  }
-    color2= { 244 56 49  }
-    color3= { 107 170 77  }
-}
 	
 # Korea
 KOR = {
@@ -696,40 +675,11 @@ LUA = {
 }
 
 
-
 # Tibet FIXED
 TIB = {
     color1= { 255 255 255  }
     color2= { 248 199 67  }
     color3= { 122 179 97  }
-}
-
-# Bastar FIXED (not confirmed)
-BAS = {
-    color1= { 103 123 204  }
-    color2= { 255 255 255  }
-    color3= { 195 149 155  }
-}
-
-# Beroda FIXED
-BER = {
-    color1= { 215 93 53  }
-    color2= { 255 255 255  }
-    color3= { 80 79 88  }
-}
-
-# Bhopal FIXED (not confirmed)
-BHO = {
-    color1= { 78 150 91  }
-    color2= { 255 255 255  }
-    color3= { 99 137 153  }
-}
-
-#  Bikaner FIXED
-BIK = {
-    color1= { 229 165 69  }
-    color2= { 202 0 0  }
-    color3= { 99 137 153  }
 }
 
 # Bhutan
@@ -739,61 +689,10 @@ BHU = {
     color3= { 183 176 194  }
 }
 
-
-
-# Bundelkhand FIXED
-BUN = {
-    color1= { 255 216 85  }
-    color2= { 255 255 255  }
-    color3= { 48 164 51  }
-}
-
-# Gwailor FIXED
-GWA = {
-    color1= { 255 216 85  }
-    color2= { 202 0 0  }
-    color3= { 121 162 109  }
-}
-
-# Hyderabad FIXED
-HYD = {
-    color1= { 251 159 86  }
-    color2= { 78 150 91  }
-    color3= { 131 101 85  }
-}
-
-# Kashmir
-KAS = {
-    color1= { 63 150 30  }
-    color2= { 101 102 163  }
-    color3= { 83 149 105  }
-}
-
-# Mughalistan
-MUG = {
-    color1= { 154 133 153  }
-    color2= { 197 92 106  }
-    color3= { 137 183 124  }
-}
-
-# Mysore FIXED
-MYS = {
-    color1= { 244 56 49  }
-    color2= { 110 70 60  }
-    color3= { 69 157 208  }
-}
-
 # Nepal FIXED
 NEP = {
     color1= { 244 56 49  }
     color2= { 255 255 255  }
-    color3= { 69 157 208  }
-}
-
-# Nagpur 
-NAG = {
-    color1= { 215 93 53  }
-    color2= { 100 100 100  }
     color3= { 69 157 208  }
 }
 
@@ -804,49 +703,6 @@ NEJ = {
     color3= { 69 157 208  }
 }
 
-
-# Orissa FIXED
-ORI = {
-    color1= { 255 255 255  }
-    color2= { 210 106 47  }
-    color3= { 154 69 116  }
-}
-
-# Sind FIXED
-SIN = {
-    color1= { 72 119 80  }
-    color2= { 255 255 255  }
-    color3= { 99 137 153  }
-}
-
-# Indore FIXED
-IND = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 99 137 153  }
-}
-
-# Jaipur FIXED
-JAI = {
-    color1= { 255 216 85  }
-    color2= { 69 80 169  }
-    color3= { 99 137 153  }
-}
-
-# Jaisalmer FIXED
-JAS = {
-    color1= { 244 56 49  }
-    color2= { 157 85 255  }
-    color3= { 99 137 153  }
-}
-
-# Jodhpur FIXED
-JOD = {
-    color1= { 244 56 49  }
-    color2= { 87 187 128  }
-    color3= { 99 137 153  }
-}
-
 # Kalat FIXED
 KAL = {
     color1= { 90 164 107  }
@@ -854,25 +710,11 @@ KAL = {
     color3= { 99 137 153  }
 }
 
-# Kutch FIXED
-KUT = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 69 157 208  }
-}
-
 # Makran
 MAK = {
     color1= { 90 164 107  }
     color2= { 69 80 169  }
     color3= { 99 137 153  }
-}
-
-# Travanacore FIXED
-TRA = {
-    color1= { 215 59 53  }
-    color2= { 122 182 242 }
-    color3= { 255 255 255  }
 }
 
 # Taiping

@@ -52,7 +52,6 @@ restore_austrian_empire
 colonial_reconquest_cb
 restore_america
 claim_holy_land
-restore_british_raj
 unification_casus_belli
 civil_war
 unification_annex_casus_belli
@@ -2999,7 +2998,6 @@ great_game_cb = {
 			tag = SIN
 			tag = KAL
 			tag = MAK
-			tag = KAS
 			tag = KOK
 			tag = KHI
 			tag = BUK
@@ -3034,101 +3032,6 @@ great_game_cb = {
 			to = pro_military
 			value = 0.25
 		}
-	}
-}
-
-restore_british_raj = {
-	sprite_index = 10
-	is_triggered_only = yes
-	months = 12
-	crisis = no
-
-	badboy_factor = 0
-	prestige_factor = 1
-	peace_cost_factor = 0.8
-	penalty_factor = 2
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 0
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	always = yes
-
-	po_make_puppet = yes
-
-	war_name = WAR_BRITISH_RAJ_NAME
-	
-	can_use = {
-		is_vassal = no
-		is_disarmed = no
-		civilized = no
-		NOT = {
-			is_our_vassal = THIS
-			truce_with = THIS
-			tag = HND
-			has_country_modifier = neutrality
-			has_global_flag = british_dismantled
-		}
-		OR = {
-			tag = ASM
-			tag = AWA
-			tag = BAS
-			tag = BER
-			tag = BIH
-			tag = BIK
-			tag = BHO
-			tag = BNG
-			tag = BUN
-			tag = IND
-			tag = JAI
-			tag = JAS
-			tag = JOD
-			tag = MAH
-			tag = MEW
-			tag = MUG
-			tag = MYS
-			tag = NAG
-			tag = ORI
-			tag = TRA
-			tag = KUT
-		}
-		THIS = {
-			tag = ENG
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = {
-				has_country_modifier = neutrality
-				war_policy = pacifism
-			}
-		}
-		OR = {
-			war_with = THIS
-			THIS = {
-				NOT = {
-					has_country_modifier = no_more_war
-				}
-			}
-		}
-	}
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-	
-	on_po_accepted = {
-		country_event = 19370
 	}
 }
 

@@ -702,10 +702,7 @@ country_event = {
 			limit = {
 				exists = yes
 				NOT = { tag = THIS }
-				OR = {
-					is_culture_group = germanic
-					tag = SCH
-				}
+				is_culture_group = germanic
 				is_greater_power = no
 				OR = {
 					in_sphere = THIS
