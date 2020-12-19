@@ -33,6 +33,7 @@ hussar = {
 		ammunition = 0.5
 		canned_food = 0.5
 		horses = 0.25
+		small_arms = 0.1
 	}
 	
 

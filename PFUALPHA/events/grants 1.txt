@@ -27,7 +27,7 @@ country_event = {
 			
 				ai = no
 			
-				money = 10000
+				money = 1000000
 		
 			}
 		

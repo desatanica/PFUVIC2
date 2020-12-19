@@ -132,17 +132,6 @@ respectable_navy = {
 	icon = 9
 }
 
-riots = {
-	trigger = {
-    war_exhaustion = 50
-	}
-	prestige = 0.02
-	factory_throughput = -0.1
-	tariff_efficiency_modifier = -0.1
-	tax_efficiency = -0.1
-	icon = 9
-}
-
 small_navy = {
 	trigger = {
 		is_greater_power = yes
@@ -199,5 +188,47 @@ huge_industry = {
 	tariff_efficiency_modifier = -0.2
 	tax_efficiency = -0.15
 	icon = 9
+}
+
+tiny_nation = {
+	trigger = {
+		total_pops = 125000 #125 thousand POPs/500 thousand population
+		NOT = {
+			OR = {
+				year = 1900 
+				total_pops = 1250000 #1.25 million POPs/5 Million population
+			}
+
+		}
+	}
+	global_population_growth = 0.001
+	mobilisation_economy_impact = -0.50
+	supply_consumption = -0.50
+	mobilisation_size = 0.04
+	research_points_modifier = 0.15 #15% increase
+	tax_efficiency = 0.25 #25% boost
+	icon = 6
+}
+
+small_nation = {
+	trigger = {
+		total_pops = 1250000 #1.25 million POPs/5 Million population
+		NOT = { total_pops = 3750000 }
+	}
+	mobilisation_economy_impact = -0.25
+	supply_consumption = -0.25
+	mobilisation_size = 0.02
+	research_points_modifier = 0.1 #10% increase
+	tax_efficiency = 0.20 #20% boost
+	icon = 6
+}
+
+economic_boom = {
+	trigger = {
+		NOT = { year = 1870 }
+	}
+	tax_efficiency = 0.10 
+	tariff_efficiency_modifier = 0.05
+	icon = 6
 }
 

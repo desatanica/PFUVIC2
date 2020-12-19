@@ -109,3 +109,78 @@ army = {
 	}
 }
 
+navy = {
+    name = "Imperial Navy"
+	location = 1657
+	ship = {
+		name= "1st Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "4th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "5th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "6th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "7th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "8th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "9th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "10th Hiroshima Clipper Transport"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "Takao"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Momo"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Aviso"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Datso"
+		type = frigate
+	}
+
+}
+

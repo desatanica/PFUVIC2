@@ -1965,7 +1965,6 @@ country_event = {
 		name = "We agree to their terms."
 		random_owned = {
 			limit = { province_id = 1593 }
-			add_core = ASM
 			add_core = HND
 			secede_province = FROM
 		}

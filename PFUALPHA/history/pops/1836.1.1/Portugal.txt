@@ -116,6 +116,12 @@
 		religion = catholic
 		size = 1100
 	}
+	
+	capitalists = {
+		culture = portuguese
+		religion = catholic
+		size = 200
+	}
 
 	officers = {
 		culture = portuguese

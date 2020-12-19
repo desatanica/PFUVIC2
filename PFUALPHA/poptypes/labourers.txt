@@ -126,11 +126,6 @@ migration_target = {
 		is_core = ISR 
 	}
 	modifier = {
-		factor = 2
-		this = { religion = mormon }
-		is_core = DES
-	}
-	modifier = {
 		factor = 1.2
 		state_scope = { 
 			has_factories = yes

@@ -215,14 +215,6 @@ country_event = {
 	mean_time_to_happen = {
 		months = 100
 		modifier = {
-			factor = 0.5
-			OR = {
-				tag = DRA
-				tag = HDU
-				tag = MRT
-			}
-		}
-		modifier = {
 			factor = 2
 			NOT = { is_culture_group = south_asian }
 		}

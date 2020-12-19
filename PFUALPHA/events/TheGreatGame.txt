@@ -61,20 +61,6 @@ country_event = {
 					truce_with = THIS
 				}
 			}
-			KAS = {
-				exists = yes
-				civilized = no
-				is_vassal = no
-				OR = {
-					neighbour = ENG
-					any_neighbor_country = { vassal_of = ENG }
-				}
-				NOT = {
-					has_country_modifier = border_incident
-					in_sphere = THIS
-					truce_with = THIS
-				}
-			}
 			KOK = {
 				exists = yes
 				civilized = no
@@ -142,14 +128,12 @@ country_event = {
 			casus_belli = SIN
 			casus_belli = KAL
 			casus_belli = MAK
-			casus_belli = KAS
 			casus_belli = KOK
 			casus_belli = KHI
 			casus_belli = BUK
 			war_with = SIN
 			war_with = KAL
 			war_with = MAK
-			war_with = KAS
 			war_with = KOK
 			war_with = KHI
 			war_with = BUK
@@ -188,7 +172,6 @@ country_event = {
 					tag = SIN
 					tag = KAL
 					tag = MAK
-					tag = KAS
 					tag = KOK
 					tag = KHI
 					tag = BUK
@@ -243,7 +226,6 @@ country_event = {
 					tag = SIN
 					tag = KAL
 					tag = MAK
-					tag = KAS
 					tag = KOK
 					tag = KHI
 					tag = BUK
@@ -349,20 +331,6 @@ country_event = {
 					truce_with = THIS
 				}
 			}
-			KAS = {
-				exists = yes
-				civilized = no
-				is_vassal = no
-				OR = {
-					neighbour = RUS
-					any_neighbor_country = { vassal_of = RUS }
-				}
-				NOT = {
-					has_country_modifier = border_incident
-					in_sphere = THIS
-					truce_with = THIS
-				}
-			}
 			KOK = {
 				exists = yes
 				civilized = no
@@ -430,7 +398,6 @@ country_event = {
 			casus_belli = SIN
 			casus_belli = KAL
 			casus_belli = MAK
-			casus_belli = KAS
 			casus_belli = KOK
 			casus_belli = KHI
 			casus_belli = BUK
@@ -438,7 +405,6 @@ country_event = {
 			war_with = SIN
 			war_with = KAL
 			war_with = MAK
-			war_with = KAS
 			war_with = KOK
 			war_with = KHI
 			war_with = BUK
@@ -477,7 +443,6 @@ country_event = {
 					tag = SIN
 					tag = KAL
 					tag = MAK
-					tag = KAS
 					tag = KOK
 					tag = KHI
 					tag = BUK
@@ -532,7 +497,6 @@ country_event = {
 					tag = SIN
 					tag = KAL
 					tag = MAK
-					tag = KAS
 					tag = KOK
 					tag = KHI
 					tag = BUK
@@ -592,7 +556,6 @@ country_event = {
 			tag = SIN
 			tag = KAL
 			tag = MAK
-			tag = KAS
 			tag = KOK
 			tag = KHI
 			tag = BUK

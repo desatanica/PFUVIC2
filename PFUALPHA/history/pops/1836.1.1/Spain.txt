@@ -549,6 +549,12 @@
 		religion = catholic
 		size = 2000
 	}
+	
+	capitalists = {
+		culture = spanish
+		religion = catholic
+		size = 500
+	}
 
 	officers = {
 		culture = spanish

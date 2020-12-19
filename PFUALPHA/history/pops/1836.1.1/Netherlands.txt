@@ -6,6 +6,12 @@
 		religion = jewish
 		size = 75
 	}
+	
+	capitalists = {
+		culture = dutch
+		religion = protestant
+		size = 300
+	}
 
 	artisans = {
 		culture = ashkenazi

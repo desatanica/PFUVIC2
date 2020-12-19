@@ -1635,10 +1635,7 @@ country_event = {
 		tag = ENG
 		owns = 1251 #Calcutta
 		year = 1853
-		NOT = {
-			year = 1857
-			exists = MUG
-			}
+		NOT = { year = 1857 }
 	}
 	
 	fire_only_once = yes
@@ -2676,7 +2673,6 @@ country_event = {
 				NOT = { exists = GER }
 				year = 1880
 			}
-			exists = RHI
 			PRU_575 = { 
 			owned_by = FRA 
 			}

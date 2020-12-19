@@ -36,29 +36,5 @@ army = {
 		home = 1369
 	}
 
-	regiment = {
-		name= "6. Brigade"
-		type = infantry
-		home = 1369
-	}
-
-	regiment = {
-		name= "7. Brigade"
-		type = infantry
-		home = 1369
-	}
-
-	regiment = {
-		name= "8. Brigade"
-		type = infantry
-		home = 1380
-	}
-
-	regiment = {
-		name= "9. Brigade"
-		type = infantry
-		home = 1380
-	}
-
 }
 
