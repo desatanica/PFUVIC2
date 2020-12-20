@@ -112,8 +112,18 @@ immigration_colonization_focus;Immigration & Colonization;;;;;;;;;;;;;x,,,
 mechanical_industry_focus;Encourage Mechanical Industry;;;;;;;;;;;;;x,,,
 oil_focus;Encourage Oil Industry;;;;;;;;;;;;;x,,,
 economic_boom;Economic Boom;;;;;;;;;;;;;x,,,
-small_nation;Small Nation;;;;;;;;;;;;;x,,,
-tiny_nation;Tiny Nation;;;;;;;;;;;;;x,,,
+desperate_nation;Desperate Nation;Nation microscopique;Mikroskopische Nation;;Nación microscópica;;;;;;;;;x;;;;
+microscopic_nation;Microscopic Nation;Nation microscopique;Mikroskopische Nation;;Nación microscópica;;;;;;;;;x;;;;
+tiny_nation;Tiny Nation;Très petite Nation;Sehr kleine Nation;;Muy pequeña nación;;;;;;;;;x;;;;
+small_nation;Small Nation;Petite Nation;Kleine Nation;;Pequeña nación;;;;;;;;;x;;;;
+medium_nation;Medium Nation;Nation moyenne;Mittlere Nation;;Medio país;;;;;;;;;x;;;;
+average_nation;Average Nation;Nation régulière;Durchschnittsgröße Nation;;País promedio;;;;;;;;;x;;;;
+large_nation;Large Nation;Grande Nation;Großes Nation;;Nación grande;;;;;;;;;x;;;;
+empire;Empire;Empire;Reich;;Imperio;;;;;;;;;x;;;;
+medium_empire;Medium Empire;Moyen Empire;Mittleres Reich;;Imperio medio;;;;;;;;;x;;;;
+large_empire; Large Empire;Grand Empire;Große Reich;;Gran imperio;;;;;;;;;x;;;;
+insane_empire; Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imperio loco;;;;;;;;;x;;;;
+insane_empire2; Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imperio loco;;;;;;;;;x;;;;
 electricity_focus;Encourage Electrical Power;;;;;;;;;;;;;x,,,
 furniture_focus;Encourage Furniture Industry;;;;;;;;;;;;;x,,,
 food_focus;Encourage Food Industry;;;;;;;;;;;;;x,,,

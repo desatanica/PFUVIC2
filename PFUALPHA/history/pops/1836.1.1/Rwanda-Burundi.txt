@@ -26,12 +26,6 @@
 		size = 1750
 	}
 
-	artisans = {
-		culture = ruanda
-		religion = animist
-		size = 6200
-	}
-
 	soldiers = {
 		culture = ruanda
 		religion = animist
@@ -70,12 +64,6 @@
 		culture = rundi
 		religion = animist
 		size = 1125
-	}
-
-	artisans = {
-		culture = rundi
-		religion = animist
-		size = 5600
 	}
 
 	soldiers = {

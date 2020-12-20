@@ -14,12 +14,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 750
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -43,12 +37,6 @@
 		culture = sena
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 100
 	}
 
 	soldiers = {
@@ -78,12 +66,6 @@
 		size = 250
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 1200
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -111,12 +93,6 @@
 		size = 225
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 1100
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -140,12 +116,6 @@
 		culture = african_minor
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 100
 	}
 
 	soldiers = {
@@ -175,12 +145,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -206,12 +170,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 100
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -235,12 +193,6 @@
 		culture = sena
 		religion = animist
 		size = 25
-	}
-
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 50
 	}
 
 	soldiers = {
@@ -284,12 +236,6 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 1200
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -315,12 +261,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 300
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -332,12 +272,6 @@
 		culture = shona
 		religion = animist
 		size = 5400
-	}
-
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 200
 	}
 
 	soldiers = {
@@ -367,12 +301,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 400
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -398,12 +326,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 500
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -427,12 +349,6 @@
 		culture = nguni
 		religion = animist
 		size = 30
-	}
-
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 100
 	}
 
 	soldiers = {
@@ -462,12 +378,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 100
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -491,12 +401,6 @@
 		culture = african_minor
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 800
 	}
 
 	soldiers = {

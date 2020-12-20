@@ -14,12 +14,6 @@
 		size = 1100
 	}
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 4000
-	}
-
 	soldiers = {
 		culture = bakongo
 		religion = animist
@@ -51,12 +45,6 @@
 		culture = bakongo
 		religion = animist
 		size = 500
-	}
-
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 1750
 	}
 
 	soldiers = {
@@ -98,12 +86,6 @@
 		size = 750
 	}
 
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 3250
-	}
-
 	soldiers = {
 		culture = bakongo
 		religion = animist
@@ -138,12 +120,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -169,12 +145,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
 	}
 
 	soldiers = {

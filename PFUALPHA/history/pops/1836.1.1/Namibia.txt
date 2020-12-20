@@ -14,12 +14,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = herero
-		religion = animist
-		size = 300
-	}
-
 	soldiers = {
 		culture = herero
 		religion = animist
@@ -43,12 +37,6 @@
 		culture = khoisan
 		religion = animist
 		size = 125
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 600
 	}
 
 	soldiers = {
@@ -78,12 +66,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = herero
-		religion = animist
-		size = 450
-	}
-
 	soldiers = {
 		culture = herero
 		religion = animist
@@ -107,12 +89,6 @@
 		culture = african_minor
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 200
 	}
 
 	soldiers = {
@@ -142,12 +118,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 300
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -175,12 +145,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = herero
-		religion = animist
-		size = 300
-	}
-
 	soldiers = {
 		culture = herero
 		religion = animist
@@ -204,12 +168,6 @@
 		culture = african_minor
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 250
 	}
 
 	soldiers = {
@@ -241,12 +199,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -270,12 +222,6 @@
 		culture = lunda
 		religion = animist
 		size = 25
-	}
-
-	artisans = {
-		culture = lunda
-		religion = animist
-		size = 50
 	}
 
 	soldiers = {
@@ -307,12 +253,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 50
-	}
-
 	soldiers = {
 		culture = khoisan
 		religion = animist
@@ -338,12 +278,6 @@
 		culture = khoisan
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -373,12 +307,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 100
-	}
-
 	soldiers = {
 		culture = khoisan
 		religion = animist
@@ -402,12 +330,6 @@
 		culture = tswana
 		religion = animist
 		size = 25
-	}
-
-	artisans = {
-		culture = tswana
-		religion = animist
-		size = 50
 	}
 
 	soldiers = {
@@ -437,12 +359,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 200
-	}
-
 	soldiers = {
 		culture = khoisan
 		religion = animist
@@ -466,12 +382,6 @@
 		culture = tswana
 		religion = animist
 		size = 25
-	}
-
-	artisans = {
-		culture = tswana
-		religion = animist
-		size = 50
 	}
 
 	soldiers = {

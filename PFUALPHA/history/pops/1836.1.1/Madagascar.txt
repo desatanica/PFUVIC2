@@ -20,12 +20,6 @@
 		size = 2125
 	}
 
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 10000
-	}
-
 	soldiers = {
 		culture = malagasy
 		religion = animist
@@ -52,12 +46,6 @@
 		culture = malagasy
 		religion = animist
 		size = 725
-	}
-
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 3500
 	}
 
 	soldiers = {
@@ -94,12 +82,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 950
-	}
-
 	soldiers = {
 		culture = malagasy
 		religion = animist
@@ -132,12 +114,6 @@
 		culture = malagasy
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 700
 	}
 
 	soldiers = {
@@ -175,12 +151,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 800
-	}
-
 	soldiers = {
 		culture = malagasy
 		religion = animist
@@ -209,12 +179,6 @@
 		culture = malagasy
 		religion = animist
 		size = 325
-	}
-
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 1600
 	}
 
 	soldiers = {
@@ -252,12 +216,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 1100
-	}
-
 	soldiers = {
 		culture = malagasy
 		religion = animist
@@ -290,12 +248,6 @@
 		culture = malagasy
 		religion = animist
 		size = 275
-	}
-
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 1350
 	}
 
 	soldiers = {

@@ -26,12 +26,6 @@
 		size = 725
 	}
 
-	artisans = {
-		culture = baganda
-		religion = animist
-		size = 2800
-	}
-
 	soldiers = {
 		culture = baganda
 		religion = animist
@@ -55,12 +49,6 @@
 		culture = african_minor
 		religion = animist
 		size = 300
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1500
 	}
 
 	soldiers = {
@@ -96,12 +84,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = baganda
-		religion = animist
-		size = 400
-	}
-
 	soldiers = {
 		culture = baganda
 		religion = animist
@@ -125,12 +107,6 @@
 		culture = african_minor
 		religion = animist
 		size = 250
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1250
 	}
 
 	soldiers = {
@@ -164,12 +140,6 @@
 		size = 175
 	}
 
-	artisans = {
-		culture = luo
-		religion = animist
-		size = 725
-	}
-
 	soldiers = {
 		culture = luo
 		religion = animist
@@ -195,12 +165,6 @@
 		culture = african_minor
 		religion = animist
 		size = 300
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1450
 	}
 
 	soldiers = {
@@ -234,12 +198,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = luo
-		religion = animist
-		size = 775
-	}
-
 	soldiers = {
 		culture = luo
 		religion = animist
@@ -267,12 +225,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = luo
-		religion = animist
-		size = 775
-	}
-
 	soldiers = {
 		culture = luo
 		religion = animist
@@ -296,12 +248,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -337,12 +283,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = baganda
-		religion = animist
-		size = 575
-	}
-
 	soldiers = {
 		culture = baganda
 		religion = animist
@@ -366,12 +306,6 @@
 		culture = african_minor
 		religion = animist
 		size = 375
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1900
 	}
 
 	soldiers = {

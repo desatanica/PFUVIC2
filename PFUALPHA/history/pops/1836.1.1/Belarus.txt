@@ -400,6 +400,18 @@
 	artisans = {
 		culture = byelorussian
 		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
 		size = 4200
 	}
 
@@ -413,7 +425,7 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 91000
+		size = 71000
 	}
 
 	aristocrats = {
@@ -939,6 +951,12 @@
 	}
 
 	artisans = {
+		culture = byelorussian
+		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
 		culture = russian
 		religion = orthodox
 		size = 500
@@ -979,7 +997,7 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 79250
+		size = 69250
 	}
 
 	clergymen = {
@@ -1017,6 +1035,12 @@
 		size = 500
 	}
 
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
+		size = 10000
+	}
+	
 	artisans = {
 		culture = byelorussian
 		religion = orthodox
@@ -1146,6 +1170,12 @@
 	artisans = {
 		culture = byelorussian
 		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = byelorussian
+		religion = orthodox
 		size = 4850
 	}
 
@@ -1159,7 +1189,7 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 119075
+		size = 109075
 	}
 
 	aristocrats = {

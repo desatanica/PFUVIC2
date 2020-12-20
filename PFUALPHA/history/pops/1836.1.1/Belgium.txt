@@ -20,6 +20,18 @@
 	}
 
 	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
 		culture = ashkenazi
 		religion = jewish
 		size = 1100
@@ -83,7 +95,7 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 75725
+		size = 55725
 	}
 
 	aristocrats = {
@@ -279,6 +291,24 @@
 	artisans = {
 		culture = flemish
 		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = flemish
+		religion = catholic
 		size = 3600
 	}
 	
@@ -298,7 +328,7 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 167700
+		size = 137700
 	}
 
 	clergymen = {

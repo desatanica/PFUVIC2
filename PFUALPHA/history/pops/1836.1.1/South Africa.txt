@@ -10,12 +10,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = protestant
-		size = 750
-	}
-
 	soldiers = {
 		culture = khoisan
 		religion = protestant
@@ -32,12 +26,6 @@
 		culture = khoisan
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 750
 	}
 
 	soldiers = {
@@ -132,12 +120,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = protestant
-		size = 250
-	}
-
 	farmers = {
 		culture = khoisan
 		religion = protestant
@@ -148,12 +130,6 @@
 		culture = khoisan
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 150
 	}
 
 	farmers = {
@@ -180,12 +156,6 @@
 		size = 80
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 700
-	}
-
 	farmers = {
 		culture = boer
 		religion = protestant
@@ -204,12 +174,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 100
-	}
-
 	farmers = {
 		culture = sotho
 		religion = animist
@@ -220,12 +184,6 @@
 		culture = british
 		religion = protestant
 		size = 15
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 300
 	}
 
 	farmers = {
@@ -240,12 +198,6 @@
 		culture = khoisan
 		religion = protestant
 		size = 75
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = protestant
-		size = 200
 	}
 
 	farmers = {
@@ -272,12 +224,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 300
-	}
-
 	farmers = {
 		culture = boer
 		religion = protestant
@@ -290,12 +236,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 100
-	}
-
 	farmers = {
 		culture = khoisan
 		religion = animist
@@ -306,12 +246,6 @@
 		culture = british
 		religion = protestant
 		size = 15
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 300
 	}
 
 	farmers = {
@@ -328,12 +262,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 150
-	}
-
 	farmers = {
 		culture = boer
 		religion = protestant
@@ -344,12 +272,6 @@
 		culture = british
 		religion = protestant
 		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
 	}
 
 	farmers = {
@@ -364,12 +286,6 @@
 		size = 35
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 50
-	}
-
 	farmers = {
 		culture = khoisan
 		religion = animist
@@ -380,12 +296,6 @@
 		culture = khoisan
 		religion = protestant
 		size = 25
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = protestant
-		size = 100
 	}
 
 	farmers = {
@@ -408,12 +318,6 @@
 		culture = khoisan
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 150
 	}
 
 	soldiers = {
@@ -454,12 +358,6 @@
 		size = 55
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 150
-	}
-
 	soldiers = {
 		culture = boer
 		religion = protestant
@@ -479,12 +377,6 @@
 		size = 15
 	}
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 200
-	}
-
 	soldiers = {
 		culture = british
 		religion = protestant
@@ -502,12 +394,6 @@
 		culture = khoisan
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 100
 	}
 
 	soldiers = {
@@ -531,12 +417,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 100
-	}
-
 	farmers = {
 		culture = boer
 		religion = protestant
@@ -547,12 +427,6 @@
 		culture = khoisan
 		religion = animist
 		size = 25
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 50
 	}
 
 	soldiers = {
@@ -580,12 +454,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 50
-	}
-
 	soldiers = {
 		culture = sotho
 		religion = animist
@@ -611,12 +479,6 @@
 		culture = sotho
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 150
 	}
 
 	soldiers = {
@@ -648,12 +510,6 @@
 		culture = boer
 		religion = protestant
 		size = 50
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 250
 	}
 
 	soldiers = {
@@ -690,12 +546,6 @@
 		size = 400
 	}
 
-	artisans = {
-		culture = tswana
-		religion = animist
-		size = 1600
-	}
-
 	soldiers = {
 		culture = tswana
 		religion = animist
@@ -724,12 +574,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = tswana
-		religion = animist
-		size = 200
-	}
-
 	soldiers = {
 		culture = tswana
 		religion = animist
@@ -752,12 +596,6 @@
 		culture = british
 		religion = protestant
 		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 300
 	}
 
 	soldiers = {
@@ -791,12 +629,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 400
-	}
-
 	soldiers = {
 		culture = boer
 		religion = protestant
@@ -819,12 +651,6 @@
 		culture = xhosa
 		religion = animist
 		size = 35
-	}
-
-	artisans = {
-		culture = xhosa
-		religion = animist
-		size = 100
 	}
 
 	soldiers = {
@@ -870,12 +696,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 50
-	}
-
 	soldiers = {
 		culture = khoisan
 		religion = animist
@@ -902,12 +722,6 @@
 		size = 10
 	}
 
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
-	}
-
 	farmers = {
 		culture = british
 		religion = protestant
@@ -930,12 +744,6 @@
 		culture = boer
 		religion = protestant
 		size = 125
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 500
 	}
 	
 	officers = {
@@ -962,12 +770,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = xhosa
-		religion = animist
-		size = 100
-	}
-
 	farmers = {
 		culture = xhosa
 		religion = animist
@@ -986,12 +788,6 @@
 		size = 15
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 100
-	}
-
 	farmers = {
 		culture = nguni
 		religion = animist
@@ -1002,12 +798,6 @@
 		culture = khoisan
 		religion = animist
 		size = 25
-	}
-
-	artisans = {
-		culture = khoisan
-		religion = animist
-		size = 100
 	}
 
 	farmers = {
@@ -1029,12 +819,6 @@
 		culture = xhosa
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = xhosa
-		religion = animist
-		size = 1100
 	}
 
 	soldiers = {
@@ -1068,12 +852,6 @@
 		culture = xhosa
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = xhosa
-		religion = animist
-		size = 1100
 	}
 
 	soldiers = {
@@ -1113,12 +891,6 @@
 		culture = xhosa
 		religion = animist
 		size = 400
-	}
-
-	artisans = {
-		culture = xhosa
-		religion = animist
-		size = 1800
 	}
 
 	soldiers = {
@@ -1189,12 +961,6 @@
 		size = 475
 	}
 
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 2375
-	}
-
 	soldiers = {
 		culture = sotho
 		religion = animist
@@ -1259,12 +1025,6 @@
 		size = 225
 	}
 
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 1100
-	}
-
 	soldiers = {
 		culture = sotho
 		religion = animist
@@ -1288,12 +1048,6 @@
 		culture = nguni
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 250
 	}
 
 	soldiers = {
@@ -1347,12 +1101,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 1025
-	}
-
 	soldiers = {
 		culture = sotho
 		religion = animist
@@ -1390,12 +1138,6 @@
 		culture = sotho
 		religion = animist
 		size = 650
-	}
-
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 3200
 	}
 
 	soldiers = {
@@ -1529,12 +1271,6 @@
 		size = 250
 	}
 
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 1250
-	}
-
 	soldiers = {
 		culture = sotho
 		religion = animist
@@ -1594,12 +1330,6 @@
 		size = 125
 	}
 
-	artisans = {
-		culture = tswana
-		religion = animist
-		size = 1600
-	}
-
 	soldiers = {
 		culture = tswana
 		religion = animist
@@ -1623,12 +1353,6 @@
 		culture = nguni
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 600
 	}
 
 	farmers = {
@@ -1678,12 +1402,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 200
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -1707,12 +1425,6 @@
 		culture = sotho
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = sotho
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -1767,12 +1479,6 @@
 		size = 125
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 650
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -1825,12 +1531,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 150
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -1854,12 +1554,6 @@
 		culture = nguni
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 175
 	}
 
 	soldiers = {
@@ -1898,12 +1592,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 100
-	}
-
 	soldiers = {
 		culture = boer
 		religion = protestant
@@ -1929,12 +1617,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = xhosa
-		religion = animist
-		size = 400
-	}
-
 	soldiers = {
 		culture = xhosa
 		religion = animist
@@ -1958,12 +1640,6 @@
 		culture = zulu
 		religion = animist
 		size = 225
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 1050
 	}
 
 	soldiers = {
@@ -2003,12 +1679,6 @@
 		culture = zulu
 		religion = animist
 		size = 400
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 1950
 	}
 
 	soldiers = {
@@ -2062,12 +1732,6 @@
 		culture = zulu
 		religion = animist
 		size = 825
-	}
-
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 4000
 	}
 
 	soldiers = {
@@ -2133,12 +1797,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = zulu
-		religion = animist
-		size = 700
-	}
-
 	soldiers = {
 		culture = zulu
 		religion = animist
@@ -2168,12 +1826,6 @@
 		culture = nguni
 		religion = animist
 		size = 250
-	}
-
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 1300
 	}
 
 	soldiers = {

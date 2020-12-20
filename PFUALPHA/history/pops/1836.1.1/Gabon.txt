@@ -14,12 +14,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = fang
-		religion = animist
-		size = 150
-	}
-
 	soldiers = {
 		culture = fang
 		religion = animist
@@ -43,12 +37,6 @@
 		culture = african_minor
 		religion = animist
 		size = 100
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 450
 	}
 
 	soldiers = {
@@ -78,12 +66,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -109,12 +91,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -145,12 +121,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = fang
-		religion = animist
-		size = 400
-	}
-
 	soldiers = {
 		culture = fang
 		religion = animist
@@ -174,12 +144,6 @@
 		culture = african_minor
 		religion = animist
 		size = 100
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 500
 	}
 
 	soldiers = {

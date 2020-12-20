@@ -26,12 +26,6 @@
 		size = 1125
 	}
 
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 5500
-	}
-
 	soldiers = {
 		culture = mossi
 		religion = animist
@@ -65,12 +59,6 @@
 		size = 525
 	}
 
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 2500
-	}
-
 	soldiers = {
 		culture = mossi
 		religion = animist
@@ -100,12 +88,6 @@
 		culture = african_minor
 		religion = animist
 		size = 325
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1650
 	}
 
 	soldiers = {
@@ -141,12 +123,6 @@
 		size = 350
 	}
 
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 1350
-	}
-
 	soldiers = {
 		culture = mossi
 		religion = animist
@@ -176,12 +152,6 @@
 		culture = african_minor
 		religion = animist
 		size = 350
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1700
 	}
 
 	soldiers = {
@@ -217,12 +187,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 700
-	}
-
 	soldiers = {
 		culture = mossi
 		religion = animist
@@ -252,12 +216,6 @@
 		culture = fulbe
 		religion = sunni
 		size = 300
-	}
-
-	artisans = {
-		culture = fulbe
-		religion = sunni
-		size = 1150
 	}
 
 	soldiers = {
@@ -301,12 +259,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = dyula
-		religion = sunni
-		size = 125
-	}
-
 	soldiers = {
 		culture = dyula
 		religion = sunni
@@ -332,12 +284,6 @@
 		size = 250
 	}
 
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1100
-	}
-
 	soldiers = {
 		culture = mande
 		religion = sunni
@@ -361,12 +307,6 @@
 		culture = mossi
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -402,12 +342,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = dyula
-		religion = sunni
-		size = 350
-	}
-
 	soldiers = {
 		culture = dyula
 		religion = sunni
@@ -431,12 +365,6 @@
 		culture = mande
 		religion = animist
 		size = 300
-	}
-
-	artisans = {
-		culture = mande
-		religion = animist
-		size = 1100
 	}
 
 	soldiers = {
@@ -464,12 +392,6 @@
 		size = 400
 	}
 
-	artisans = {
-		culture = bambara
-		religion = animist
-		size = 2000
-	}
-
 	soldiers = {
 		culture = bambara
 		religion = animist
@@ -493,12 +415,6 @@
 		culture = african_minor
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 700
 	}
 
 	soldiers = {

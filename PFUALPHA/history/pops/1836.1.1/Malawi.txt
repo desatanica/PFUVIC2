@@ -14,12 +14,6 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = chewa
-		religion = animist
-		size = 1450
-	}
-
 	soldiers = {
 		culture = chewa
 		religion = animist
@@ -51,12 +45,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = lomwe
-		religion = animist
-		size = 750
-	}
-
 	soldiers = {
 		culture = lomwe
 		religion = animist
@@ -80,12 +68,6 @@
 		culture = yao
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = yao
-		religion = animist
-		size = 400
 	}
 
 	soldiers = {
@@ -113,12 +95,6 @@
 		culture = chewa
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = chewa
-		religion = animist
-		size = 950
 	}
 
 	soldiers = {
@@ -150,12 +126,6 @@
 		culture = lunda
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = lunda
-		religion = animist
-		size = 850
 	}
 
 	soldiers = {

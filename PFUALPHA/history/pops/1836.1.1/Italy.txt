@@ -29,7 +29,25 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 1200
+		size = 10000
+	}
+	
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
 	}
 
 	soldiers = {
@@ -42,7 +60,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 172900
+		size = 132900
 	}
 	craftsmen = {
 		culture = north_italian

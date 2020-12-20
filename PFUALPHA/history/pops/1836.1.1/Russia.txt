@@ -8,6 +8,18 @@
 		size = 1700
 	}
 
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = russian
+		religion = orthodox
+		size = 10000
+	}
+	
 	bureaucrats = {
 		culture = russian
 		religion = orthodox
@@ -49,7 +61,7 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 123550
+		size = 113550
 	}
 
 	clergymen = {
@@ -2231,6 +2243,12 @@
 	artisans = {
 		culture = russian
 		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = russian
+		religion = orthodox
 		size = 3000
 	}
 
@@ -2367,6 +2385,12 @@
 	artisans = {
 		culture = russian
 		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = russian
+		religion = orthodox
 		size = 4550
 	}
 
@@ -2482,6 +2506,13 @@
 #under the rule of Russia in 1836
 #Moscow (620000/155000 POPS)
 1008 = {
+	
+	capitalists = {
+		culture = russian
+		religion = orthodox
+		size = 500
+	}
+	
 	aristocrats = {
 		culture = russian
 		religion = orthodox
@@ -2576,7 +2607,7 @@
 	craftsmen = {
 		culture = russian
 		religion = orthodox
-		size = 5800
+		size = 15800
 	}
 
 	farmers = {

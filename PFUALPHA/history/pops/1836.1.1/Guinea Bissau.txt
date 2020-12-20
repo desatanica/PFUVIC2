@@ -20,12 +20,6 @@
 		size = 5
 	}
 
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 25
-	}
-
 	soldiers = {
 		culture = portuguese
 		religion = catholic
@@ -37,12 +31,6 @@
 		culture = african_minor
 		religion = catholic
 		size = 50
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = catholic
-		size = 375
 	}
 
 	soldiers = {
@@ -83,12 +71,6 @@
 		culture = mande
 		religion = animist
 		size = 400
-	}
-
-	artisans = {
-		culture = mande
-		religion = animist
-		size = 2000
 	}
 
 	soldiers = {

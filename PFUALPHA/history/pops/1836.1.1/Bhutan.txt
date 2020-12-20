@@ -26,12 +26,6 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1500
-	}
-
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
@@ -55,12 +49,6 @@
 		culture = nepali
 		religion = hindu
 		size = 75
-	}
-
-	artisans = {
-		culture = nepali
-		religion = hindu
-		size = 200
 	}
 
 	soldiers = {

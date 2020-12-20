@@ -1355,6 +1355,30 @@
 	artisans = {
 		culture = ukrainian
 		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
+		size = 10000
+	}
+	
+	artisans = {
+		culture = ukrainian
+		religion = orthodox
 		size = 500
 	}
 
@@ -1368,7 +1392,7 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 219300
+		size = 189300
 	}
 
 	aristocrats = {

@@ -14,12 +14,6 @@
 		size = 350
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 1600
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -49,12 +43,6 @@
 		culture = tonga
 		religion = animist
 		size = 225
-	}
-
-	artisans = {
-		culture = tonga
-		religion = animist
-		size = 1750
 	}
 
 	soldiers = {
@@ -90,12 +78,6 @@
 		size = 350
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 1600
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -125,12 +107,6 @@
 		culture = tonga
 		religion = animist
 		size = 375
-	}
-
-	artisans = {
-		culture = tonga
-		religion = animist
-		size = 1850
 	}
 
 	soldiers = {
@@ -166,12 +142,6 @@
 		size = 125
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 600
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -201,12 +171,6 @@
 		culture = tonga
 		religion = animist
 		size = 300
-	}
-
-	artisans = {
-		culture = tonga
-		religion = animist
-		size = 1400
 	}
 
 	soldiers = {
@@ -242,12 +206,6 @@
 		size = 500
 	}
 
-	artisans = {
-		culture = nguni
-		religion = animist
-		size = 200
-	}
-
 	soldiers = {
 		culture = nguni
 		religion = animist
@@ -271,12 +229,6 @@
 		culture = shona
 		religion = animist
 		size = 375
-	}
-
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 1800
 	}
 
 	soldiers = {
@@ -321,12 +273,6 @@
 		size = 90
 	}
 
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 1100
-	}
-
 	soldiers = {
 		culture = portuguese
 		religion = catholic
@@ -344,12 +290,6 @@
 		culture = shona
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 700
 	}
 
 	soldiers = {
@@ -383,12 +323,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 1100
-	}
-
 	soldiers = {
 		culture = sena
 		religion = animist
@@ -414,11 +348,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = swahili
-		religion = sunni
-		size = 975
-	}
 }
 #Quelimane (84000/21000 POPS)
 2059 = {
@@ -432,12 +361,6 @@
 		culture = portuguese
 		religion = catholic
 		size = 25
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 325
 	}
 
 	soldiers = {
@@ -457,12 +380,6 @@
 		culture = sena
 		religion = animist
 		size = 125
-	}
-
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 650
 	}
 
 	soldiers = {
@@ -490,12 +407,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = swahili
-		religion = sunni
-		size = 975
-	}
-
 	aristocrats = {
 		culture = african_minor
 		religion = animist
@@ -506,12 +417,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -548,12 +453,6 @@
 		size = 125
 	}
 
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 500
-	}
-
 	soldiers = {
 		culture = shona
 		religion = animist
@@ -583,12 +482,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
 	}
 
 	soldiers = {
@@ -622,12 +515,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 350
-	}
-
 	soldiers = {
 		culture = sena
 		religion = animist
@@ -653,12 +540,6 @@
 		culture = shona
 		religion = animist
 		size = 400
-	}
-
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 2000
 	}
 
 	soldiers = {
@@ -694,12 +575,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 500
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -729,12 +604,6 @@
 		culture = shona
 		religion = animist
 		size = 125
-	}
-
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 650
 	}
 
 	soldiers = {
@@ -768,12 +637,6 @@
 		size = 60
 	}
 
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 150
-	}
-
 	soldiers = {
 		culture = sena
 		religion = animist
@@ -799,12 +662,6 @@
 		culture = shona
 		religion = animist
 		size = 100
-	}
-
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 400
 	}
 
 	soldiers = {
@@ -838,12 +695,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 525
-	}
-
 	soldiers = {
 		culture = sena
 		religion = animist
@@ -867,12 +718,6 @@
 		culture = african_minor
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 700
 	}
 
 	soldiers = {
@@ -900,11 +745,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = swahili
-		religion = sunni
-		size = 975
-	}
 }
 #Mossurize (136000/34000 POPS)
 2058 = {
@@ -918,12 +758,6 @@
 		culture = shona
 		religion = animist
 		size = 375
-	}
-
-	artisans = {
-		culture = shona
-		religion = animist
-		size = 1750
 	}
 
 	soldiers = {
@@ -968,12 +802,6 @@
 		size = 25
 	}
 
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 600
-	}
-
 	soldiers = {
 		culture = portuguese
 		religion = catholic
@@ -991,12 +819,6 @@
 		culture = makua
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = makua
-		religion = animist
-		size = 1050
 	}
 
 	soldiers = {
@@ -1033,12 +855,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = makua
-		religion = animist
-		size = 700
-	}
-
 	soldiers = {
 		culture = makua
 		religion = animist
@@ -1070,12 +886,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = makua
-		religion = sunni
-		size = 750
-	}
-
 	soldiers = {
 		culture = makua
 		religion = sunni
@@ -1095,11 +905,6 @@
 		size = 75
 	}
 
-	artisans = {
-		culture = swahili
-		religion = sunni
-		size = 2925
-	}
 }
 #Ibo (208000/52000 POPS)
 2063 = {
@@ -1113,12 +918,6 @@
 		culture = makua
 		religion = animist
 		size = 500
-	}
-
-	artisans = {
-		culture = makua
-		religion = animist
-		size = 2500
 	}
 
 	soldiers = {
@@ -1146,11 +945,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = swahili
-		religion = sunni
-		size = 1950
-	}
 }
 #Nampula (208000/52000 POPS)
 2064 = {
@@ -1164,12 +958,6 @@
 		culture = yao
 		religion = animist
 		size = 250
-	}
-
-	artisans = {
-		culture = yao
-		religion = animist
-		size = 1250
 	}
 
 	soldiers = {
@@ -1201,12 +989,6 @@
 		culture = makua
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = makua
-		religion = animist
-		size = 900
 	}
 
 	soldiers = {
@@ -1248,12 +1030,6 @@
 		size = 250
 	}
 
-	artisans = {
-		culture = sena
-		religion = animist
-		size = 1250
-	}
-
 	soldiers = {
 		culture = sena
 		religion = animist
@@ -1283,12 +1059,6 @@
 		culture = african_minor
 		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 150
 	}
 
 	soldiers = {
@@ -1323,12 +1093,6 @@
 		culture = yao
 		religion = animist
 		size = 400
-	}
-
-	artisans = {
-		culture = yao
-		religion = animist
-		size = 2100
 	}
 
 	soldiers = {

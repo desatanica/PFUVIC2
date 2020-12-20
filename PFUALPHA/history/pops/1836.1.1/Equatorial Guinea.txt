@@ -20,23 +20,11 @@
 		size = 5
 	}
 
-	artisans = {
-		culture = spanish
-		religion = catholic
-		size = 5
-	}
-
 	soldiers = {
 		culture = spanish
 		religion = catholic
 		size = 5
 
-	}
-
-	artisans = {
-		culture = fang
-		religion = catholic
-		size = 120
 	}
 
 	soldiers = {
@@ -71,12 +59,6 @@
 		culture = fang
 		religion = animist
 		size = 300
-	}
-
-	artisans = {
-		culture = fang
-		religion = animist
-		size = 1500
 	}
 
 	soldiers = {

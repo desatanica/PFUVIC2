@@ -14,12 +14,6 @@
 		size = 500
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1900
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -67,12 +61,6 @@
 		size = 375
 	}
 
-	artisans = {
-		culture = fulbe
-		religion = sunni
-		size = 1575
-	}
-
 	soldiers = {
 		culture = fulbe
 		religion = sunni
@@ -96,12 +84,6 @@
 		culture = african_minor
 		religion = animist
 		size = 975
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 4800
 	}
 
 	soldiers = {
@@ -137,12 +119,6 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = fulbe
-		religion = sunni
-		size = 1165
-	}
-
 	soldiers = {
 		culture = fulbe
 		religion = sunni
@@ -174,12 +150,6 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1500
-	}
-
 	soldiers = {
 		culture = mande
 		religion = sunni
@@ -203,12 +173,6 @@
 		culture = dyula
 		religion = sunni
 		size = 75
-	}
-
-	artisans = {
-		culture = dyula
-		religion = sunni
-		size = 450
 	}
 
 	soldiers = {
@@ -246,12 +210,6 @@
 		size = 115
 	}
 
-	artisans = {
-		culture = fulbe
-		religion = sunni
-		size = 600
-	}
-
 	soldiers = {
 		culture = fulbe
 		religion = sunni
@@ -277,12 +235,6 @@
 		size = 375
 	}
 
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1875
-	}
-
 	soldiers = {
 		culture = mande
 		religion = sunni
@@ -306,12 +258,6 @@
 		culture = dyula
 		religion = sunni
 		size = 75
-	}
-
-	artisans = {
-		culture = dyula
-		religion = sunni
-		size = 450
 	}
 
 	soldiers = {
@@ -348,12 +294,6 @@
 		size = 400
 	}
 
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1650
-	}
-
 	soldiers = {
 		culture = mande
 		religion = sunni
@@ -377,12 +317,6 @@
 		culture = dyula
 		religion = sunni
 		size = 50
-	}
-
-	artisans = {
-		culture = dyula
-		religion = sunni
-		size = 250
 	}
 
 	soldiers = {

@@ -223,6 +223,56 @@ small_nation = {
 	icon = 6
 }
 
+large_nation  = {
+	trigger = {
+		ai = no
+		year = 1870
+		total_pops = 12500000 #12.5 million POPs/50 million population
+		NOT = { total_pops = 21250000 } #21.25 million POPs/85 million population
+	}
+	max_tariff = -0.10 
+	mobilisation_economy_impact = 0.2
+	icon = 6
+}
+
+empire = {
+	trigger = {
+		ai = no
+		year = 1870
+		total_pops = 21250000 #21.25 million POPs/85 million population
+		NOT = { total_pops = 37500000 } #37.5 million POPs/150 million population
+
+	}
+	max_tariff = -0.3 
+	mobilisation_economy_impact = 0.4
+	icon = 6
+}
+
+medium_empire  = {
+	trigger = {
+		ai = no
+		year = 1870
+		total_pops = 37500000 #37.5 million POPs/150 million population
+		NOT = { total_pops = 62500000 } #62.5 million POPs/250 million population
+
+	}
+	max_tariff = -0.4 
+	mobilisation_economy_impact = 0.6
+	icon = 6
+}
+
+large_empire  = {
+	trigger = {
+		ai = no
+		year = 1870
+		total_pops = 62500000 #62.5 million POPs/250 million population
+
+	}
+	max_tariff = -0.5 
+	mobilisation_economy_impact = 0.8
+	icon = 6
+}
+
 economic_boom = {
 	trigger = {
 		NOT = { year = 1870 }

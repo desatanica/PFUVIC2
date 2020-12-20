@@ -95,7 +95,7 @@
 	farmers = {
 		culture = dutch
 		religion = protestant
-		size = 27300
+		size = 37300
 	}
 
 	artisans = {
@@ -133,6 +133,18 @@
 	artisans = {
 		culture = dutch
 		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = protestant
 		size = 5500
 	}
 
@@ -146,7 +158,7 @@
 	farmers = {
 		culture = dutch
 		religion = protestant
-		size = 108125
+		size = 88125
 	}
 
 	artisans = {

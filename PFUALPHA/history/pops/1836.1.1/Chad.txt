@@ -26,12 +26,6 @@
 		size = 400
 	}
 
-	artisans = {
-		culture = baguirmi
-		religion = sunni
-		size = 1800
-	}
-
 	soldiers = {
 		culture = baguirmi
 		religion = sunni
@@ -55,12 +49,6 @@
 		culture = sara
 		religion = animist
 		size = 200
-	}
-
-	artisans = {
-		culture = sara
-		religion = animist
-		size = 1200
 	}
 
 	soldiers = {
@@ -94,12 +82,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1100
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = animist
@@ -127,12 +109,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = baguirmi
-		religion = sunni
-		size = 250
-	}
-
 	soldiers = {
 		culture = baguirmi
 		religion = sunni
@@ -156,12 +132,6 @@
 		culture = sara
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = sara
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -203,12 +173,6 @@
 		size = 50
 	}
 
-	artisans = {
-		culture = sara
-		religion = animist
-		size = 100
-	}
-
 	soldiers = {
 		culture = sara
 		religion = animist
@@ -232,12 +196,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 350
 	}
 
 	soldiers = {
@@ -281,12 +239,6 @@
 		size = 200
 	}
 
-	artisans = {
-		culture = fur
-		religion = sunni
-		size = 1100
-	}
-
 	soldiers = {
 		culture = fur
 		religion = sunni
@@ -310,12 +262,6 @@
 		culture = berber
 		religion = sunni
 		size = 100
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 600
 	}
 
 	soldiers = {
@@ -351,12 +297,6 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = fur
-		religion = sunni
-		size = 1200
-	}
-
 	soldiers = {
 		culture = fur
 		religion = sunni
@@ -388,12 +328,6 @@
 		size = 100
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 350
-	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
@@ -421,12 +355,6 @@
 		size = 350
 	}
 
-	artisans = {
-		culture = fur
-		religion = sunni
-		size = 1450
-	}
-
 	soldiers = {
 		culture = fur
 		religion = sunni
@@ -452,12 +380,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
@@ -481,12 +403,6 @@
 		culture = african_minor
 		religion = animist
 		size = 100
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 200
 	}
 
 	soldiers = {
@@ -524,12 +440,6 @@
 		size = 1300
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 5300
-	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
@@ -553,12 +463,6 @@
 		culture = berber
 		religion = sunni
 		size = 200
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 400
 	}
 
 	soldiers = {
@@ -598,12 +502,6 @@
 		size = 500
 	}
 
-	artisans = {
-		culture = kanuri
-		religion = sunni
-		size = 2400
-	}
-
 	soldiers = {
 		culture = kanuri
 		religion = sunni
@@ -637,12 +535,6 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 800
-	}
-
 	soldiers = {
 		culture = berber
 		religion = sunni
@@ -666,12 +558,6 @@
 		culture = berber
 		religion = sunni
 		size = 50
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 100
 	}
 
 	soldiers = {
@@ -700,12 +586,6 @@
 		culture = berber
 		religion = sunni
 		size = 150
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 700
 	}
 
 	soldiers = {

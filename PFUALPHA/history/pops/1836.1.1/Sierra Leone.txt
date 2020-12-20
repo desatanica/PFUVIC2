@@ -2,11 +2,6 @@
 #uncolonized in 1836/Britain has trade post in 1836
 #Freetown (400000/100000 POPS) 
 1884 = {
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 250
-	}
 
 	soldiers = {
 		culture = afro_caribbean
@@ -31,12 +26,6 @@
 		culture = mande
 		religion = sunni
 		size = 350
-	}
-
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1650
 	}
 
 	soldiers = {
@@ -64,12 +53,6 @@
 		size = 450
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 2300
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = sunni
@@ -93,12 +76,6 @@
 		culture = african_minor
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 700
 	}
 
 	soldiers = {
@@ -129,12 +106,6 @@
 		size = 475
 	}
 
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1875
-	}
-
 	soldiers = {
 		culture = mande
 		religion = sunni
@@ -158,12 +129,6 @@
 		culture = african_minor
 		religion = animist
 		size = 400
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 2000
 	}
 
 	soldiers = {
@@ -201,12 +166,6 @@
 		size = 475
 	}
 
-	artisans = {
-		culture = mande
-		religion = sunni
-		size = 1900
-	}
-
 	soldiers = {
 		culture = mande
 		religion = sunni
@@ -232,12 +191,6 @@
 		size = 400
 	}
 
-	artisans = {
-		culture = african_minor
-		religion = sunni
-		size = 1650
-	}
-
 	soldiers = {
 		culture = african_minor
 		religion = sunni
@@ -261,12 +214,6 @@
 		culture = african_minor
 		religion = animist
 		size = 75
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 400
 	}
 
 	soldiers = {

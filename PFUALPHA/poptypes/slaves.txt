@@ -10,7 +10,11 @@ rebel = {
 }
 
 everyday_needs = {
-	grain = 2
+	grain = 1
+	cattle = 0.25	   	  
+	fish = 0.2 	  
+	fruit = 0.05
+	wool = 0.05
 }
 
 luxury_needs = {

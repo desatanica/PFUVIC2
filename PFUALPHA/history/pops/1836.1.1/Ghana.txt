@@ -14,12 +14,6 @@
 		size = 325
 	}
 
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 1325
-	}
-
 	soldiers = {
 		culture = akan
 		religion = animist
@@ -58,12 +52,6 @@
 		culture = akan
 		religion = animist
 		size = 125
-	}
-
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 600
 	}
 
 	soldiers = {
@@ -117,12 +105,6 @@
 		size = 225
 	}
 
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 1100
-	}
-
 	soldiers = {
 		culture = akan
 		religion = animist
@@ -170,18 +152,6 @@
 		size = 2715
 	}
 
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 10000
-	}
-	
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 940
-	}
-
 	soldiers = {
 		culture = akan
 		religion = animist
@@ -222,12 +192,6 @@
 		size = 1310
 	}
 
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 5250
-	}
-
 	soldiers = {
 		culture = akan
 		religion = animist
@@ -261,12 +225,6 @@
 		size = 525
 	}
 
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 2100
-	}
-
 	soldiers = {
 		culture = akan
 		religion = animist
@@ -290,12 +248,6 @@
 		culture = african_minor
 		religion = animist
 		size = 615
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 2975
 	}
 
 	soldiers = {
@@ -329,12 +281,6 @@
 		size = 265
 	}
 
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 1050
-	}
-
 	soldiers = {
 		culture = mossi
 		religion = animist
@@ -360,12 +306,6 @@
 		culture = african_minor
 		religion = animist
 		size = 175
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1050
 	}
 
 	soldiers = {
@@ -399,12 +339,6 @@
 		size = 350
 	}
 
-	artisans = {
-		culture = mossi
-		religion = animist
-		size = 1315
-	}
-
 	soldiers = {
 		culture = mossi
 		religion = animist
@@ -432,12 +366,6 @@
 		culture = akan
 		religion = animist
 		size = 440
-	}
-
-	artisans = {
-		culture = akan
-		religion = animist
-		size = 1750
 	}
 
 	soldiers = {
@@ -469,12 +397,6 @@
 		culture = ewe
 		religion = animist
 		size = 615
-	}
-
-	artisans = {
-		culture = ewe
-		religion = animist
-		size = 2540
 	}
 
 	soldiers = {
@@ -509,12 +431,6 @@
 		culture = african_minor
 		religion = animist
 		size = 265
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 1315
 	}
 
 	soldiers = {

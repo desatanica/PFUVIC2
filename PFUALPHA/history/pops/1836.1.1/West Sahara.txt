@@ -14,12 +14,6 @@
 		size = 15
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
@@ -43,12 +37,6 @@
 		culture = berber
 		religion = sunni
 		size = 50
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 100
 	}
 
 	soldiers = {
@@ -78,12 +66,6 @@
 		size = 15
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
 	soldiers = {
 		culture = bedouin
 		religion = sunni
@@ -107,12 +89,6 @@
 		culture = berber
 		religion = sunni
 		size = 15
-	}
-
-	artisans = {
-		culture = berber
-		religion = sunni
-		size = 50
 	}
 
 	soldiers = {

@@ -2017,10 +2017,9 @@ stock_market_crash = {
 }
 
 great_depression = {
-	import_cost = 1
+	import_cost = 2
 	factory_throughput = -0.5
 	RGO_throughput = -0.5
-	max_tariff = -0.2
 	tax_efficiency = -0.3
     tariff_efficiency_modifier = -0.4
 	poor_everyday_needs = -0.3
@@ -2195,7 +2194,6 @@ signed_the_geneva_convention = {
 	prestige = 0.05
 	org_regain = 0.025
 	max_military_spending = -0.1
-	mobilisation_size = -0.004
 	icon = 7
 }
 

@@ -2,6 +2,13 @@
 #under the rule of China in 1836  
 #Taipei (1452000/363000 POPS) #now part of Taiwan   
 1485 = {
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+	
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
@@ -24,12 +31,6 @@
 		culture = beifaren
 		religion = mahayana
 		size = 1225
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6150
 	}
 
 	soldiers = {
@@ -57,18 +58,6 @@
 		size = 2400
 	}
 
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
@@ -85,6 +74,13 @@
 }
 #Tainan (1528000/382000 POPS) #now part of Taiwan  
 2562 = {
+	
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 10000
+	}
+	
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
@@ -95,12 +91,6 @@
 		culture = beifaren
 		religion = mahayana
 		size = 1325
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6600
 	}
 
 	soldiers = {
@@ -123,18 +113,6 @@
 	}
 
 	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 2500
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
 		culture = beifaren
 		religion = mahayana
 		size = 2500
