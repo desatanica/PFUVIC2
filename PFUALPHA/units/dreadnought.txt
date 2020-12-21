@@ -33,11 +33,11 @@ dreadnought = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		canned_food = 3
-		artillery = 1
+		canned_food = 5
+		artillery = 2
 		ammunition = 2
 		telephones = 1
-		fuel = 2
+		fuel = 1
 	}
 	
 

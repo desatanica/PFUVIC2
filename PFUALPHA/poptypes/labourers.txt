@@ -807,7 +807,11 @@ promote_to = {
 			factor = -2
 			nationalvalue = nv_liberty
 		}
-
+		modifier = {
+		factor = 10
+		year = 1875
+		is_culture_group = germanic
+	    }
 		modifier = {
 			factor = 2.5
 			OR = {

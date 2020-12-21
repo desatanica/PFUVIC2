@@ -99,7 +99,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 38425
+		size = 58425
 	}
 	
 	soldiers = {

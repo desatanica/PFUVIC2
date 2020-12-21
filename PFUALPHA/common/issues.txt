@@ -25,7 +25,7 @@ party_issues = {
 			middle_luxury_needs = 0.05
 			rich_luxury_needs = 0.05
 			max_tariff = 0.50
-			min_tariff = -1
+			min_tariff = 0
 		}
 	}
 	economic_policy = {
@@ -1976,7 +1976,7 @@ military_reforms = {
 	naval_facilities = {
 		next_step_only = yes
 		no_naval_bases = {
-			tariff_efficiency_modifier = -0.2
+			tariff_efficiency_modifier = -0.1
 		}
 		yes_naval_bases = {
 			technology_cost = 6500

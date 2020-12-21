@@ -288,7 +288,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 12400
+		size = 19400
 	}
 	
 	soldiers = {
@@ -344,7 +344,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 9325
+		size = 2325
 	}
 }
 #Grevena (140000/35000 POPS) #now part of Greece
@@ -561,7 +561,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox
-		size = 25600
+		size = 8600
 	}
 
 	clergymen = {
@@ -579,7 +579,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 81250
+		size = 41250
 	}
 	
 	soldiers = {
@@ -929,7 +929,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 3650
+		size = 1650
 	}
 
 	clergymen = {
@@ -992,7 +992,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 5925
+		size = 3925
 	}
 
 	clergymen = {
@@ -1068,7 +1068,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 9550
+		size = 19550
 	}
 }
 #Hellas Region (510000)  

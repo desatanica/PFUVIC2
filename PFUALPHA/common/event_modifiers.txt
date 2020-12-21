@@ -240,7 +240,7 @@ armenian_diaspora = {
 }
 
 tanzimat_land_reform = {
-	farm_rgo_eff = 0.05
+	farm_rgo_eff = 0.15
 	icon = 1
 }
 
@@ -1433,7 +1433,7 @@ liquor_prohibition = {
 	factory_throughput = 0.1
 	global_pop_militancy_modifier = 0.02
 	tax_efficiency = -0.20
-	education_efficiency_modifier = 0.1
+	education_efficiency_modifier = 0.25
 	farm_rgo_eff = 0.10
 	mine_rgo_eff = 0.10
 	icon = 18
@@ -2605,10 +2605,11 @@ five_year_plan = {
 }
 	
 purge = {
+	ruling_party_support = 1
+	tax_efficiency = 0.1
 	global_pop_militancy_modifier = -0.02
 	global_pop_consciousness_modifier = -0.02
-	leadership_modifier = -0.75
-	global_population_growth = -0.01
+	leadership_modifier = -0.2
 	prestige = -0.1
 	icon = 15
 }
@@ -3814,7 +3815,7 @@ zemene_mesafint = {
 
 ### Ottoman Empire modifiers ###
 tanzimat_era = {
-	research_points_modifier = 0.1
+	research_points_modifier = 0.5
 	global_pop_consciousness_modifier = 0.05
 	icon = 7
 }
@@ -4244,5 +4245,10 @@ officer_training_7_mod = {
 colonial_exploitation_tech_effect = {
 	local_RGO_throughput = 0.15
 	pop_militancy_modifier = 0.03
+	icon = 13
+}
+
+purchased_goods = {
+	prestige = -0.02
 	icon = 13
 }

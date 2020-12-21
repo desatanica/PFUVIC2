@@ -4,4 +4,4 @@ add_core = TUR
 add_core = GRE
 trade_goods = coal
 life_rating = 35
-terrain = mountain_farmland
+terrain = dry_forest_mountains

@@ -594,7 +594,7 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 39325
+		size = 41325
 	}
 
 	clergymen = {
@@ -643,7 +643,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 4575
+		size = 2575
 	}
 }
 #Kosovo-Sanjak Region (466000)
@@ -665,7 +665,7 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 22900
+		size = 24900
 	}
 	
 	soldiers = {
@@ -702,7 +702,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 2000
+		size = 1000
 	}
 
 	soldiers = {
@@ -715,7 +715,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 2800
+		size = 1800
 	}
 
 	clergymen = {
@@ -760,7 +760,7 @@
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 15100
+		size = 19100
 	}
 
 	aristocrats = {
@@ -791,7 +791,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 5150
+		size = 1150
 	}
 
 	clergymen = {
