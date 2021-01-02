@@ -13,7 +13,7 @@ GUY		= "countries/Guyana.txt"
 
 
 #North America
-JAM		= "countries/Jamaica.txt"
+
 LSK		= "countries/Alaska.txt"
 PRI		= "countries/PuertoRico.txt"
 
@@ -43,9 +43,7 @@ SYL		= "countries/Transylvania.txt"
 LUZ     = "countries/Luzica.txt"
 PML		= "countries/Pomerelia.txt"
 PZN		= "countries/Poznan.txt"
-
 SLS		= "countries/Silesia.txt"
-
 
 #Russia
 AKH		= "countries/Astrakhan.txt"
@@ -70,7 +68,7 @@ ASY		= "countries/Assyria.txt"
 BHR		= "countries/Bahrain.txt"
 CIR		= "countries/Circassia.txt"
 DAG		= "countries/Dagestan.txt"
-DUR		= "countries/Durrani Empire.txt"
+
 HAL		= "countries/Hail.txt"
 JOR		= "countries/Jordan.txt"
 KDS		= "countries/Kurdistan.txt"
@@ -168,11 +166,9 @@ AIN		= "countries/Ainu.txt"
 # Eastern Asia
 BIM		= "countries/Bima.txt"
 DJA		= "countries/Jambi.txt"
-FJN		= "countries/Fujian.txt"
-GMJ		= "countries/Guominjun.txt"
-GNG		= "countries/Guangdong.txt"
-HNN		= "countries/Hunan.txt"
-HUI		= "countries/Anhui.txt"
+
+
+
 INO		= "countries/Indonesia.txt"
 KCH		= "countries/Kachin.txt"
 KLM		= "countries/Kalimantan.txt"
@@ -187,8 +183,7 @@ SAK		= "countries/Siak.txt"
 SUL		= "countries/Sulu.txt"
 SWK		= "countries/Sarawak.txt"
 SZC		= "countries/Sichuan.txt"
-TAI		= "countries/Taiwan.txt"
-TPG		= "countries/Taiping.txt"
+
 
 # Australasia & the Pacific
 
@@ -261,13 +256,10 @@ CRE		="countries/Crete.txt"
 CRO		="countries/Croatia.txt"
 CYP		="countries/Cyprus.txt"
 GRE		="countries/Greece.txt"
-ION		="countries/Ionian Islands.txt"
-MOL		="countries/Moldavia.txt"
 MON		="countries/Montenegro.txt"
 ROM		="countries/Romania.txt"
 SER		="countries/Serbia.txt"
 SLO		="countries/Slovenia.txt"
-WAL		="countries/Wallachia.txt"
 YUG		="countries/Yugoslavia.txt"
 
 # Africa
@@ -336,14 +328,10 @@ MGL		="countries/Mongolia.txt"
 
 PHL		="countries/Philippines.txt"
 MCK		="countries/Manchukuo.txt"
-GXI		="countries/Guangxi Clique.txt"
-SXI		="countries/Shanxi.txt"
-YNN		="countries/Yunnan.txt"
-XBI		="countries/Xibei San Ma.txt"
-XIN		="countries/Xinjiang.txt"
+
 
 # North America
-CAL		="countries/Californian Republic.txt"
+
 CAN		="countries/Canada.txt"
 CSA		="countries/CSA.txt"
 CUB		="countries/Cuba.txt"

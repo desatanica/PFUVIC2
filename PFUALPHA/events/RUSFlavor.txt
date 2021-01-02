@@ -657,7 +657,6 @@ country_event = {
 					tag = CHI
 					tag = KMT
 					tag = QNG
-					tag = TPG
 				}
 				exists = yes
 				neighbour = THIS

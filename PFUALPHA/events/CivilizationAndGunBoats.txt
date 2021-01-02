@@ -1527,7 +1527,6 @@ country_event = {
 	
 	trigger = {	exists = yes
 		NOT = { tag = CHI }
-		NOT = { tag = TPG }
 		NOT = { tag = QNG }
 	}
 

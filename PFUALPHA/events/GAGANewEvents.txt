@@ -1636,59 +1636,6 @@ country_event = {
 	}
 }
 
-# 555153 - The Taiping Rebellion (Taiping start)
-country_event = {
-
-	id = 555153
-	title = "EVTNAME555153"
-	desc = "EVTDESC555153"
-	picture = "taiping"
-	fire_only_once = yes
-	major = yes
-
-	trigger = {	
-		exists = yes
-		tag = QNG
-		has_global_flag = taiping_preparations
-		not = { has_global_flag = taiping_has_happened }
-		NOT = { has_country_modifier = no_more_war }
-		NOT = { has_country_modifier = neutrality }
-	}
-	
-	mean_time_to_happen =  {
-		days = 1
-	}
-	
-	immediately = {
-		QNG = {
-			clr_country_modifier = no_more_war
-			clr_country_modifier = neutrality
-		}
-		TPG = {
-			clr_country_modifier = no_more_war
-			clr_country_modifier = neutrality
-		}
-	}
-	
-	option = {
-		name = "EVTOPTA555153"
-		
-		QNG = {
-			war = {
-				target = TPG
-				attacker_goal = {
-					casus_belli = civil_war
-				}
-				
-				defender_goal = {
-					casus_belli = civil_war
-				}
-			}
-		}
-		set_global_flag = taiping_has_happened
-	}
-}
-
 # 555160 - End of the Temperance League
 country_event = {
 	id = 555160

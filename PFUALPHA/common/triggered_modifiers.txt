@@ -281,4 +281,3 @@ economic_boom = {
 	tariff_efficiency_modifier = 0.05
 	icon = 6
 }
-

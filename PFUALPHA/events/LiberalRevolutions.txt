@@ -11,8 +11,6 @@ country_event = {
 			tag = AUS
 			tag = KUK
 			tag = SIC
-			tag = MOL
-			tag = WAL
 			literacy = 0.3
 		}
 		year = 1840

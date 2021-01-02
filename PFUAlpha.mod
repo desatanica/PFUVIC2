@@ -1,7 +1,8 @@
-name = "PFU Alpha [v0.9.6]" # name of your mod, shown in launcher
+name = "PFU Alpha [v0.9.7]" # name of your mod, shown in launcher
 replace_path="history/countries"
 replace_path="history/pops"
 replace_path="history/units"
+replace_path="history/wars"
 replace_path="decisions"
 replace_path="events"
 path = "mod/PFUALPHA" # location of your mod files 

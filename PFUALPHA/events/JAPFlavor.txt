@@ -918,7 +918,6 @@ country_event = {
 				prestige = -10
 				any_owned = {
 					limit = { region = CHI_1485 }
-					add_core = TAI
 					secede_province = JAP
 				}
 			}

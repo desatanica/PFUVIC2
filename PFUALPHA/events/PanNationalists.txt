@@ -46,8 +46,6 @@ country_event = {
 				is_culture_group = THIS
 				OR = {
 					is_greater_power = yes
-					tag = WAL
-					tag = MOL
 					tag = DEN
 					tag = SWE
 				}

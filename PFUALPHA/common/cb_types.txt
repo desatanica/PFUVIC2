@@ -2396,8 +2396,6 @@ free_balkans = {
 				tag = GRE
 				tag = SER
 				tag = ROM
-				tag = MOL
-				tag = WAL
 				tag = MON
 				tag = BUL
 				AND = {
@@ -3501,7 +3499,6 @@ china_acquire_state = {
 			}
 		}
 		OR = {
-			NOT = { has_global_flag = warlord_era_has_begun }
 			owns = 1616
 			NOT = { is_culture_group = east_asian }
 			AND = {
@@ -3510,52 +3507,38 @@ china_acquire_state = {
 				THIS = { NOT = { has_country_flag = kuomintang_faction } }
 			}
 			AND = {
-				tag = TPG
-				THIS = { NOT = { has_country_flag = neutral_faction } }
-			}
-			AND = {
 				tag = KMT
 				THIS = { NOT = { has_country_flag = neutral_faction } }
 				THIS = { NOT = { has_country_flag = beiyang_faction } }
 				THIS = { NOT = { has_country_flag = communist_faction } }
 			}
 			AND = {
-				THIS = { tag = TPG }
-				OR = {
-					has_country_flag = beiyang_faction
-					has_country_flag = kuomintang_faction
-					has_country_flag = communist_faction
-					tag = KMT
-					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction has_country_flag = kuomintang_faction has_country_flag = communist_faction tag = CHI tag = KMT } } } }
-				}
-			}
-			AND = {
 				THIS = { tag = KMT }
 				OR = {
 					has_country_flag = beiyang_faction
 					tag = CHI
-					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction tag = CHI tag = TPG } } } }
+					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction tag = CHI } } } }
 				}
 			}
 			AND = {
 				THIS = { has_country_flag = beiyang_faction }
 				OR = {
 					has_country_flag = beiyang_faction
-					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction tag = CHI tag = TPG } } } }
+					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = beiyang_faction tag = CHI } } } }
 				}
 			}
 			AND = {
 				THIS = { has_country_flag = kuomintang_faction }
 				OR = {
 					has_country_flag = kuomintang_faction
-					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = kuomintang_faction tag = TPG tag = KMT } } } }
+					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = kuomintang_faction tag = KMT } } } }
 				}
 			}
 			AND = {
 				THIS = { has_country_flag = communist_faction }
 				OR = {
 					has_country_flag = communist_faction
-					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = communist_faction tag = TPG tag = CHI } } } }
+					THIS = { NOT = { any_neighbor_country = { OR = { has_country_flag = communist_faction tag = CHI } } } }
 				}
 			}
 		}
