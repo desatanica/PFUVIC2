@@ -83,7 +83,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 136550
@@ -95,7 +95,7 @@
 		size = 1200
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = catholic
 		size = 800
@@ -120,7 +120,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = malay
 		religion = catholic
 		size = 17725
@@ -153,7 +153,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 140525
@@ -187,7 +187,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 122525
@@ -212,7 +212,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = malay
 		religion = catholic
 		size = 8350
@@ -245,7 +245,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 38875
@@ -270,7 +270,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = sunni
 		size = 11025
@@ -306,7 +306,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 3700
@@ -337,7 +337,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = sunni
 		size = 15500
@@ -372,7 +372,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 64750
@@ -397,7 +397,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = sunni
 		size = 7325
@@ -430,7 +430,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 80125
@@ -488,7 +488,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 64050
@@ -513,7 +513,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = sunni
 		size = 5375
@@ -568,7 +568,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 14800
@@ -599,7 +599,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = sunni
 		size = 19100
@@ -636,7 +636,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = sunni
 		size = 44900
@@ -654,7 +654,7 @@
 		size = 750
 	}
 
-	farmers = {
+	serfs = {
 		culture = filipino
 		religion = catholic
 		size = 22200
@@ -707,7 +707,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = malay
 		religion = sunni
 		size = 14825

@@ -6833,7 +6833,7 @@ luderitz_expedition = {
 		prestige = 2
 		treasury = -500000
 		set_country_flag = founding_german_namibia 
-		2084 = { secede_province = THIS change_province_name = "L√ºderitzbucht" any_pop = { literacy = -0.99 } life_rating = 21 add_province_modifier = { name = small_immigration_boom duration = 7300 } }
+		2084 = { secede_province = THIS change_province_name = "L¸deritzbucht" any_pop = { literacy = -0.99 } life_rating = 21 add_province_modifier = { name = small_immigration_boom duration = 7300 } }
 		2086 = { secede_province = THIS change_province_name = "Keetmanshoop" any_pop = { literacy = -0.99 } life_rating = 10 }
 		2085 = { secede_province = THIS any_pop = { literacy = -0.99 } life_rating = 10 }
 		2078 = { secede_province = THIS any_pop = { literacy = -0.99 } }
@@ -11418,6 +11418,7 @@ appoint_camillo_cavour = {
    }
 
 ##############Japan################
+
 	putiatin_mission = {
 		picture = french_military_mission_to_japan
 		potential = {
@@ -12066,6 +12067,62 @@ appoint_camillo_cavour = {
 			factor = 1
 		}
 	}
+	
+	
+
+	yokohama_shipyards = {
+		picture = yokohama
+		potential = {
+		    tag = JAP
+			1651 = { NOT = { has_province_modifier = yokohama_shipyards } }
+		}
+		allow = {
+			year = 1865
+			raider_group_doctrine = 1
+			money = 1000000
+		}
+		effect = {
+			treasury = -1000000
+			prestige = 25
+			1651 = {
+				add_province_modifier = {
+					name = yokohama_shipyards
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+	
+	
+	hiroshima_shipyards = {
+		picture = kure
+		potential = {
+		    tag = JAP
+			1638 = { NOT = { has_province_modifier = hiroshima_shipyards } }
+		}
+		allow = {
+			year = 1870
+			raider_group_doctrine = 1
+			money = 1000000
+		}
+		effect = {
+			treasury = -1000000
+			prestige = 35
+			1638 = {
+				add_province_modifier = {
+					name = hiroshima_shipyards
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	
 	anglo_japanese_alliance = {
 		picture = treaty_signing
@@ -15855,9 +15912,9 @@ appoint_camillo_cavour = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Stra√üburg"
+				change_province_name = "Straﬂburg"
 				state_scope = {
-					change_region_name = "Elsa√ü-Lothringen"
+					change_region_name = "Elsaﬂ-Lothringen"
 				}
 			}
 			prestige = 5
@@ -23586,6 +23643,43 @@ appoint_camillo_cavour = {
 
 		}
 
+	}
+	
+	
+	world_bank = {
+	    picture = "hanyang_arsenal"
+		alert = no
+		potential = { tag = KWT }
+		
+		allow = {
+		NOT = { has_country_modifier = purchased_goods }
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = purchased_goods
+				duration = 30
+			}
+
+			KWT = {
+			financiers = { money = 500000 }
+			}
+			KWT = { prestige = -10 }
+			
+			any_country = {
+				diplomatic_influence = {
+					who = THIS
+					value = -100
+				}
+				relation = {
+					who = THIS
+					value = -100
+				}
+			}
+
+		}
+		
+		ai_will_do = { factor = 1 }
 	}
 	
 		expel_turks = {

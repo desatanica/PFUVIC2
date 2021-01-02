@@ -152,7 +152,12 @@
 	farmers = {
 		culture = polar_bears
 		religion = animist
-		size = 90
+		size = 2000
+	}
+	financiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50000
 	}
 }
 

@@ -33,7 +33,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = baguirmi
 		religion = sunni
 		size = 24800
@@ -58,7 +58,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = sara
 		religion = animist
 		size = 22000
@@ -89,7 +89,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 18300
@@ -116,7 +116,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = baguirmi
 		religion = sunni
 		size = 575
@@ -141,7 +141,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = sara
 		religion = animist
 		size = 6375
@@ -180,7 +180,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = sara
 		religion = animist
 		size = 1800
@@ -205,7 +205,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 6375
@@ -246,7 +246,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fur
 		religion = sunni
 		size = 13000
@@ -271,7 +271,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = berber
 		religion = sunni
 		size = 9000
@@ -304,7 +304,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fur
 		religion = sunni
 		size = 21650
@@ -335,7 +335,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = bedouin
 		religion = sunni
 		size = 7300
@@ -362,7 +362,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fur
 		religion = sunni
 		size = 26500
@@ -387,7 +387,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = bedouin
 		religion = sunni
 		size = 5400
@@ -412,7 +412,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 3600
@@ -447,7 +447,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = bedouin
 		religion = sunni
 		size = 93400
@@ -472,7 +472,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = berber
 		religion = sunni
 		size = 7200
@@ -509,7 +509,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kanuri
 		religion = sunni
 		size = 23400
@@ -542,7 +542,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = berber
 		religion = sunni
 		size = 14575
@@ -567,7 +567,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = berber
 		religion = sunni
 		size = 1800
@@ -595,7 +595,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = berber
 		religion = sunni
 		size = 12750

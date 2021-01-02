@@ -39,7 +39,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 172125
@@ -78,7 +78,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 163625
@@ -131,7 +131,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 63300
@@ -170,7 +170,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 72600
@@ -209,7 +209,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 54625
@@ -268,7 +268,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 248725
@@ -307,7 +307,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 59150
@@ -346,7 +346,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 54625
@@ -385,7 +385,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 72625
@@ -424,7 +424,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 117625
@@ -477,7 +477,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 76800
@@ -516,7 +516,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 54625
@@ -555,7 +555,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 59175
@@ -608,7 +608,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 158150
@@ -647,7 +647,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 91050
@@ -686,7 +686,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 136050
@@ -739,7 +739,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 136300
@@ -778,7 +778,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 117625
@@ -817,7 +817,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 63725

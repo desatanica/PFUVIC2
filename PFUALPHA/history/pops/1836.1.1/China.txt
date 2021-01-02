@@ -47,7 +47,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1045725
@@ -72,7 +72,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 162900
@@ -97,7 +97,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 19075
@@ -157,7 +157,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1080950
@@ -184,7 +184,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 76450
@@ -218,7 +218,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 495100
@@ -243,7 +243,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 10950
@@ -277,7 +277,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 980575
@@ -302,7 +302,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 37800
@@ -350,7 +350,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1008275
@@ -375,7 +375,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 11850
@@ -409,7 +409,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 980900
@@ -443,7 +443,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 611525
@@ -497,7 +497,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 950900
@@ -531,7 +531,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 528075
@@ -586,7 +586,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 376750
@@ -611,7 +611,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 44600
@@ -636,7 +636,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 29125
@@ -661,7 +661,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 28225
@@ -688,7 +688,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 229275
@@ -713,7 +713,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 12750
@@ -738,7 +738,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 12750
@@ -772,7 +772,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 103700
@@ -797,7 +797,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 14550
@@ -838,7 +838,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 298100
@@ -863,7 +863,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 27300
@@ -895,7 +895,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 588250
@@ -920,7 +920,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 32825
@@ -966,7 +966,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 176600
@@ -991,7 +991,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 22750
@@ -1016,7 +1016,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 374025
@@ -1043,7 +1043,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 216625
@@ -1068,7 +1068,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 396725
@@ -1095,7 +1095,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 178375
@@ -1127,7 +1127,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 739175
@@ -1159,7 +1159,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 462400
@@ -1186,7 +1186,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 216450
@@ -1211,7 +1211,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 95125
@@ -1259,7 +1259,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 364225
@@ -1305,7 +1305,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 555500
@@ -1330,7 +1330,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 12750
@@ -1364,7 +1364,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 635600
@@ -1391,7 +1391,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 138350
@@ -1416,7 +1416,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 18250
@@ -1441,7 +1441,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 60975
@@ -1475,7 +1475,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 697075
@@ -1500,7 +1500,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 23675
@@ -1560,7 +1560,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 168400
@@ -1585,7 +1585,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 49400
@@ -1610,7 +1610,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 33675
@@ -1635,7 +1635,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 149250
@@ -1660,7 +1660,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 14575
@@ -1692,7 +1692,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 501775
@@ -1745,7 +1745,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 339475
@@ -1770,7 +1770,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 25550
@@ -1795,7 +1795,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 449750
@@ -1822,7 +1822,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 17300
@@ -1854,7 +1854,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 844950
@@ -1900,13 +1900,13 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 101375
 	}
 	
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 30200
@@ -1933,7 +1933,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 146525
@@ -1958,7 +1958,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 89775
@@ -1983,7 +1983,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 265725
@@ -2017,7 +2017,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 169275
@@ -2049,7 +2049,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 563350
@@ -2074,7 +2074,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 46425
@@ -2101,7 +2101,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 107400
@@ -2126,7 +2126,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 251175
@@ -2151,7 +2151,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 183875
@@ -2178,7 +2178,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 403150
@@ -2232,7 +2232,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = catholic
 		size = 250
@@ -2251,13 +2251,13 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 181375
 	}
 	
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 50200
@@ -2299,7 +2299,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 79850
@@ -2324,7 +2324,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 358550
@@ -2349,7 +2349,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 112800
@@ -2374,7 +2374,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 9100
@@ -2420,7 +2420,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 237525
@@ -2452,7 +2452,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 483325
@@ -2484,7 +2484,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 283975
@@ -2509,7 +2509,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 59225
@@ -2536,7 +2536,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 72900
@@ -2561,7 +2561,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 143800
@@ -2586,7 +2586,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 106525
@@ -2611,7 +2611,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 900
@@ -2652,7 +2652,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 241025
@@ -2677,7 +2677,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 4550
@@ -2702,7 +2702,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 1775
@@ -2727,7 +2727,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 13650
@@ -2773,7 +2773,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 273500
@@ -2798,7 +2798,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 111050
@@ -2823,7 +2823,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 35500
@@ -2848,7 +2848,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 7375
@@ -2881,7 +2881,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 414150
@@ -2906,7 +2906,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 103750
@@ -2931,7 +2931,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 47375
@@ -2979,7 +2979,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 817525
@@ -3004,7 +3004,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 49600
@@ -3063,7 +3063,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 704350
@@ -3088,7 +3088,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 34575
@@ -3122,7 +3122,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 716425
@@ -3147,7 +3147,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 35500
@@ -3181,7 +3181,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 980125
@@ -3206,7 +3206,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 49050
@@ -3240,7 +3240,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 710075
@@ -3265,7 +3265,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 33675
@@ -3299,7 +3299,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 705750
@@ -3333,7 +3333,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 667975
@@ -3373,7 +3373,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 937900
@@ -3421,7 +3421,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 714650
@@ -3446,7 +3446,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 21225
@@ -3471,7 +3471,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 15475
@@ -3524,7 +3524,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 939275
@@ -3558,7 +3558,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 723800
@@ -3583,7 +3583,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 15475
@@ -3608,7 +3608,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 14575
@@ -3648,7 +3648,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 702750
@@ -3673,7 +3673,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 38225
@@ -3698,7 +3698,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 16400
@@ -3732,7 +3732,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 729000
@@ -3757,7 +3757,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 14575
@@ -3791,7 +3791,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 705750
@@ -3816,7 +3816,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 31900
@@ -3841,7 +3841,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 900
@@ -3875,7 +3875,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 755700
@@ -3900,7 +3900,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 900
@@ -3934,7 +3934,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 730475
@@ -3959,7 +3959,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 131050
@@ -3984,7 +3984,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 900
@@ -4032,7 +4032,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 924225
@@ -4057,7 +4057,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 2750
@@ -4110,7 +4110,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 368650
@@ -4135,7 +4135,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 35500
@@ -4175,7 +4175,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 764600
@@ -4200,7 +4200,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 111950
@@ -4234,7 +4234,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 769975
@@ -4259,7 +4259,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 93750
@@ -4286,7 +4286,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 222050
@@ -4311,7 +4311,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 49150
@@ -4345,7 +4345,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 688975
@@ -4379,7 +4379,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 571500
@@ -4404,7 +4404,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 106500
@@ -4426,7 +4426,7 @@
 		size = 75
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 123625
@@ -4451,7 +4451,7 @@
 
 	}
 	
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 40650
@@ -4478,7 +4478,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 30650
@@ -4490,7 +4490,7 @@
 		size = 25
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1875
@@ -4515,7 +4515,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 341850
@@ -4535,13 +4535,13 @@
 		size = 75
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 53625
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 19375
@@ -4562,13 +4562,13 @@
 		size = 250
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 90875
 	}
 	
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 29375
@@ -4647,7 +4647,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 443300
@@ -4691,7 +4691,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 284525
@@ -4737,7 +4737,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 50075
@@ -4769,7 +4769,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 666150
@@ -4810,7 +4810,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1216650
@@ -4835,7 +4835,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 176550
@@ -4881,7 +4881,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1061000
@@ -4915,7 +4915,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 966400
@@ -4940,7 +4940,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 163825
@@ -4987,7 +4987,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1008300
@@ -5012,7 +5012,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 249350
@@ -5053,7 +5053,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1173925
@@ -5078,7 +5078,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 81925
@@ -5105,7 +5105,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 108250
@@ -5130,7 +5130,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 382225
@@ -5157,7 +5157,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 101950
@@ -5189,7 +5189,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 660000
@@ -5229,7 +5229,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 532375
@@ -5254,7 +5254,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 186575
@@ -5302,7 +5302,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 451175
@@ -5339,7 +5339,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 140075
@@ -5364,7 +5364,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1800
@@ -5390,7 +5390,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 31825
@@ -5443,7 +5443,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 478675
@@ -5468,7 +5468,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 138325
@@ -5493,7 +5493,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 56425
@@ -5533,7 +5533,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 526000
@@ -5565,7 +5565,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 996400
@@ -5592,7 +5592,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 262050
@@ -5617,7 +5617,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 114675
@@ -5651,7 +5651,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 687975
@@ -5676,7 +5676,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 175650
@@ -5701,7 +5701,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 29775
@@ -5742,7 +5742,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1070175
@@ -5767,7 +5767,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 53700
@@ -5801,7 +5801,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 526000
@@ -5826,7 +5826,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 137425
@@ -5881,7 +5881,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 624100
@@ -5906,7 +5906,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 4575
@@ -5940,7 +5940,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 343950
@@ -5965,7 +5965,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 2700
@@ -5992,7 +5992,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 208400
@@ -6017,7 +6017,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 34600
@@ -6044,7 +6044,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 227550
@@ -6069,7 +6069,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = korean
 		religion = mahayana
 		size = 30950
@@ -6096,7 +6096,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 53800
@@ -6121,7 +6121,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 2700
@@ -6162,7 +6162,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 97200
@@ -6190,7 +6190,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 119175
@@ -6218,7 +6218,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 34600
@@ -6243,7 +6243,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 46775
@@ -6291,7 +6291,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 685300
@@ -6316,7 +6316,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 38225
@@ -6362,7 +6362,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 331150
@@ -6397,7 +6397,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 353050
@@ -6422,7 +6422,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 39150
@@ -6447,7 +6447,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 402225
@@ -6481,7 +6481,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 389400
@@ -6537,7 +6537,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1265600
@@ -6562,7 +6562,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 64625
@@ -6615,7 +6615,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 842948
@@ -6655,7 +6655,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 827200
@@ -6689,7 +6689,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 405475
@@ -6723,7 +6723,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 895450
@@ -6757,7 +6757,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 839025
@@ -6791,7 +6791,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 306375
@@ -6825,7 +6825,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 840850
@@ -6859,7 +6859,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 897275
@@ -6907,7 +6907,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 988950
@@ -6932,7 +6932,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 12750
@@ -6992,7 +6992,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 768050
@@ -7017,7 +7017,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 8200
@@ -7051,7 +7051,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 845400
@@ -7076,7 +7076,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 7300
@@ -7110,7 +7110,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 765325
@@ -7135,7 +7135,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 6375
@@ -7162,7 +7162,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 650975
@@ -7199,7 +7199,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 872700
@@ -7245,7 +7245,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 474150
@@ -7304,7 +7304,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1077675
@@ -7331,7 +7331,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 754100
@@ -7375,7 +7375,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 36400
@@ -7409,7 +7409,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 976450
@@ -7443,7 +7443,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 503250
@@ -7468,7 +7468,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 1800
@@ -7493,7 +7493,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 95650
@@ -7518,7 +7518,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 35500
@@ -7559,7 +7559,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1041900
@@ -7593,7 +7593,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 687925
@@ -7627,7 +7627,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 390400
@@ -7652,7 +7652,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 99200
@@ -7677,7 +7677,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 167400
@@ -7704,7 +7704,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 411325
@@ -7729,7 +7729,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 7325
@@ -7754,7 +7754,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 8200
@@ -7779,7 +7779,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 148350
@@ -7834,7 +7834,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 412825
@@ -7852,7 +7852,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 189100
@@ -7877,7 +7877,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 5475
@@ -7902,7 +7902,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 9000
@@ -7927,7 +7927,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 47325
@@ -7973,7 +7973,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 26375
@@ -7998,7 +7998,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 245650
@@ -8023,7 +8023,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 24575
@@ -8050,7 +8050,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 60100
@@ -8068,7 +8068,7 @@
 		size = 350
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 43650
@@ -8093,7 +8093,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 10100
@@ -8118,7 +8118,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 3650
@@ -8143,7 +8143,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 99175
@@ -8168,7 +8168,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 106525
@@ -8209,7 +8209,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 210450
@@ -8234,7 +8234,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 104075
@@ -8259,7 +8259,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 3650
@@ -8284,7 +8284,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 6375
@@ -8330,7 +8330,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 633675
@@ -8355,7 +8355,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 51875
@@ -8389,7 +8389,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 443675
@@ -8414,7 +8414,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 34625
@@ -8447,7 +8447,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 383125
@@ -8472,7 +8472,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 12750
@@ -8497,7 +8497,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 73725
@@ -8531,7 +8531,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 451975
@@ -8556,7 +8556,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 111025
@@ -8590,7 +8590,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 80100
@@ -8615,7 +8615,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 318325
@@ -8642,7 +8642,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 383125
@@ -8669,7 +8669,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 382225
@@ -8694,7 +8694,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 19125
@@ -8779,7 +8779,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 998650
@@ -8804,7 +8804,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 31250
@@ -8824,7 +8824,7 @@
 		size = 13000
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1400800
@@ -8849,7 +8849,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 12750
@@ -8915,7 +8915,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 47000
@@ -8949,7 +8949,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 765325
@@ -8990,7 +8990,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1022850
@@ -9031,7 +9031,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1007425
@@ -9089,7 +9089,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = manchu
 		religion = mahayana
 		size = 10750
@@ -9130,7 +9130,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1321325
@@ -9155,7 +9155,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = sunni
 		size = 35500
@@ -9196,7 +9196,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 1192125

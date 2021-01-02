@@ -10,7 +10,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = afro_caribbean
 		religion = protestant
 		size = 4700
@@ -35,7 +35,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 31975
@@ -60,7 +60,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = sunni
 		size = 42025
@@ -85,7 +85,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 12750
@@ -113,7 +113,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 36275
@@ -138,7 +138,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 37375
@@ -173,7 +173,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 36225
@@ -198,7 +198,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = sunni
 		size = 31725
@@ -223,7 +223,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 7300

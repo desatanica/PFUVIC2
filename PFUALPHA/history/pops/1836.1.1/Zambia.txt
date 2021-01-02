@@ -21,7 +21,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 12750
@@ -46,7 +46,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 5400
@@ -91,7 +91,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 15000
@@ -116,7 +116,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 16400
@@ -149,7 +149,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 3050
@@ -174,7 +174,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 20050
@@ -207,7 +207,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 3525
@@ -232,7 +232,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 7300
@@ -263,7 +263,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = nguni
 		religion = animist
 		size = 4575
@@ -288,7 +288,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = sena
 		religion = animist
 		size = 3650
@@ -317,7 +317,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 1575
@@ -342,7 +342,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 1800
@@ -387,7 +387,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 8950
@@ -412,7 +412,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 900
@@ -445,7 +445,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 4350
@@ -470,7 +470,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 1800
@@ -503,7 +503,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lunda
 		religion = animist
 		size = 20025
@@ -528,7 +528,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 1800

@@ -39,7 +39,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 18560
@@ -64,7 +64,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = animist
 		size = 13950
@@ -97,7 +97,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 12740
@@ -122,7 +122,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = animist
 		size = 1490
@@ -155,7 +155,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 7725
@@ -180,7 +180,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = animist
 		size = 1775
@@ -213,7 +213,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 15655
@@ -246,7 +246,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 1730
@@ -279,7 +279,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 29175
@@ -312,7 +312,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 12010
@@ -343,7 +343,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kachin
 		religion = animist
 		size = 3555
@@ -374,7 +374,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = asian_minor
 		religion = animist
 		size = 3460

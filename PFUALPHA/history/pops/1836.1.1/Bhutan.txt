@@ -33,7 +33,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 26575
@@ -58,7 +58,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = nepali
 		religion = hindu
 		size = 3650

@@ -27,7 +27,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 2700
@@ -71,7 +71,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = bedouin
 		religion = sunni
 		size = 3600
@@ -104,7 +104,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 6375
@@ -135,7 +135,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = bedouin
 		religion = sunni
 		size = 3600
@@ -181,7 +181,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 10825
@@ -212,7 +212,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 7300
@@ -245,7 +245,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 6375

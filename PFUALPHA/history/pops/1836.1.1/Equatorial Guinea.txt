@@ -34,7 +34,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fang
 		religion = catholic
 		size = 1530
@@ -68,7 +68,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fang
 		religion = animist
 		size = 31500

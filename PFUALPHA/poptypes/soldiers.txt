@@ -46,17 +46,17 @@ everyday_needs = {
 	canned_food = 0.25
 }
 luxury_needs = {
-	boots = 1
-	coffee = 1.5
-	spices = 0.5
-	wine = 0.5
-	cigars = 0.5
-	opium = 0.25
-	automobiles = 0.25
-	telephones = 0.25
-	fuel = 0.25
-	radio = 0.25
-	electric_power = 0.5
+	coffee = 1
+	spices = 0.25
+	opium = 0.15
+	boots = 0.25
+	wine = 0.25
+	cigars = 0.25
+	automobiles = 0.1
+	telephones = 0.1
+	fuel = 0.1
+	radio = 0.1
+	electric_power = 0.1
 }
 
 

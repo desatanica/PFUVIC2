@@ -1638,24 +1638,17 @@
 		religion = catholic
 		size = 10000
 	}
-	
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 400
-	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 40000
-
+		size = 70000
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 82200
+		size = 52200
 	}
 
 	clergymen = {
@@ -1673,13 +1666,13 @@
 	clerks = {
 		culture = french
 		religion = jewish
-		size = 1400
+		size = 2400
 	}
 
 	craftsmen = {
 		culture = french
 		religion = jewish
-		size = 2500
+		size = 3500
 	}
 
 	artisans = {
@@ -1688,12 +1681,6 @@
 		size = 2250
 	}
 
-	soldiers = {
-		culture = french
-		religion = jewish
-		size = 50
-
-	}
 }
 #Chartres (284000/71000 POPS)
 426 = {

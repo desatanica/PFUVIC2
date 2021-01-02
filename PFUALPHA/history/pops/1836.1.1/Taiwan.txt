@@ -40,7 +40,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 110625
@@ -65,7 +65,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 222200
@@ -100,7 +100,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 121225
@@ -125,7 +125,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = mahayana
 		size = 229000

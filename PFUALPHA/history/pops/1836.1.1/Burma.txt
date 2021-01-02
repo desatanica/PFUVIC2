@@ -27,7 +27,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 22000
@@ -90,7 +90,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 38700
@@ -123,7 +123,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 24775
@@ -181,7 +181,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 44200
@@ -256,7 +256,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 67300
@@ -289,7 +289,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 29425
@@ -327,7 +327,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 38750
@@ -370,7 +370,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 39600
@@ -401,7 +401,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 5600
@@ -432,7 +432,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 6425
@@ -484,7 +484,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 100500
@@ -515,7 +515,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 4600
@@ -548,7 +548,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 26875
@@ -581,7 +581,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 54850
@@ -629,7 +629,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 76750
@@ -672,7 +672,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 18300
@@ -705,7 +705,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 46000
@@ -736,7 +736,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 10100
@@ -761,7 +761,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 6475
@@ -797,7 +797,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 3650
@@ -853,7 +853,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 15575
@@ -886,7 +886,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 49850
@@ -919,7 +919,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 37800
@@ -950,7 +950,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 21050
@@ -994,7 +994,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 20950
@@ -1030,7 +1030,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 30950
@@ -1092,7 +1092,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 5075
@@ -1131,7 +1131,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 34825
@@ -1162,7 +1162,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 17250
@@ -1193,7 +1193,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 24050
@@ -1235,7 +1235,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = sunni
 		size = 11875
@@ -1272,7 +1272,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 18825
@@ -1284,7 +1284,7 @@
 		size = 25
 	}
 
-	farmers = {
+	serfs = {
 		culture = burmese
 		religion = theravada
 		size = 950
@@ -1296,7 +1296,7 @@
 		size = 50
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 1950

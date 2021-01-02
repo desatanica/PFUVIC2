@@ -46,7 +46,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khmer
 		religion = theravada
 		size = 98025
@@ -70,7 +70,7 @@
 		size = 1250
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 2675
@@ -103,7 +103,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khmer
 		religion = theravada
 		size = 34150
@@ -121,7 +121,7 @@
 		size = 500
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 1475
@@ -154,7 +154,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khmer
 		religion = theravada
 		size = 16450
@@ -185,7 +185,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = asian_minor
 		religion = animist
 		size = 2750
@@ -231,7 +231,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 725
@@ -262,7 +262,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khmer
 		religion = theravada
 		size = 39425
@@ -293,7 +293,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 2150

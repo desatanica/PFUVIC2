@@ -21,7 +21,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tswana
 		religion = animist
 		size = 6375
@@ -48,7 +48,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tswana
 		religion = animist
 		size = 900
@@ -73,7 +73,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = herero
 		religion = animist
 		size = 1800
@@ -100,7 +100,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tswana
 		religion = animist
 		size = 1800
@@ -125,7 +125,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khoisan
 		religion = animist
 		size = 900
@@ -152,7 +152,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tswana
 		religion = animist
 		size = 3650
@@ -180,7 +180,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = nguni
 		religion = animist
 		size = 1800
@@ -205,7 +205,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tswana
 		religion = animist
 		size = 1800

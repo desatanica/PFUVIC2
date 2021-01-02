@@ -39,7 +39,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 90000
@@ -76,7 +76,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = jewish
 		size = 3630
@@ -106,7 +106,7 @@
 		size = 1650
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 33900
@@ -152,7 +152,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 52000
@@ -189,7 +189,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 67750
@@ -228,7 +228,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 60000
@@ -265,7 +265,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = jewish
 		size = 11800
@@ -296,7 +296,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 65240
@@ -335,7 +335,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 61000
@@ -379,7 +379,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 170000
@@ -432,7 +432,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 29485
@@ -475,7 +475,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 5075
@@ -514,7 +514,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 24550
@@ -551,7 +551,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 7750
@@ -584,7 +584,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 12635
@@ -670,7 +670,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 62400
@@ -719,7 +719,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 110000
@@ -758,7 +758,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 40225
@@ -788,7 +788,7 @@
 		size = 2725
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 53300
@@ -827,7 +827,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 26525
@@ -864,7 +864,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 50000
@@ -905,7 +905,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 100500
@@ -944,7 +944,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 20850
@@ -981,7 +981,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 57500
@@ -1018,7 +1018,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 41000
@@ -1051,7 +1051,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 35375
@@ -1088,7 +1088,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 105000
@@ -1141,7 +1141,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 29215
@@ -1172,7 +1172,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 2665
@@ -1203,7 +1203,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 42800
@@ -1243,7 +1243,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = animist
 		size = 19875
@@ -1280,7 +1280,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = sunni
 		size = 28500
@@ -1311,7 +1311,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 13575
@@ -1337,7 +1337,7 @@
 		size = 750
 	}
 
-	farmers = {
+	serfs = {
 		culture = amhara
 		religion = coptic
 		size = 43675
@@ -1368,7 +1368,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 37000

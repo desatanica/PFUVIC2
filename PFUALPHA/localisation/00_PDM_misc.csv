@@ -182,6 +182,8 @@ PV_CLERGY_LIT_NUM;$NUM$ of your population are Intellectuals (Optimal $OPT$): $V
 PV_CLERGY_LIT_DESC1;$NUM$ of your population in $LOC$ are Intellectuals.;;;;;;;;;;;;;;;;;;;;;;;;;;x
 POP_CON_CLERGY;Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 clergymen;Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
+financiers;Financiers;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
+serfs;Rural Pops;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 promote_clergymen;Encourage Intellectuals;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 no_personality;No Personality;Aucune;Nichts;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
 active_p;Active;Actif;Aktiv;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,

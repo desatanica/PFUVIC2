@@ -21,7 +21,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 38000
@@ -68,7 +68,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fulbe
 		religion = sunni
 		size = 29000
@@ -93,7 +93,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 87400
@@ -126,7 +126,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fulbe
 		religion = sunni
 		size = 22900
@@ -157,7 +157,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 24225
@@ -182,7 +182,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = dyula
 		religion = sunni
 		size = 8250
@@ -217,7 +217,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = fulbe
 		religion = sunni
 		size = 9450
@@ -242,7 +242,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 31090
@@ -267,7 +267,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = dyula
 		religion = sunni
 		size = 8215
@@ -301,7 +301,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 32725
@@ -326,7 +326,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = dyula
 		religion = sunni
 		size = 4550

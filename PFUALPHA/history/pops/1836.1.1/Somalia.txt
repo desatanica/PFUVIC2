@@ -40,7 +40,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 43000
@@ -79,7 +79,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 13775
@@ -110,7 +110,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 4575
@@ -150,7 +150,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 20000
@@ -185,7 +185,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 15500
@@ -236,7 +236,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 20950
@@ -289,7 +289,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 32000
@@ -334,7 +334,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 7300
@@ -367,7 +367,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = somali
 		religion = sunni
 		size = 2700
@@ -398,7 +398,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = afar
 		religion = sunni
 		size = 3625

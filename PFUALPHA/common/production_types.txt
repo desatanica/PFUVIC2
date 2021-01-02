@@ -1152,7 +1152,13 @@ RGO_template_farmers = {
 			effect = throughput
 			amount = 1
 		}
-		{ 
+		{
+			poptype = serfs 
+			effect = throughput
+			amount = 1
+			effect_multiplier = 0.5
+		}
+		{
 			poptype = slaves 
 			effect = output
 			effect_multiplier = 5
@@ -1177,6 +1183,17 @@ RGO_template_labourers = {
 			poptype = labourers 
 			effect = throughput
 			amount = 1
+		}
+		{
+			poptype = serfs 
+			effect = throughput
+			amount = 1
+			effect_multiplier = 0.5
+		}
+		{
+			poptype = financiers 
+			effect = throughput
+			amount = 10
 		}
 		{ 
 			poptype = slaves 

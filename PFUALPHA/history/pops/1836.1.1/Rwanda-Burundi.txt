@@ -33,7 +33,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = ruanda
 		religion = animist
 		size = 113200
@@ -73,7 +73,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = rundi
 		religion = animist
 		size = 101850

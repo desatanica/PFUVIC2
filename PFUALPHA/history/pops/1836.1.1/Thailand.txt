@@ -45,7 +45,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 193025
@@ -112,7 +112,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 21875
@@ -145,7 +145,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 70600
@@ -184,7 +184,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 37300
@@ -221,7 +221,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 1650
@@ -254,7 +254,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 29900
@@ -287,7 +287,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 35775
@@ -320,7 +320,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 27725
@@ -357,7 +357,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 6725
@@ -404,7 +404,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 20025
@@ -435,7 +435,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 3825
@@ -466,7 +466,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = malay
 		religion = sunni
 		size = 2750
@@ -499,7 +499,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 33150
@@ -530,7 +530,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 5225
@@ -563,7 +563,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 28800
@@ -594,7 +594,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 3550
@@ -625,7 +625,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = malay
 		religion = sunni
 		size = 10975
@@ -672,7 +672,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 28725
@@ -709,7 +709,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 46250
@@ -742,7 +742,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 20050
@@ -773,7 +773,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 21075
@@ -804,7 +804,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lao
 		religion = theravada
 		size = 20200
@@ -851,7 +851,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 21025
@@ -882,7 +882,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lao
 		religion = theravada
 		size = 116600
@@ -915,7 +915,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 20950
@@ -946,7 +946,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = lao
 		religion = theravada
 		size = 17450
@@ -977,7 +977,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khmer
 		religion = theravada
 		size = 2750
@@ -1012,7 +1012,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = thai
 		religion = theravada
 		size = 4600
@@ -1043,7 +1043,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = khmer
 		religion = theravada
 		size = 9150
@@ -1068,7 +1068,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 2150
@@ -1103,7 +1103,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = malay
 		religion = sunni
 		size = 28450
@@ -1128,7 +1128,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = yue
 		religion = mahayana
 		size = 1275

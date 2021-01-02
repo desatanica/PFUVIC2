@@ -9,7 +9,7 @@ nv_enlightenment = {
 }
 
 nv_progress = {
-	research_points_modifier = 0.25
+	research_points_modifier = 0.20
 	core_pop_consciousness_modifier = 0.02
 	poor_everyday_needs = 0.05
 	middle_everyday_needs = 0.05
@@ -23,7 +23,7 @@ nv_loyalty = {
 }
 
 nv_independence = {
-	research_points_modifier = -0.25
+	research_points_modifier = -0.20
 	core_pop_militancy_modifier = -0.02
 	unit_start_experience = 0.5
 	leadership_modifier = 0.2

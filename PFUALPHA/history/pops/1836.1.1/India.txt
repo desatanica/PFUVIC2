@@ -60,7 +60,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 108250
@@ -93,7 +93,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 41000
@@ -142,7 +142,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 20325
@@ -189,7 +189,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = baluchi
 		religion = sunni
 		size = 13500
@@ -248,7 +248,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = baluchi
 		religion = sunni
 		size = 16925
@@ -294,7 +294,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = baluchi
 		religion = sunni
 		size = 27800
@@ -329,7 +329,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 3250
@@ -366,7 +366,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kashmiri
 		religion = hindu
 		size = 29975
@@ -409,7 +409,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kashmiri
 		religion = sunni
 		size = 114825
@@ -436,7 +436,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 4600
@@ -467,7 +467,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kashmiri
 		religion = sunni
 		size = 66725
@@ -495,7 +495,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kashmiri
 		religion = sunni
 		size = 46425
@@ -544,7 +544,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 89850
@@ -588,7 +588,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 88600
@@ -632,7 +632,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 420600
@@ -665,7 +665,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 6600
@@ -696,7 +696,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 124500
@@ -727,7 +727,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 16500
@@ -760,7 +760,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 115400
@@ -791,7 +791,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 8700
@@ -824,7 +824,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 47000
@@ -855,7 +855,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 8250
@@ -886,7 +886,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 26225
@@ -919,7 +919,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 73050
@@ -950,7 +950,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 16575
@@ -983,7 +983,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 4850
@@ -1020,7 +1020,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 228500
@@ -1051,7 +1051,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 26700
@@ -1090,7 +1090,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 64200
@@ -1121,7 +1121,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 290500
@@ -1152,7 +1152,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 153750
@@ -1185,7 +1185,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 21000
@@ -1223,7 +1223,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 75450
@@ -1254,7 +1254,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = hindu
 		size = 60150
@@ -1285,7 +1285,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 57950
@@ -1319,7 +1319,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 3775
@@ -1343,7 +1343,7 @@
 		size = 2400
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 53625
@@ -1367,7 +1367,7 @@
 		size = 3500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 70750
@@ -1433,7 +1433,7 @@
 
 	}
 	
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 180125
@@ -1475,7 +1475,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 180000
@@ -1499,7 +1499,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 10250
@@ -1531,7 +1531,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sunni
 		size = 187625
@@ -1555,7 +1555,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = panjabi
 		religion = sikh
 		size = 29875
@@ -1579,7 +1579,7 @@
 		size = 6000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 106250
@@ -1605,7 +1605,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 16250
@@ -1629,7 +1629,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 157250
@@ -1653,7 +1653,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 45000
@@ -1679,7 +1679,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 24375
@@ -1703,7 +1703,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 338000
@@ -1735,7 +1735,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 85500
@@ -1765,7 +1765,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 875250
@@ -1797,7 +1797,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 736750
@@ -1821,7 +1821,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 118375
@@ -1865,7 +1865,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 602500
@@ -1889,7 +1889,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 88500
@@ -1921,7 +1921,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 60000
@@ -1945,7 +1945,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 507250
@@ -1973,7 +1973,7 @@
 
 
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 41625
@@ -2009,7 +2009,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 526250
@@ -2054,7 +2054,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 56125
@@ -2096,7 +2096,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = shiite
 		size = 5525
@@ -2132,7 +2132,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 528500
@@ -2171,7 +2171,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 454500
@@ -2201,7 +2201,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 21400
@@ -2242,7 +2242,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 585750
@@ -2272,7 +2272,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 103750
@@ -2310,7 +2310,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 644500
@@ -2328,7 +2328,7 @@
 		size = 750
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 61500
@@ -2360,7 +2360,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 609500
@@ -2384,7 +2384,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 73500
@@ -2422,7 +2422,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 385250
@@ -2446,7 +2446,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 50375
@@ -2487,7 +2487,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 966500
@@ -2523,7 +2523,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 63250
@@ -2580,7 +2580,7 @@
 		size = 8000
 	}
 	
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 410000
@@ -2592,7 +2592,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 145250
@@ -2616,7 +2616,7 @@
 		size = 9500
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 182500
@@ -2654,7 +2654,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 939875
@@ -2672,7 +2672,7 @@
 		size = 4750
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 86500
@@ -2716,7 +2716,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 688000
@@ -2747,7 +2747,7 @@
 	}
 
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 533000
@@ -2779,7 +2779,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 353750
@@ -2809,7 +2809,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 181500
@@ -2841,7 +2841,7 @@
 		size = 750
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 347250
@@ -2871,7 +2871,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 201500
@@ -2909,7 +2909,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 789000
@@ -2939,13 +2939,13 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = hindu
 		size = 545000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 20750
@@ -2959,7 +2959,7 @@
 		size = 50
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 3400
@@ -3000,7 +3000,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 145500
@@ -3024,7 +3024,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 45750
@@ -3042,7 +3042,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 53500
@@ -3068,7 +3068,7 @@
 		size = 4750
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 88250
@@ -3086,7 +3086,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 28125
@@ -3110,7 +3110,7 @@
 		size = 1250
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 25000
@@ -3136,7 +3136,7 @@
 		size = 4500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 79750
@@ -3148,7 +3148,7 @@
 		size = 75
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 9425
@@ -3174,7 +3174,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 89125
@@ -3192,7 +3192,7 @@
 		size = 2750
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 51125
@@ -3233,13 +3233,13 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 215500
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 1100
@@ -3278,7 +3278,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 75150
@@ -3302,7 +3302,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 19325
@@ -3314,7 +3314,7 @@
 		size = 75
 	}
 
-	farmers = {
+	serfs = {
 		culture = bengali
 		religion = sunni
 		size = 2925
@@ -3346,7 +3346,7 @@
 		size = 1450
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 25900
@@ -3370,7 +3370,7 @@
 		size = 1050
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 21225
@@ -3405,7 +3405,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 29450
@@ -3429,7 +3429,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 8325
@@ -3474,7 +3474,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 95525
@@ -3492,7 +3492,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 5325
@@ -3543,7 +3543,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 265050
@@ -3567,7 +3567,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 7100
@@ -3606,7 +3606,7 @@
 		size = 8500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 227625
@@ -3625,7 +3625,7 @@
 	}
 
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 2825
@@ -3670,7 +3670,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 320000
@@ -3700,7 +3700,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 59050
@@ -3745,7 +3745,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 303600
@@ -3763,7 +3763,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 900
@@ -3804,7 +3804,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 257075
@@ -3822,7 +3822,7 @@
 		size = 6000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 8650
@@ -3861,7 +3861,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 233400
@@ -3879,7 +3879,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 2875
@@ -3918,7 +3918,7 @@
 		size = 7500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 181100
@@ -3936,7 +3936,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 400
@@ -3969,7 +3969,7 @@
 		size = 4500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 84350
@@ -3993,7 +3993,7 @@
 		size = 1500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 59600
@@ -4011,7 +4011,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 950
@@ -4043,7 +4043,7 @@
 		size = 4500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 117600
@@ -4061,7 +4061,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 1925
@@ -4085,7 +4085,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 53700
@@ -4125,7 +4125,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 668650
@@ -4149,7 +4149,7 @@
 		size = 1500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 25950
@@ -4181,7 +4181,7 @@
 		size = 7500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 125000
@@ -4199,7 +4199,7 @@
 		size = 600
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 11200
@@ -4252,7 +4252,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 337850
@@ -4270,7 +4270,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 28300
@@ -4294,7 +4294,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 57100
@@ -4320,7 +4320,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 170550
@@ -4348,7 +4348,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 174300
@@ -4377,7 +4377,7 @@
 		size = 7500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 280500
@@ -4395,7 +4395,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 11500
@@ -4440,7 +4440,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 59400
@@ -4458,7 +4458,7 @@
 		size = 1500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 4500
@@ -4482,7 +4482,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 33850
@@ -4515,7 +4515,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 97600
@@ -4539,7 +4539,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 30000
@@ -4587,7 +4587,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 338250
@@ -4629,7 +4629,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 13875
@@ -4653,7 +4653,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = shiite
 		size = 1835
@@ -4679,7 +4679,7 @@
 		size = 7500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 249750
@@ -4703,7 +4703,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 36900
@@ -4729,7 +4729,7 @@
 		size = 6500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 208350
@@ -4753,7 +4753,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 33700
@@ -4779,7 +4779,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 176300
@@ -4803,7 +4803,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 4525
@@ -4829,7 +4829,7 @@
 		size = 9500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 354325
@@ -4859,7 +4859,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 5350
@@ -4900,7 +4900,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 164125
@@ -4924,7 +4924,7 @@
 		size = 300
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = shiite
 		size = 5650
@@ -4948,7 +4948,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = hindu
 		size = 39275
@@ -4974,7 +4974,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 73300
@@ -4998,7 +4998,7 @@
 		size = 200
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = hindu
 		size = 3700
@@ -5024,7 +5024,7 @@
 		size = 6750
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 132700
@@ -5048,7 +5048,7 @@
 		size = 800
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = hindu
 		size = 14950
@@ -5083,7 +5083,7 @@
 		size = 1500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 169650
@@ -5101,7 +5101,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 18400
@@ -5137,7 +5137,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 20775
@@ -5175,7 +5175,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 212000
@@ -5199,7 +5199,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 24375
@@ -5232,7 +5232,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 354300
@@ -5256,7 +5256,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 850
@@ -5300,7 +5300,7 @@
 		size = 6000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 356820
@@ -5324,7 +5324,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 1850
@@ -5363,7 +5363,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 451500
@@ -5393,7 +5393,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 17200
@@ -5425,7 +5425,7 @@
 		size = 2500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 59050
@@ -5449,7 +5449,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 5780
@@ -5503,7 +5503,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 420000
@@ -5527,7 +5527,7 @@
 		size = 1950
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 2000
@@ -5545,7 +5545,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 38125
@@ -5582,7 +5582,7 @@
 	}
 
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 97250
@@ -5600,7 +5600,7 @@
 		size = 3875
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = shiite
 		size = 2075
@@ -5657,7 +5657,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 181750
@@ -5681,7 +5681,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = sindi
 		religion = sunni
 		size = 4775
@@ -5707,7 +5707,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 255500
@@ -5731,7 +5731,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 9375
@@ -5757,13 +5757,13 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 226500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 9000
@@ -5787,7 +5787,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 4750
@@ -5820,7 +5820,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 198000
@@ -5844,7 +5844,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 3775
@@ -5876,7 +5876,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 249250
@@ -5894,7 +5894,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = animist
 		size = 14350
@@ -5919,7 +5919,7 @@
 	}
 
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 19450
@@ -5977,7 +5977,7 @@
 		size = 2300
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 43725
@@ -5995,7 +5995,7 @@
 		size = 500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 9300
@@ -6036,7 +6036,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 283750
@@ -6048,7 +6048,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 1100
@@ -6086,7 +6086,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 395000
@@ -6110,7 +6110,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 5575
@@ -6136,7 +6136,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 234500
@@ -6160,13 +6160,13 @@
 		size = 6000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 6625
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = shiite
 		size = 1100
@@ -6192,7 +6192,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 265875
@@ -6216,7 +6216,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 22225
@@ -6257,7 +6257,7 @@
 		size = 10000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 855000
@@ -6275,7 +6275,7 @@
 		size = 1750
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 16125
@@ -6293,7 +6293,7 @@
 		size = 1750
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = protestant
 		size = 13125
@@ -6329,7 +6329,7 @@
 		size = 6000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 138500
@@ -6385,7 +6385,7 @@
 		size = 3000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 323250
@@ -6409,7 +6409,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 9475
@@ -6441,7 +6441,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 375250
@@ -6465,7 +6465,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 19300
@@ -6497,7 +6497,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 444000
@@ -6521,7 +6521,7 @@
 		size = 7500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 41250
@@ -6556,7 +6556,7 @@
 	}
 
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 27950
@@ -6574,7 +6574,7 @@
 		size = 200
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 2600
@@ -6615,7 +6615,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 129950
@@ -6639,7 +6639,7 @@
 		size = 6000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 6625
@@ -6684,7 +6684,7 @@
 		size = 9000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 194150
@@ -6714,7 +6714,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 4625
@@ -6740,7 +6740,7 @@
 		size = 4000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 92000
@@ -6764,7 +6764,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 3850
@@ -6798,7 +6798,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 241625
@@ -6822,7 +6822,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 18300
@@ -6856,7 +6856,7 @@
 		size = 8000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 175250
@@ -6880,7 +6880,7 @@
 		size = 5000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 77375
@@ -6904,7 +6904,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = orthodox
 		size = 28425
@@ -6928,7 +6928,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 34250
@@ -6955,7 +6955,7 @@
 		size = 7000
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 128000
@@ -6979,7 +6979,7 @@
 		size = 1500
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 29550
@@ -6997,7 +6997,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = shiite
 		size = 950
@@ -7021,7 +7021,7 @@
 		size = 750
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = orthodox
 		size = 12925
@@ -7045,7 +7045,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 10675
@@ -7083,7 +7083,7 @@
 		size = 2750
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 66675
@@ -7107,7 +7107,7 @@
 		size = 1100
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = sunni
 		size = 14550
@@ -7125,7 +7125,7 @@
 		size = 700
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = shiite
 		size = 275
@@ -7149,7 +7149,7 @@
 		size = 850
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = orthodox
 		size = 12825
@@ -7173,7 +7173,7 @@
 		size = 650
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = catholic
 		size = 8125
@@ -7214,7 +7214,7 @@
 		size = 700
 	}
 
-	farmers = {
+	serfs = {
 		culture = marathi
 		religion = hindu
 		size = 11900

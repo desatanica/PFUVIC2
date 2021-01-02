@@ -60,7 +60,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 113025
@@ -97,7 +97,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tajik
 		religion = sunni
 		size = 88775
@@ -128,7 +128,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = hazara
 		religion = shiite
 		size = 14662
@@ -161,7 +161,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 76112
@@ -192,7 +192,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tajik
 		religion = sunni
 		size = 34587
@@ -223,7 +223,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = hazara
 		religion = shiite
 		size = 9162
@@ -256,7 +256,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 34650
@@ -281,7 +281,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tajik
 		religion = sunni
 		size = 14912
@@ -312,7 +312,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = persian
 		religion = sunni
 		size = 20000
@@ -345,7 +345,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 14650
@@ -376,7 +376,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tajik
 		religion = sunni
 		size = 11912
@@ -407,7 +407,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = hazara
 		religion = shiite
 		size = 49225
@@ -438,7 +438,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = hazara
 		religion = sunni
 		size = 15612
@@ -471,7 +471,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = persian
 		religion = sunni
 		size = 24762
@@ -502,7 +502,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 80000
@@ -535,7 +535,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 72712
@@ -566,7 +566,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = hazara
 		religion = shiite
 		size = 10100
@@ -606,7 +606,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 57985
@@ -639,7 +639,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = pashtun
 		religion = sunni
 		size = 61887
@@ -670,7 +670,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = hazara
 		religion = shiite
 		size = 11912
@@ -705,7 +705,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = uzbek
 		religion = sunni
 		size = 5512
@@ -743,7 +743,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tajik
 		religion = sunni
 		size = 67825

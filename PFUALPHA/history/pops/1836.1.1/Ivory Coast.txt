@@ -21,7 +21,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = akan
 		religion = animist
 		size = 19875
@@ -54,7 +54,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = akan
 		religion = animist
 		size = 8025
@@ -85,7 +85,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kru
 		religion = animist
 		size = 22025
@@ -118,7 +118,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = akan
 		religion = animist
 		size = 16025
@@ -151,7 +151,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = akan
 		religion = animist
 		size = 8925
@@ -182,7 +182,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 2700
@@ -209,7 +209,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 7300
@@ -234,7 +234,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = kru
 		religion = animist
 		size = 15025
@@ -267,7 +267,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = akan
 		religion = animist
 		size = 18150
@@ -314,7 +314,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = dyula
 		religion = sunni
 		size = 20000
@@ -345,7 +345,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = senufo
 		religion = animist
 		size = 27375
@@ -378,7 +378,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = dyula
 		religion = sunni
 		size = 20000
@@ -403,7 +403,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = senufo
 		religion = animist
 		size = 19125
@@ -438,7 +438,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mande
 		religion = sunni
 		size = 34500
@@ -463,7 +463,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = dyula
 		religion = sunni
 		size = 13725
@@ -488,7 +488,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = african_minor
 		religion = animist
 		size = 8100

@@ -53,7 +53,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = nepali
 		religion = hindu
 		size = 86250
@@ -84,7 +84,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 10125
@@ -115,7 +115,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = asian_minor
 		religion = animist
 		size = 21125
@@ -148,7 +148,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = nepali
 		religion = hindu
 		size = 49250
@@ -179,7 +179,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tibetan
 		religion = gelugpa
 		size = 33725
@@ -210,7 +210,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = asian_minor
 		religion = animist
 		size = 18300

@@ -950,7 +950,7 @@ western_influences = {
 uncivilized_isolationism = {
 	global_pop_consciousness_modifier = -0.1
 	global_pop_militancy_modifier = -0.05
-	research_points_modifier = -0.2
+	research_points_modifier = -0.05
 	prestige = -0.01
 	icon = 5
 }
@@ -1565,6 +1565,18 @@ baku_oil = {
 germania_werft = {
 	local_repair = 0.5
 	local_ship_build = -0.05
+	icon = 15
+}
+
+yokohama_shipyards = {
+	local_repair = 0.5
+	local_ship_build = -0.25
+	icon = 15
+}
+
+hiroshima_shipyards = {
+	local_repair = 0.5
+	local_ship_build = -0.25
 	icon = 15
 }
 
@@ -2391,7 +2403,7 @@ power_vacuum = {
 
 ### NV changes ###
 national_confusion = {
-	research_points_modifier = -0.25
+	research_points_modifier = -0.1
 	global_pop_consciousness_modifier = 0.03
 	global_pop_militancy_modifier = 0.03
 	prestige = -0.05
@@ -2411,7 +2423,7 @@ nv_enlightenment_modifier = {
 }
 
 nv_progress_modifier = {
-	research_points_modifier = 0.25
+	research_points_modifier = 0.1
 	core_pop_consciousness_modifier = 0.02
 	poor_everyday_needs = 0.05
 	middle_everyday_needs = 0.05
@@ -2427,7 +2439,7 @@ nv_loyalty_modifier = {
 }
 
 nv_independence_modifier = {
-	research_points_modifier = -0.25
+	research_points_modifier = -0.1
 	core_pop_militancy_modifier = -0.02
 	unit_start_experience = 0.5
 	leadership_modifier = 0.2

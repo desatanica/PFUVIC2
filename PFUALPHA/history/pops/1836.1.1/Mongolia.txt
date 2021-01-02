@@ -39,7 +39,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 88350
@@ -72,7 +72,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 48200
@@ -105,7 +105,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 41275
@@ -139,7 +139,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 31900
@@ -173,7 +173,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 16200
@@ -207,7 +207,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 35000
@@ -240,7 +240,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 17125
@@ -273,7 +273,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 28400
@@ -307,7 +307,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = tatar
 		religion = gelugpa
 		size = 7300

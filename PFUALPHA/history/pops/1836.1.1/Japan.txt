@@ -39,10 +39,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 86612
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 173225
+		size = 86612
 	}
 
 	aristocrats = {
@@ -98,10 +104,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 57375
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 87425
+		size = 57375
 	}
 
 	aristocrats = {
@@ -129,11 +141,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
 }
 #Yamaguchi (512000/128000 POPS)
 1640 = {
@@ -168,10 +175,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 66425
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 132850
+		size = 66425
 	}
 
 	aristocrats = {
@@ -247,10 +260,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 62375
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 97425
+		size = 62375
 	}
 
 	aristocrats = {
@@ -278,11 +297,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
 }
 #Hokkaido Region (840000)
 #under the rule of Japan in 1836
@@ -344,7 +358,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = japanese
 		religion = shinto
 		size = 9300
@@ -375,7 +389,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = ainu
 		religion = animist
 		size = 37075
@@ -407,7 +421,7 @@
 		size = 2000
 	}
 
-	farmers = {
+	serfs = {
 		culture = ainu
 		religion = animist
 		size = 56275
@@ -440,7 +454,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = ainu
 		religion = animist
 		size = 75350
@@ -487,10 +501,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 112850
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 169275
+		size = 112850
 	}
 
 	aristocrats = {
@@ -514,15 +534,9 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 625
-
+     	size = 625
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 56425
-	}
 }
 #Kanazawa (384000/96000 POPS)
 1646 = {
@@ -551,10 +565,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 33700
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 60075
+		size = 53700
 	}
 
 	aristocrats = {
@@ -581,12 +601,6 @@
 		size = 300
 
 	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
 }
 #Fukui (160000/40000 POPS)
 1647 = {
@@ -605,20 +619,26 @@
 	artisans = {
 		culture = japanese
 		religion = shinto
-		size = 1250
+		size = 2000
 	}
 
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 250
+		size = 400
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 33225
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 52775
+		size = 33225
 	}
 
 	aristocrats = {
@@ -633,24 +653,7 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = japanese
-		religion = shinto
-		size = 750
-	}
 
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 150
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 13675
-	}
 }
 #Toyama (352000/88000 POPS)
 1648 = {
@@ -675,14 +678,19 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 625
-
+		size = 925
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 40000
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 55525
+		size = 40000
 	}
 
 	aristocrats = {
@@ -703,18 +711,6 @@
 		size = 1350
 	}
 
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 275
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 24575
-	}
 }
 #Kanto Region (4604000)
 #under the rule of Japan in 1836
@@ -855,14 +851,20 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 2075
+		size = 2800
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 83787
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 167575
+		size = 122887
 	}
 
 	aristocrats = {
@@ -895,18 +897,6 @@
 		size = 7000
 	}
 
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 700
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 39100
-	}
 }
 #Chiba (788000/197000 POPS)
 1650 = {
@@ -941,10 +931,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 69650
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 124700
+		size = 89650
 	}
 
 	aristocrats = {
@@ -969,14 +965,8 @@
 		culture = japanese
 		religion = shinto
 		size = 400
-
 	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 34600
-	}
+	
 }
 #Yokohama (568000/142000 POPS)
 1651 = {
@@ -1005,12 +995,18 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 99337
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 198675
+		size = 125337
 	}
-
+	
 	aristocrats = {
 		culture = japanese
 		religion = shinto
@@ -1036,11 +1032,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 26225
-	}
 }
 #Urawa (1156000/289000 POPS)
 1652 = {
@@ -1075,10 +1066,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 86625
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 173250
+		size = 86625
 	}
 
 	aristocrats = {
@@ -1117,7 +1114,7 @@
 	clergymen = {
 		culture = japanese
 		religion = shinto
-		size = 1175
+		size = 1575
 	}
 
 	artisans = {
@@ -1129,14 +1126,19 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 1175
-
+		size = 1475
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 56862
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 106400
+		size = 76862
 	}
 
 	aristocrats = {
@@ -1145,30 +1147,12 @@
 		size = 575
 	}
 
-	clergymen = {
-		culture = japanese
-		religion = shinto
-		size = 300
-	}
-
 	artisans = {
 		culture = japanese
 		religion = shinto
 		size = 1500
 	}
 
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 300
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
 }
 #Kinki Region (6760000)
 #under the rule of Japan in 1836
@@ -1183,7 +1167,7 @@
 	clergymen = {
 		culture = japanese
 		religion = shinto
-		size = 3550
+		size = 3850
 	}
 
 	artisans = {
@@ -1213,20 +1197,25 @@
 	artisans = {
 		culture = japanese
 		religion = shinto
-		size = 6000
+		size = 10000
 	}
 
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 2575
-
+		size = 3000
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 111000
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 252000
+		size = 171000
 	}
 
 	aristocrats = {
@@ -1235,30 +1224,6 @@
 		size = 500
 	}
 
-	clergymen = {
-		culture = japanese
-		religion = shinto
-		size = 300
-	}
-
-	artisans = {
-		culture = japanese
-		religion = shinto
-		size = 4000
-	}
-
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 300
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 29300
-	}
 }
 #Wakayama (1064000/266000 POPS)
 1656 = {
@@ -1287,10 +1252,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 121050
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 169275
+		size = 121050
 	}
 
 	aristocrats = {
@@ -1316,12 +1287,6 @@
 		religion = shinto
 		size = 800
 
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 72825
 	}
 }
 #Kyoto (1844000/461000 POPS)
@@ -1381,10 +1346,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 131125
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 302250
+		size = 171125
 	}
 
 	aristocrats = {
@@ -1445,10 +1416,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 85625
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 89300
+		size = 85625
 	}
 
 	aristocrats = {
@@ -1476,11 +1453,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 81950
-	}
 }
 #Kobe (1120000/280000 POPS)
 1659 = {
@@ -1509,10 +1481,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 107412
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 178375
+		size = 147412
 	}
 
 	aristocrats = {
@@ -1540,11 +1518,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 76450
-	}
 }
 #Kyushu Region (3600000)
 #under the rule of Japan in 1836
@@ -1587,10 +1560,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 90962
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 141925
+		size = 90962
 	}
 
 	aristocrats = {
@@ -1618,11 +1597,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 40925
-	}
 }
 #Nagasaki (1012000/253000 POPS)
 1661 = {
@@ -1654,7 +1628,13 @@
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 196550
+		size = 163750
+	}
+	
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 100300
 	}
 
 	aristocrats = {
@@ -1682,11 +1662,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 63750
-	}
 }
 #Kagoshima (660000/165000 POPS)
 1662 = {
@@ -1736,10 +1711,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 68800
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 115600
+		size = 72800
 	}
 
 	aristocrats = {
@@ -1764,14 +1745,9 @@
 		culture = japanese
 		religion = shinto
 		size = 375
-
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 34600
-	}
+
 }
 #Miyazaki (380000/95000 POPS)
 1663 = {
@@ -1800,10 +1776,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 43250
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 59175
+		size = 43250
 	}
 
 	aristocrats = {
@@ -1831,11 +1813,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
 }
 #Kumamoto (764000/191000 POPS)
 1664 = {
@@ -1864,10 +1841,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 87162
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 133375
+		size = 87162
 	}
 
 	aristocrats = {
@@ -1895,11 +1878,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 40950
-	}
 }
 #Shikoku Region (1368000)
 #under the rule of Japan in 1836
@@ -1930,10 +1908,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 92025
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 87650
+		size = 112025
 	}
 
 	aristocrats = {
@@ -1968,11 +1952,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 116400
-	}
 }
 #Matsuyama (432000/108000 POPS)
 1666 = {
@@ -2001,10 +1980,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 49062
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 68900
+		size = 49062
 	}
 
 	aristocrats = {
@@ -2032,11 +2017,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 29225
-	}
 }
 #Tokushima (696000/174000 POPS)
 1667 = {
@@ -2077,10 +2057,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 78925
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 110525
+		size = 78925
 	}
 
 	aristocrats = {
@@ -2108,11 +2094,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 47325
-	}
 }
 #Tohoku Region (3208000)
 #under the rule of Japan in 1836
@@ -2162,10 +2143,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 50750
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 105075
+		size = 90750
 	}
 
 	aristocrats = {
@@ -2190,14 +2177,8 @@
 		culture = japanese
 		religion = shinto
 		size = 400
-
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 36425
-	}
 }
 #Fukushima (576000/147000 POPS)
 1669 = {
@@ -2226,12 +2207,18 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 116875
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 233750
+		size = 116875
 	}
-
+	
 	aristocrats = {
 		culture = japanese
 		religion = shinto
@@ -2284,10 +2271,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 35962
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 50975
+		size = 35962
 	}
 
 	aristocrats = {
@@ -2315,11 +2308,6 @@
 
 	}
 
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 20950
-	}
 }
 #Akita (392000/98000 POPS)
 1671 = {
@@ -2344,14 +2332,19 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 700
-
+		size = 1100
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 45100
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 63800
+		size = 45100
 	}
 
 	aristocrats = {
@@ -2371,19 +2364,7 @@
 		religion = shinto
 		size = 1450
 	}
-
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 300
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 26400
-	}
+	
 }
 #Aomori (372000/93000 POPS)
 1672 = {
@@ -2412,10 +2393,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 42362
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 57400
+		size = 42362
 	}
 
 	aristocrats = {
@@ -2442,12 +2429,7 @@
 		size = 300
 
 	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
+	
 }
 #Yamagata (512000/128000 POPS)
 1673 = {
@@ -2479,14 +2461,20 @@
 	soldiers = {
 		culture = japanese
 		religion = shinto
-		size = 1000
+		size = 1300
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 58237
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 89150
+		size = 58237
 	}
 
 	aristocrats = {
@@ -2507,18 +2495,6 @@
 		size = 1500
 	}
 
-	soldiers = {
-		culture = japanese
-		religion = shinto
-		size = 300
-
-	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 27325
-	}
 }
 #Utsunomiya (412000/103000 POPS)
 1674 = {
@@ -2547,10 +2523,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 34587
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 69175
+		size = 34587
 	}
 
 	aristocrats = {
@@ -2646,10 +2628,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 125062
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 270125
+		size = 145062
 	}
 
 	aristocrats = {
@@ -2717,10 +2705,16 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 50000
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 62800
+		size = 50000
 	}
 
 	aristocrats = {
@@ -2747,12 +2741,7 @@
 		size = 400
 
 	}
-
-	farmers = {
-		culture = japanese
-		religion = shinto
-		size = 36425
-	}
+	
 }
 #Nagano (1296000/324000 POPS)
 1677 = {
@@ -2787,11 +2776,17 @@
 
 	}
 
+	serfs = {
+		culture = japanese
+		religion = shinto
+		size = 100000
+	}
+	
 	farmers = {
 		culture = japanese
 		religion = shinto
-		size = 213875
-	}
+		size = 113875
+	}	
 
 	aristocrats = {
 		culture = japanese
@@ -2859,7 +2854,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = japanese
 		religion = shinto
 		size = 59930
@@ -2890,7 +2885,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = beifaren
 		religion = shinto
 		size = 3670
@@ -2923,7 +2918,7 @@
 
 	}
 
-	farmers = {
+	serfs = {
 		culture = japanese
 		religion = shinto
 		size = 18225

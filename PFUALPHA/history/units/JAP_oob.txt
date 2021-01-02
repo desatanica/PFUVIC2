@@ -93,19 +93,74 @@ army = {
 		home = 1646
 	}
 	regiment = {
-		name= "8.Guard"
-		type = guard
-		home = 1649
-	}
-	regiment = {
-		name= "Imperial Cavalry"
+		name= "1.Imperial Cavalry"
 		type = hussar
 		home = 1649
 	}
 	regiment = {
-		name= "Imperial Artillery Regiment"
+		name= "1.Imperial Artillery Regiment"
 		type = artillery
 		home = 1642
+	}
+	regiment = {
+		name= "2.Imperial Artillery Regiment"
+		type = artillery
+		home = 1642
+	}
+}
+
+army = {
+	name = "Imperial Reserve"
+	location = 1649
+	regiment = {
+		name= "8.Guard"
+		type = guard
+		home = 1646
+	}
+	regiment = {
+		name= "9.Guard"
+		type = guard
+		home = 1649
+	}
+	regiment = {
+		name= "10.Guard"
+		type = guard
+		home = 1646
+	}
+	regiment = {
+		name= "11.Guard"
+		type = guard
+		home = 1649
+	}
+	regiment = {
+		name= "12.Guard"
+		type = guard
+		home = 1646
+	}
+	regiment = {
+		name= "13.Guard"
+		type = guard
+		home = 1668
+	}
+	regiment = {
+		name= "14.Guard"
+		type = guard
+		home = 1646
+	}
+	regiment = {
+		name= "2.Imperial Cavalry"
+		type = hussar
+		home = 1662
+	}
+	regiment = {
+		name= "3.Imperial Artillery Regiment"
+		type = artillery
+		home = 1668
+	}
+	regiment = {
+		name= "4.Imperial Artillery Regiment"
+		type = artillery
+		home = 1662
 	}
 }
 
