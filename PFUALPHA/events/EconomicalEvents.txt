@@ -951,9 +951,11 @@ country_event = {
 	desc = "EVTDESC22595"
 	picture = "Bankruptcy"
 	
-	trigger = {	exists = yes
+	trigger = {	
+	    exists = yes
 		stock_exchange = 1
 		civilized = yes
+		money = 1000000
 		NOT = {
 			government = proletarian_dictatorship
 			has_country_modifier = recession
@@ -1421,10 +1423,11 @@ country_event = {
 	desc = "EVTDESC22500"
 	picture = "Bankruptcy"
 	
-	trigger = {	
+	trigger = {
 		exists = yes
 		invention = stock_exchanges
 		civilized = yes
+		money = 2500000
 		NOT = {
 			government = proletarian_dictatorship
 			economic_policy = planned_economy
@@ -1453,7 +1456,7 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 200
+		months = 100
 		modifier = {
 			factor = 2
 			year = 1880

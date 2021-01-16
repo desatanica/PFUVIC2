@@ -217,7 +217,7 @@ small_nation = {
 	}
 	mobilisation_economy_impact = -0.25
 	supply_consumption = -0.25
-	mobilisation_size = 0.1
+	mobilisation_size = 0.08
 	research_points_modifier = 0.1 #10% increase
 	tax_efficiency = 0.20 #20% boost
 	icon = 6

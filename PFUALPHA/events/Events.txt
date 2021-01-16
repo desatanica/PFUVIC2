@@ -5222,6 +5222,7 @@ country_event = {
 	trigger = {	
 		tag = USA
 		NOT = { has_global_flag = ACW_preparations }
+		year = 1858
 		OR = {
 			AND = {
 				slavery = yes_slavery
@@ -5595,6 +5596,7 @@ country_event = {
 	trigger = {
 		tag = USA
 		slavery = yes_slavery
+		year = 1850
 		NOT = {
 			has_country_flag = john_browns_raid
 			has_global_flag = american_civil_war_has_happened

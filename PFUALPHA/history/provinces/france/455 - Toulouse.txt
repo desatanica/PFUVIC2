@@ -2,9 +2,8 @@ owner = FRA
 controller = FRA
 add_core = FRA
 trade_goods = wool
-life_rating = 32
+life_rating = 30
 terrain = toulouse
-1861.1.1 = { railroad = 2 }
 state_building = {
 level = 1
 building = regular_clothes_factory

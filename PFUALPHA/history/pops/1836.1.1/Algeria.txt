@@ -36,7 +36,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 225
+		size = 3225
 	}
 
 	clergymen = {
@@ -99,6 +99,13 @@
 #Ruled by Aljaziar 1836
 #Bougie (448000/112000 POPS)
 1701 = {
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3225
+	}
+	
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
@@ -416,6 +423,13 @@
 #Aljazair-ruled in 1836 :
 #Tilimsan (221600/55400 POPS)
 1705 = {
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3225
+	}
+	
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
@@ -506,6 +520,13 @@
 }
 #Mustaghanem (188000/47000 POPS)
 1706 = {
+	
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1625
+	}
+	
 	aristocrats = {
 		culture = bedouin
 		religion = sunni

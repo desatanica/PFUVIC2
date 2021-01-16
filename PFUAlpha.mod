@@ -1,4 +1,4 @@
-name = "PFU Alpha [v1.0]" # name of your mod, shown in launcher
+name = "PFU Alpha [v1.0.1]" # name of your mod, shown in launcher
 replace_path="history/countries"
 replace_path="history/pops"
 replace_path="history/units"

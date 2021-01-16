@@ -3737,7 +3737,7 @@ war_minister_boulanger = {
 }
 
 french_revanchism = {
-	mobilisation_size = 0.04
+	mobilisation_size = 0.03
 	icon = 17
 }
 

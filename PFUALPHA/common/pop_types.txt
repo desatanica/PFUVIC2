@@ -532,6 +532,12 @@ emigration_chance = {
 		factor = 0.5
 		culture = french
 	}
+
+	modifier = {
+		factor = 0.5
+		culture = french
+		year = 1860
+	}
 	
 	group = {
 		modifier = {
@@ -594,7 +600,7 @@ emigration_chance = {
 	}
 	
 	modifier = {
-		factor = -0.1
+		factor = -1
 		location = { is_core = CHI }
 	}
 
