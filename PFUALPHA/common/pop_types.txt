@@ -1,6 +1,6 @@
 promotion_chance = 
 {
-	factor = 0.2
+	factor = 0.25
 	group = {
 		modifier = {
 			factor = 0.03
@@ -514,7 +514,7 @@ emigration_chance = {
 	}
 	
 	modifier = {
-		factor = 2
+		factor = 1.5
 		culture = north_german
 	}
 	
@@ -526,6 +526,11 @@ emigration_chance = {
 	modifier = {
 		factor = 1
 		is_culture_group = british
+	}
+	
+	modifier = {
+		factor = 0.5
+		culture = french
 	}
 	
 	group = {

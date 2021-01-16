@@ -9,7 +9,7 @@ post_napoleonic_thought = {
 	army_base = {
 	default_organisation = 5
 	}
-	dig_in_cap = 1
+	dig_in_cap = 2
 	
 	ai_chance = {
 		factor = 1.1

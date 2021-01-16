@@ -52,6 +52,8 @@ taxation_reform = tax_farmers
 finance_reform = yes_finance_reform
 land_reform = yes_land_reform
 medicine_reform = alchemy
+industrial_construction = yes_industrial_construction
+
 
 
 # Technologies
@@ -62,6 +64,7 @@ water_wheel_power = 1
 classicism_n_early_romanticism = 1
 no_standard = 1
 basic_chemistry = 1
+mechanized_mining = 1
 
 # Inventions
 

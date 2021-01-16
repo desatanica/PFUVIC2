@@ -1,3 +1,19 @@
+
+world_bank_prestige = {
+	limit = {
+	tag = KWT
+	}
+	news = no
+	chance = {
+		base = 2
+	}
+	effect = {
+		permanent_prestige = -150
+	}
+	
+}
+
+
 #romanticism
 romanticist_literature = {
 	limit = {

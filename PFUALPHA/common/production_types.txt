@@ -131,7 +131,7 @@ ammunition_factory = {
 	template = cheap_factory_template	
 	input_goods = {      
 		gunpowder = 2.5			
-		lead = 2.5			
+		lead = 2			
 	}
 	output_goods = ammunition 
 	value = 7.5
@@ -303,7 +303,7 @@ explosives_factory = {
 	template = cheap_factory_template	#24
 	input_goods = {   
 		gunpowder = 4
-		lead = 2
+		lead = 1
 	}
 	output_goods = explosives 
 	value = 2
@@ -689,11 +689,11 @@ lumber_mill = {
 fabric_factory = {       
 	template = cheap_factory_template	
 	input_goods = {     
-		cotton = 10
+		cotton = 8
         dye = 1		#40
 	}
 	output_goods = fabric 
-	value = 7.5			#70
+	value = 8			#70
 	bonus = {
 		trigger = { 
 			trade_goods_in_state = cotton 
@@ -721,7 +721,7 @@ glass_factory = {
 	template = cheap_factory_template	
 	input_goods = {            
 		coal = 2		
-		lead = 0.5
+		lead = 0.2
 	}
 	output_goods = glass 
 	value = 4
@@ -1051,10 +1051,10 @@ shoe_factory = {
 bronze_factory = {     
 	template = factory_template	
 	input_goods = { 
-		copper = 1.5	#25	
-		lead = 0.5  #8	
+		copper = 2	#25	
+		lead = 0.2  #8	
 	}
-	output_goods = bronze 
+	output_goods = bronze
 	value = 7.5 #72
 	bonus = {
 		trigger = { 
@@ -1614,7 +1614,7 @@ artisan_regular_clothes = {
 artisan_explosives = {       
 	input_goods = {   
 		gunpowder = 4 #40
-		lead = 2
+		lead = 1
 	}
 	output_goods = explosives 
 	value = 2 #56
@@ -1634,7 +1634,7 @@ artisan_explosives = {
 artisan_ammunition = {       
 	input_goods = {      
 		gunpowder = 2.5 #20
-		lead = 2.5 #23
+		lead = 2 #23
 	}
 	output_goods = ammunition 
 	value = 7.5 #56
@@ -1724,11 +1724,11 @@ artisan_lumber = {
 
 artisan_fabric = {       
 	input_goods = {     
-		cotton = 10
+		cotton = 8
         dye = 1		#40
 	}
 	output_goods = fabric 
-	value = 7.5 #56
+	value = 8 #56
 	
 	owner = {
 		poptype = artisan 
@@ -1757,10 +1757,10 @@ artisan_cement = {
 	workforce = 10000
 }
 
-artisan_glass = {       
-	input_goods = {            
+artisan_glass = {      
+	input_goods = {           
 		coal = 2 #23
-		lead = 0.5 #9
+		lead = 0.2 #9
 	}
 	output_goods = glass 
 	value = 4 #49

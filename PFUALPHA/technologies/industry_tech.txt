@@ -1506,7 +1506,7 @@ cheap_iron = {
 		copper = 0.25
 	}
 	rgo_goods_throughput = {
-		lead = 0.1
+		lead = 0.25
 	}
 	ai_chance = {
 		factor = 1.5
@@ -1605,7 +1605,7 @@ cheap_steel = {
 		copper = 0.25
 	}
 	rgo_goods_throughput = {
-		lead = 0.1
+		lead = 0.25
 	}
 	factory_goods_output = {
 		steel = 0.2
@@ -1827,7 +1827,7 @@ electric_furnace = {
 		copper = 0.25
 	}
 	rgo_goods_throughput = {
-		lead = 0.15
+		lead = 0.25
 	}
 	rgo_goods_throughput = {
 		oil = 0.5

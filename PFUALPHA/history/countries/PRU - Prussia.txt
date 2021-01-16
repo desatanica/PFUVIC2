@@ -80,6 +80,7 @@ mechanical_production = 1
 romanticism = 1
 practical_steam_engine = 1
 clean_coal = 1
+medicine = 1
 
 #Inventions
 

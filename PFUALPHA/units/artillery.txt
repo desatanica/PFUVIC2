@@ -11,7 +11,7 @@ artillery = {
 	priority = 20
 	max_strength = 5
 	default_organisation = 15
-	maximum_speed = 4
+	maximum_speed = 4.5
 	weighted_value = 5.0
 
 	#Building Costs
