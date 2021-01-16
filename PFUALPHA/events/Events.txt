@@ -12816,98 +12816,6 @@ country_event = {
 	}
 }
 
-#The Federal Council of Australasia
-country_event = {
-
-	id = 43805
-	title = "EVTNAME43805"
-	desc = "EVTDESC43805"
-	picture = "deliberation"
-	
-	trigger = {	
-		tag = NZL
-		war = no
-		is_vassal = yes
-		AST = {
-			exists = yes
-			is_vassal = yes
-			war = no
-		}
-		NOT = {
-			average_militancy = 3
-			num_of_revolts = 1
-			has_country_flag = federal_council_of_australasia
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 6
-	}
-	
-	option = {
-		name = "Annexation would not be in New Zealand's best interest."
-		set_country_flag = federal_council_of_australasia
-		prestige = 5
-		relation = { who = AST value = -50 }
-		ai_chance = {
-			factor = 5
-		}
-	}
-	
-	option = {
-		name = "Approach the Australian government."
-		set_country_flag = federal_council_of_australasia
-		AST = { country_event = 43806 }
-		ai_chance = {
-			factor = 95
-		}
-	}
-}
-
-country_event = {
-
-	id = 43806
-	title = "EVTNAME43805"
-	desc = "EVTDESC43806"
-	major = yes
-	
-	is_triggered_only = yes
-	
-	option = {
-		name = "We welcome them into the Commonwealth."
-		prestige = -10
-		NZL = {
-			all_core = { add_core = AST }
-		}
-		any_pop = {
-			limit = { is_primary_culture = yes }
-			dominant_issue = {
-				factor = 0.10
-				value = oppression
-			}
-			consciousness = 4
-		}
-		any_pop = {
-			limit = { has_pop_culture = aborigine }
-			militancy = 4
-		}
-		add_accepted_culture = maori
-		inherit = NZL
-		ai_chance = {
-			factor = 20
-		}
-	}
-	
-	option = {
-		name = "Politely refuse New Zealand's offer."
-		prestige = 5
-		relation = { who = NZL value = 50 }
-		ai_chance = {
-			factor = 80
-		}
-	}
-}
-
 ##########Germany/Prussia#######
 
 country_event = {
@@ -16120,6 +16028,78 @@ country_event = {
 #############################################################################
 # French conquest of Indochina
 #############################################################################
+
+
+country_event = {
+	id = 99937
+	title = "EVTNAME99937" #General Boulanger Appointed
+	desc = "EVTDESC99937"
+	picture = "general_boulanger"
+	fire_only_once = yes
+	
+	trigger = {
+		tag = FRA
+		412 = { NOT = { owned_by = THIS } }
+		NOT = { has_country_flag = boulanger_director }
+	}
+	
+	mean_time_to_happen =  {
+		months = 2
+	}
+
+	immediate = {
+		set_country_flag = boulanger_director
+	}
+	
+	option = {
+		name = "EVT99937OPTA"
+		add_country_modifier = {
+			name = war_minister_boulanger
+			duration = 7300
+		}
+		add_country_modifier = {
+			name = french_revanchism
+			duration = -1
+		}
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+				is_accepted_culture = yes
+				OR = {
+					type = soldiers
+					type = officers
+				}
+			}
+			ideology = { factor = 0.2 value = conservative }
+			ideology = { factor = 0.1 value = reactionary }
+			dominant_issue = { factor = 0.20 value = jingoism }
+		}
+		any_pop = {
+			limit = {
+				strata = poor
+				is_culture_group = french
+				location = { is_core = THIS }
+			}
+			ideology = { factor = 0.1 value = conservative }
+			ideology = { factor = 0.05 value = liberal }
+			dominant_issue = { factor = 0.10 value = jingoism }
+		}
+		any_pop = {
+			limit = {
+				location = { is_core = THIS }
+			}
+			scaled_militancy = {
+				ideology = reactionary
+				factor = -4
+			}
+			scaled_militancy = {
+				ideology = conservative
+				factor = -2
+			}
+		}
+	}
+}
+
 
 country_event = {
 	id = 95639
@@ -26308,7 +26288,6 @@ country_event = {
 					tag = CAN
 					tag = IRE
 					tag = AST
-					tag = NZL
 					tag = SAF
 				}
 				exists = no

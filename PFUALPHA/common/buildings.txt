@@ -157,52 +157,6 @@ electric_gear_factory = {
 	#strategic_factory = yes
 }
 
-Coal-fired_powerplant = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	cost = 0 
-	max_level = 99
-	goods_cost = 
-	{
-		machine_parts = 250
-		cement = 1000
-		electric_gear = 500
-	}
-	time = 1080
-	visibility = yes
-	onmap = no
-
-
-	production_type = coal_plant
-	pop_build_factory = yes
-	advanced_factory = yes
-	#strategic_factory = yes
-}
-
-Petrolium-based_powerplant = {
-	type = factory
-	on_completion = factory
-	completion_size = 0.2
-	cost = 0 
-	max_level = 99
-	goods_cost = 
-	{
-		machine_parts = 500
-		steel = 1000
-		cement = 2000
-		electric_gear = 1000
-	}
-	time = 1080
-	visibility = yes
-	onmap = no
-
-	production_type = oil_plant
-	pop_build_factory = yes
-	advanced_factory = yes
-	#strategic_factory = yes
-}
-
 cement_factory = {
 	type = factory
 	on_completion = factory

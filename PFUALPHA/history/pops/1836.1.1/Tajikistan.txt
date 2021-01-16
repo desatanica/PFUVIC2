@@ -30,7 +30,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 36425
+		size = 14570
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 21855
 	}
 
 	aristocrats = {
@@ -61,7 +66,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 9150
+		size = 3660
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 5490
 	}
 }
 #Badakhshan Region (212000) 
@@ -96,7 +106,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 27450
+		size = 10980
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 16470
 	}
 }
 #Khorugh (92000/23000 POPS)   
@@ -129,7 +144,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 17450
+		size = 6980
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 10470
 	}
 
 	aristocrats = {
@@ -160,7 +180,13 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 3650
+		size = 1460
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 2190
 	}
 
 }
+

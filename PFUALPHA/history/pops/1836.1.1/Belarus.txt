@@ -24,7 +24,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 32775
+		size = 26220
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 6555
 	}
 
 	aristocrats = {
@@ -55,7 +60,12 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 15550
+		size = 12440
+	}
+	serfs = {
+		culture = polish
+		religion = catholic 	
+		size = 3110
 	}
 
 	clergymen = {
@@ -80,7 +90,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = catholic
-		size = 13025
+		size = 10420
+	}
+	serfs = {
+		culture = byelorussian
+		religion = catholic 	
+		size = 2605
 	}
 
 	clergymen = {
@@ -105,7 +120,12 @@
 	farmers = {
 		culture = lithuanian
 		religion = orthodox
-		size = 4700
+		size = 3760
+	}
+	serfs = {
+		culture = lithuanian
+		religion = orthodox 	
+		size = 940
 	}
 
 	clergymen = {
@@ -130,7 +150,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 8575
+		size = 6860
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1715
 	}
 }
 #Brest-Litovsk (324000/81000 POPS)
@@ -157,7 +182,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 14475
+		size = 11580
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 2895
 	}
 
 	aristocrats = {
@@ -200,7 +230,12 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 24050
+		size = 19240
+	}
+	serfs = {
+		culture = polish
+		religion = catholic 	
+		size = 4810
 	}
 
 	clergymen = {
@@ -225,7 +260,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = catholic
-		size = 14925
+		size = 11940
+	}
+	serfs = {
+		culture = byelorussian
+		religion = catholic 	
+		size = 2985
 	}
 
 	clergymen = {
@@ -244,7 +284,12 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 7525
+		size = 6020
+	}
+	serfs = {
+		culture = ukrainian
+		religion = orthodox 	
+		size = 1505
 	}
 
 	soldiers = {
@@ -257,7 +302,12 @@
 	farmers = {
 		culture = tatar
 		religion = sunni
-		size = 1500
+		size = 1200
+	}
+	serfs = {
+		culture = tatar
+		religion = sunni 	
+		size = 300
 	}
 
 	clergymen = {
@@ -282,7 +332,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 9500
+		size = 7600
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1900
 	}
 }
 #Pinsk (276000/69000 POPS)
@@ -309,7 +364,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 45200
+		size = 36160
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 9040
 	}
 
 	aristocrats = {
@@ -359,7 +419,12 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 14300
+		size = 11440
+	}
+	serfs = {
+		culture = ukrainian
+		religion = orthodox 	
+		size = 2860
 	}
 
 	clergymen = {
@@ -384,7 +449,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6125
+		size = 4900
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1225
 	}
 }
 #Byelorussia Region (1364000)
@@ -425,7 +495,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 71000
+		size = 56800
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 14200
 	}
 
 	aristocrats = {
@@ -481,7 +556,12 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 910
+		size = 728
+	}
+	serfs = {
+		culture = lithuanian
+		religion = catholic 	
+		size = 182
 	}
 
 	aristocrats = {
@@ -524,7 +604,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 975
+		size = 780
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 195
 	}
 
 	clergymen = {
@@ -549,7 +634,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 12225
+		size = 9780
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 2445
 	}
 }
 #Lida (192000/48000 POPS)
@@ -576,7 +666,12 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 15875
+		size = 12700
+	}
+	serfs = {
+		culture = lithuanian
+		religion = catholic 	
+		size = 3175
 	}
 
 	aristocrats = {
@@ -607,7 +702,12 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 5250
+		size = 4200
+	}
+	serfs = {
+		culture = polish
+		religion = catholic 	
+		size = 1050
 	}
 
 	clergymen = {
@@ -632,7 +732,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = catholic
-		size = 16250
+		size = 13000
+	}
+	serfs = {
+		culture = byelorussian
+		religion = catholic 	
+		size = 3250
 	}
 
 	clergymen = {
@@ -657,7 +762,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6125
+		size = 4900
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1225
 	}
 }
 #Baranovichi (196000/49000 POPS)
@@ -684,7 +794,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 33875
+		size = 27100
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 6775
 	}
 
 	aristocrats = {
@@ -715,7 +830,12 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 1475
+		size = 1180
+	}
+	serfs = {
+		culture = polish
+		religion = catholic 	
+		size = 295
 	}
 
 	clergymen = {
@@ -740,7 +860,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = catholic
-		size = 4625
+		size = 3700
+	}
+	serfs = {
+		culture = byelorussian
+		religion = catholic 	
+		size = 925
 	}
 
 	clergymen = {
@@ -765,7 +890,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 4275
+		size = 3420
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 855
 	}
 }
 #Slutsk (204000/51000 POPS)
@@ -792,7 +922,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 40200
+		size = 32160
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 8040
 	}
 
 	aristocrats = {
@@ -842,7 +977,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6125
+		size = 4900
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1225
 	}
 }
 #Mozyr (308000/77000 POPS)
@@ -869,7 +1009,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 42725
+		size = 34180
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 8545
 	}
 
 	aristocrats = {
@@ -906,7 +1051,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 3875
+		size = 3100
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 775
 	}
 
 	clergymen = {
@@ -931,7 +1081,12 @@
 	farmers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 23325
+		size = 18660
+	}
+	serfs = {
+		culture = ukrainian
+		religion = orthodox 	
+		size = 4665
 	}
 }
 #Smolensk Region (392000) #see Russia.txt for balance of region 
@@ -972,7 +1127,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 4450
+		size = 3560
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 890
 	}
 
 	clergymen = {
@@ -997,7 +1157,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 69250
+		size = 55400
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 13850
 	}
 
 	clergymen = {
@@ -1022,7 +1187,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 5625
+		size = 4500
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1125
 	}
 }
 #Vitebsk Region (2028000)
@@ -1057,7 +1227,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 49825
+		size = 39860
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 9965
 	}
 
 	aristocrats = {
@@ -1100,7 +1275,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 3200
+		size = 2560
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 640
 	}
 
 	aristocrats = {
@@ -1156,7 +1336,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6350
+		size = 5080
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1270
 	}
 }
 #Polotsk (628000/157000 POPS)
@@ -1189,7 +1374,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 109075
+		size = 87260
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 21815
 	}
 
 	aristocrats = {
@@ -1233,7 +1423,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 16125
+		size = 12900
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 3225
 	}
 
 	aristocrats = {
@@ -1264,7 +1459,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 2850
+		size = 2280
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 570
 	}
 
 	clergymen = {
@@ -1289,7 +1489,12 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 4625
+		size = 3700
+	}
+	serfs = {
+		culture = lithuanian
+		religion = catholic 	
+		size = 925
 	}
 }
 #Pastavy (348000/87000 POPS)
@@ -1316,7 +1521,12 @@
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 55850
+		size = 44680
+	}
+	serfs = {
+		culture = lithuanian
+		religion = catholic 	
+		size = 11170
 	}
 
 	clergymen = {
@@ -1341,7 +1551,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 14125
+		size = 11300
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 2825
 	}
 
 	aristocrats = {
@@ -1372,7 +1587,12 @@
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 850
+		size = 680
+	}
+	serfs = {
+		culture = polish
+		religion = catholic 	
+		size = 170
 	}
 
 	clergymen = {
@@ -1397,7 +1617,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 8325
+		size = 6660
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1665
 	}
 }
 #Mogilev (392000/98000 POPS)
@@ -1424,7 +1649,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 79250
+		size = 63400
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 15850
 	}
 
 	aristocrats = {
@@ -1480,7 +1710,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 3175
+		size = 2540
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 635
 	}
 
 	clergymen = {
@@ -1505,7 +1740,12 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 6600
+		size = 5280
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 1320
 	}
 }
 #Gomel (388000/97000 POPS)
@@ -1532,7 +1772,12 @@
 	farmers = {
 		culture = byelorussian
 		religion = orthodox
-		size = 76840
+		size = 61472
+	}
+	serfs = {
+		culture = byelorussian
+		religion = orthodox 	
+		size = 15368
 	}
 
 	aristocrats = {
@@ -1582,7 +1827,13 @@
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 11225
+		size = 8980
+	}
+	serfs = {
+		culture = ashkenazi
+		religion = jewish 	
+		size = 2245
 	}
 
 }
+

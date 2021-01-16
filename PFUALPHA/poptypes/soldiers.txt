@@ -56,7 +56,6 @@ luxury_needs = {
 	telephones = 0.1
 	fuel = 0.1
 	radio = 0.1
-	electric_power = 0.1
 }
 
 
@@ -1259,7 +1258,6 @@ liberal = {
 			country = { 
 				or = {
 					has_country_flag = party_alliance_conservative_liberal
-					has_country_flag = party_alliance_liberal_anarcho_liberal
 					has_country_flag = party_alliance_liberal_socialist
 					has_country_flag = party_alliance_liberal_social_liberal
 				}
@@ -1301,12 +1299,12 @@ liberal = {
 				nationalvalue = nv_glory
 				nationalvalue = nv_liberty
 			}
-			NOT = { ruling_party_ideology = anarcho_liberal }
+			
 		}
 		modifier = {
 			factor = 1.5
 			nationalvalue = nv_freedom
-			NOT = { ruling_party_ideology = anarcho_liberal }
+			
 		}
 		modifier = {
 			factor = 0.8
@@ -1355,23 +1353,13 @@ liberal = {
 			not = { literacy = 0.40 }
 		}
 		modifier = {
-			factor = 1.5
-			militancy = 3
-			NOT = { is_ideology_enabled = anarcho_liberal }
-		}
-		modifier = {
 			factor = 0.5
 			militancy = 3
-			is_ideology_enabled = anarcho_liberal
 		}
 		modifier = {
 			factor = 1.5
 			NOT = { is_ideology_enabled = communist }
 			country = { civilized = yes }
-		}
-		modifier = {
-			factor = 1.5
-			NOT = { is_ideology_enabled = anarcho_liberal }
 		}
 		modifier = {
 			factor = 1.2
@@ -5731,7 +5719,6 @@ trinket_subsidies = {
 			factor = 0
 			or = {
 				pop_majority_ideology = liberal
-				pop_majority_ideology = anarcho_liberal
 				pop_majority_ideology = social_liberal
 				pop_majority_ideology = socialist
 			}
@@ -5808,7 +5795,6 @@ trinket_subsidies = {
 			factor = 0
 			or = {
 				pop_majority_ideology = liberal
-				pop_majority_ideology = anarcho_liberal
 				pop_majority_ideology = socialist
 			}
 			minorities_reform = protected
@@ -5827,7 +5813,6 @@ trinket_subsidies = {
 			factor = 2
 			or = {
 				pop_majority_ideology = liberal
-				pop_majority_ideology = anarcho_liberal
 				pop_majority_ideology = socialist
 			}
 			minorities_reform = oppression
@@ -5934,7 +5919,6 @@ trinket_subsidies = {
 		factor = 2
 			or = {
 				pop_majority_ideology = liberal
-				pop_majority_ideology = anarcho_liberal
 				pop_majority_ideology = socialist
 
 			}

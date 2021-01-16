@@ -49,7 +49,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 38050
+		size = 15220
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 22830
 	}
 
 	slaves = {
@@ -101,7 +106,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 17325
+		size = 6930
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 10395
 	}
 
 	aristocrats = {
@@ -132,7 +142,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 13900
+		size = 5560
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 8340
 	}
 
 	slaves = {
@@ -175,7 +190,12 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 3650
+		size = 1460
+	}
+	serfs = {
+		culture = turkmen
+		religion = sunni 	
+		size = 2190
 	}
 }
 #Mawarannahr Region (524000) #see Kazakhstan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
@@ -217,7 +237,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 38850
+		size = 15540
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 23310
 	}
 
 	aristocrats = {
@@ -248,7 +273,12 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 2775
+		size = 1110
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 1665
 	}
 
 	aristocrats = {
@@ -279,7 +309,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 6450
+		size = 2580
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 3870
 	}
 }
 #Kokand (300000/75000 POPS)   
@@ -324,7 +359,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 46350
+		size = 18540
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 27810
 	}
 
 	aristocrats = {
@@ -355,7 +395,12 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 14600
+		size = 5840
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 8760
 	}
 
 	aristocrats = {
@@ -386,7 +431,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 2625
+		size = 1050
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 1575
 	}
 }
 #under the rule of Bukhara in 1836  
@@ -467,7 +517,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 168950
+		size = 67580
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 101370
 	}
 
 	aristocrats = {
@@ -498,7 +553,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 12775
+		size = 5110
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 7665
 	}
 
 	aristocrats = {
@@ -529,7 +589,12 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 3375
+		size = 1350
+	}
+	serfs = {
+		culture = bedouin
+		religion = sunni 	
+		size = 2025
 	}
 
 	clergymen = {
@@ -588,7 +653,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 110800
+		size = 44320
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 66480
 	}
 
 	aristocrats = {
@@ -619,7 +689,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 5600
+		size = 2240
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 3360
 	}
 
 	aristocrats = {
@@ -650,7 +725,12 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 2325
+		size = 930
+	}
+	serfs = {
+		culture = bedouin
+		religion = sunni 	
+		size = 1395
 	}
 }
 #Qarshi (280000/70000 POPS)   
@@ -683,7 +763,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 46425
+		size = 18570
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 27855
 	}
 
 	aristocrats = {
@@ -714,7 +799,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 11075
+		size = 4430
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 6645
 	}
 
 	aristocrats = {
@@ -745,7 +835,13 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 6425
+		size = 2570
+	}
+	serfs = {
+		culture = turkmen
+		religion = sunni 	
+		size = 3855
 	}
 
 }
+

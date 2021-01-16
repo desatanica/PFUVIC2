@@ -30,7 +30,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 665
+		size = 333
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 332
 	}
 
 	aristocrats = {
@@ -61,7 +66,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 3625
+		size = 1813
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 1812
 	}
 }
 #Aqtobe (20000/5000 POPS)
@@ -94,7 +104,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 4575
+		size = 2287
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 2288
 	}
 }
 #Uralsk (13000/3250 POPS)
@@ -121,7 +136,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 1150
+		size = 575
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 575
 	}
 
 	aristocrats = {
@@ -152,7 +172,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 1825
+		size = 913
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 912
 	}
 }
 #Turgay (20000/5000 POPS)
@@ -185,7 +210,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 4575
+		size = 2287
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 2288
 	}
 }
 #Eastern Kazakh Steppes Region (376000)
@@ -220,7 +250,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 12875
+		size = 6437
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 6438
 	}
 }
 #Kokshetau (96000/24000 POPS)
@@ -253,7 +288,12 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 2700
+		size = 1350
+	}
+	serfs = {
+		culture = russian
+		religion = orthodox 	
+		size = 1350
 	}
 
 	aristocrats = {
@@ -284,7 +324,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 19050
+		size = 9525
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 9525
 	}
 }
 #Yasi (80000/20000 POPS)
@@ -317,7 +362,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 18250
+		size = 9125
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 9125
 	}
 }
 #Zhambul (76000/19000 POPS)
@@ -350,7 +400,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 17325
+		size = 8663
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 8662
 	}
 }
 #Aktash (68000/17000 POPS)
@@ -383,7 +438,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 15475
+		size = 7737
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 7738
 	}
 }
 #Semireche Region (276000) #see Kirghizstan.txt for balance of region 
@@ -418,7 +478,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 18250
+		size = 9125
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 9125
 	}
 }
 #Qaratal (108000/27000 POPS)
@@ -451,7 +516,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 14575
+		size = 7287
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 7288
 	}
 
 	aristocrats = {
@@ -482,7 +552,12 @@
 	farmers = {
 		culture = uighur
 		religion = sunni
-		size = 10025
+		size = 5013
+	}
+	serfs = {
+		culture = uighur
+		religion = sunni 	
+		size = 5012
 	}
 }
 #under the "rule" of Kokand in 1836
@@ -516,7 +591,12 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 5475
+		size = 2737
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 2738
 	}
 
 	aristocrats = {
@@ -547,7 +627,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 14575
+		size = 7287
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 7288
 	}
 }
 #Khwarazm Region (168000) #see Uzbekistan.txt and Turkmenistan.txt for balance of region 
@@ -582,7 +667,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 12775
+		size = 6387
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 6388
 	}
 
 	aristocrats = {
@@ -613,7 +703,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 11900
+		size = 5950
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 5950
 	}
 }
 #Aqtau (32000/8000 POPS)
@@ -646,7 +741,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 7350
+		size = 3675
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 3675
 	}
 }
 #Aralsk (28000/7000 POPS)
@@ -679,7 +779,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 6425
+		size = 3213
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 3212
 	}
 }
 #Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
@@ -714,7 +819,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 13725
+		size = 6863
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 6862
 	}
 
 	aristocrats = {
@@ -745,7 +855,13 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 27450
+		size = 13725
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 13725
 	}
 
 }
+

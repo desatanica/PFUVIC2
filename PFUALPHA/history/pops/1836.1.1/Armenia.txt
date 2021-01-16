@@ -55,7 +55,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 11850
+		size = 7110
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 4740
 	}
 
 	aristocrats = {
@@ -86,7 +91,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 10050
+		size = 6030
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 4020
 	}
 
 	aristocrats = {
@@ -104,7 +114,12 @@
 	farmers = {
 		culture = kurdish
 		religion = sunni
-		size = 1850
+		size = 1110
+	}
+	serfs = {
+		culture = kurdish
+		religion = sunni 	
+		size = 740
 	}
 }
 #Gyumri (68000/17000 POPS)
@@ -137,7 +152,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 14750
+		size = 8850
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 5900
 	}
 
 	aristocrats = {
@@ -162,7 +182,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 925
+		size = 555
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 370
 	}
 }
 #Kapan (44000/11000 POPS)
@@ -195,7 +220,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 7325
+		size = 4395
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 2930
 	}
 
 	aristocrats = {
@@ -220,7 +250,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 2775
+		size = 1665
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 1110
 	}
 }
 #Nakhichevan (60000/15000 POPS) #now part of Azerbaijan 
@@ -253,7 +288,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 8250
+		size = 4950
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 3300
 	}
 
 	aristocrats = {
@@ -278,7 +318,13 @@
 	farmers = {
 		culture = azerbaijani
 		religion = shiite
-		size = 4500
+		size = 2700
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = shiite 	
+		size = 1800
 	}
 
 }
+

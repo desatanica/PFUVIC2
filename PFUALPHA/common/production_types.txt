@@ -771,35 +771,6 @@ fish_cannery = {
 	}
 }
 
-oil_plant = {
-	template = factory_template	#50
-	input_goods = {        
-		fuel = 17.5	#280
-	}
-	output_goods = electric_power 
-	value = 45		#360
-	bonus = {
-		trigger = { 
-			has_building = fuel_refinery
-		}
-		value = 0.2
-	}
-}
-coal_plant = {
-	template = factory_template	#50
-	input_goods = {        
-		coal = 25	#276
-	}
-	output_goods = electric_power 
-	value = 42.5		#340
-	bonus = {
-		trigger = { 
-			trade_goods_in_state = coal 
-		}
-		value = 0.1
-	}
-}
-
 bakery = {       
 	template = factory_template	#24
 	input_goods = { 

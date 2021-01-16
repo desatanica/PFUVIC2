@@ -34,7 +34,6 @@ everyday_needs = {
 	furniture = 0.5
 	print = 0.5
 	pharmaceuticals = 0.5
-	electric_power = 1
 }
 luxury_needs = {
 	boots = 2.5
@@ -51,7 +50,6 @@ luxury_needs = {
 	fuel = 0.5
 	radio = 0.5
 	shares = 1
-	electric_power = 1
 }
 
 country_migration_target = {
@@ -1547,12 +1545,12 @@ liberal = {
 				nationalvalue = nv_glory
 				nationalvalue = nv_liberty
 			}
-			NOT = { ruling_party_ideology = anarcho_liberal }
+			
 		}
 		modifier = {
 			factor = 1.5
 			nationalvalue = nv_freedom
-			NOT = { ruling_party_ideology = anarcho_liberal }
+			
 		}
 		modifier = {
 			factor = 0.8

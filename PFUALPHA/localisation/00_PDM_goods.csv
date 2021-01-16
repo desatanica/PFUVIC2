@@ -1,12 +1,7 @@
 financial_services;Financial Services;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,
-electric_power;Electric Power;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
 shares;Shares;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
 bank;Bank;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
 bank_desc;Banking institutions are financial intermediaries that accept deposits and channel those deposits into lending activities, either directly or through capital markets.;;;;;;;;;;;;;;x,;;;;;;;;;;;;;;
-Coal-fired_powerplant;Coal-Fired Power Plant;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
-Coal-fired_powerplant_desc;Most of the world's electricity is produced by burning coal in boilers, producing steam which drives the turbines that generate electricity.;;;;;;;;;;;;;;x,;;;;;;;;;;;;;;
-Petrolium-based_powerplant;Petroleum-Based Power Plant;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
-Petrolium-based_powerplant_desc;As coal can be burned in a power plant to produce electricity, so can petroleum.;;;;;;;;;;;;;;x,;;;;;;;;;;;;;;
 stock_exchange;Stock Exchange;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
 stock_exchange_desc;Stock exchanges provide a market for the brokerage and trade of stocks and secrities. They generally offer a wide range of different financial securities.;;;;;;;;;;;;;;x,,;;;;;;;;;;;;;;
 commercial_focus;Commercial Focus;;;;;;;;;;;;;;x;;;;;;;;;;;;;;,,

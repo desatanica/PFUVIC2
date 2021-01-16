@@ -44,7 +44,7 @@ country = {
 	SUPPRESS_BUREAUCRAT_FACTOR = 0.5,
 	WRONG_REFORM_MILITANCY_IMPACT = 8,
 	SUPPRESSION_RADICALISATION_HIT = 10, -- % base added to a movements radicalness
-	INVESTMENT_SCORE_FACTOR = 0.005, -- how much foreign investment money counts towards your industry score
+	INVESTMENT_SCORE_FACTOR = 0.01, -- how much foreign investment money counts towards your industry score
 	UNCIV_TECH_SPREAD_MAX = 0.30,
 	UNCIV_TECH_SPREAD_MIN = 0.30,
 	MIN_DELAY_BETWEEN_REFORMS = 6, -- months
@@ -94,7 +94,7 @@ country = {
 },
 
 economy = {
-	MAX_DAILY_RESEARCH = 100,
+	MAX_DAILY_RESEARCH = 150,
 	LOAN_BASE_INTEREST = 0.002,
 	BANKRUPTCY_EXTERNAL_LOAN_YEARS = 10,
 	BANKRUPTCY_FACTOR = 0.1,

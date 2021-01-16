@@ -597,19 +597,13 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 42040
+		size = 32040
 	}
-
-	clergymen = {
+	
+	craftsmen = {
 		culture = north_german
-		religion = jewish
-		size = 25
-	}
-
-	artisans = {
-		culture = north_german
-		religion = jewish
-		size = 1475
+		religion = protestant
+		size = 15000
 	}
 
 	aristocrats = {
@@ -722,13 +716,13 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 41375
+		size = 31375
 	}
 
-	artisans = {
+	craftsmen = {
 		culture = north_german
-		religion = jewish
-		size = 1100
+		religion = protestant
+		size = 15000
 	}
 
 	aristocrats = {
@@ -1333,6 +1327,12 @@
 		religion = catholic
 		size = 75600
 	}
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 5000
+	}
 }
 #St Brieuc (604000/151000 POPS)
 421 = {
@@ -1712,7 +1712,13 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 64475
+		size = 54475
+	}
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 15000
 	}
 }
 #Melun (328000/82000 POPS)
@@ -1745,7 +1751,13 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 75300
+		size = 65300
+	}
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 15000
 	}
 
 }
@@ -3047,7 +3059,13 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 111800
+		size = 110800
+	}
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 5000
 	}
 }
 #Montauban (584000/146000 POPS)
@@ -3835,6 +3853,12 @@
 		culture = french
 		religion = catholic
 		size = 64950
+	}
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 5000
 	}
 
 }

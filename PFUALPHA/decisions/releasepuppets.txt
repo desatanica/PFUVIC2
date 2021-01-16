@@ -276,5 +276,4 @@ political_decisions = {
    gtfo_URU = { picture = gtfo alert = no potential = { has_country_flag = gtfo URU = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { prestige = -20 release_vassal = URU diplomatic_influence = { who = URU value = -100 } } }
    gtfo_VNZ = { picture = gtfo alert = no potential = { has_country_flag = gtfo VNZ = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { prestige = -20 release_vassal = VNZ diplomatic_influence = { who = VNZ value = -100 } } }
    gtfo_AST = { picture = gtfo alert = no potential = { has_country_flag = gtfo AST = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { prestige = -20 release_vassal = AST diplomatic_influence = { who = AST value = -100 } } }
-   gtfo_NZL = { picture = gtfo alert = no potential = { has_country_flag = gtfo NZL = { vassal_of = THIS NOT = { substate_of = THIS } } } allow = { ai = no } effect = { prestige = -20 release_vassal = NZL diplomatic_influence = { who = NZL value = -100 } } }
 }

@@ -67,7 +67,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 39625
+		size = 23775
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 15850
 	}
 
 	aristocrats = {
@@ -98,7 +103,12 @@
 	farmers = {
 		culture = north_caucasian
 		religion = orthodox
-		size = 2775
+		size = 1665
+	}
+	serfs = {
+		culture = north_caucasian
+		religion = orthodox 	
+		size = 1110
 	}
 
 	aristocrats = {
@@ -129,7 +139,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 2400
+		size = 1440
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 960
 	}
 
 	aristocrats = {
@@ -160,7 +175,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 2750
+		size = 1650
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 1100
 	}
 
 	clergymen = {
@@ -205,7 +225,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 9100
+		size = 5460
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 3640
 	}
 
 	aristocrats = {
@@ -240,8 +265,13 @@
 	farmers = {
 		culture = north_caucasian
 		religion = orthodox
-		size = 5500
+		size = 3300
 		militancy = 9
+	}
+	serfs = {
+		culture = north_caucasian
+		religion = orthodox 	
+		size = 2200
 	}
 
 	aristocrats = {
@@ -272,7 +302,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 2700
+		size = 1620
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 1080
 	}
 }
 #Kutaisi (120000/30000 POPS)
@@ -305,7 +340,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 27300
+		size = 16380
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 10920
 	}
 
 	clergymen = {
@@ -350,7 +390,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 3625
+		size = 2175
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 1450
 	}
 
 	aristocrats = {
@@ -381,7 +426,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 4550
+		size = 2730
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 1820
 	}
 
 	aristocrats = {
@@ -412,7 +462,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 900
+		size = 540
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 360
 	}
 }
 #Poti (104000/26000 POPS)
@@ -445,7 +500,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 23675
+		size = 14205
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 9470
 	}
 }
 #Sukhumi (72000/18000 POPS) #circassian = abkhaz
@@ -478,7 +538,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 3600
+		size = 2160
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 1440
 	}
 
 	aristocrats = {
@@ -513,8 +578,13 @@
 	farmers = {
 		culture = north_caucasian
 		religion = orthodox
-		size = 8225
+		size = 4935
 		militancy = 9
+	}
+	serfs = {
+		culture = north_caucasian
+		religion = orthodox 	
+		size = 3290
 	}
 
 	aristocrats = {
@@ -549,8 +619,13 @@
 	farmers = {
 		culture = north_caucasian
 		religion = sunni
-		size = 4550
+		size = 2730
 		militancy = 9
+	}
+	serfs = {
+		culture = north_caucasian
+		religion = sunni 	
+		size = 1820
 	}
 }
 #Kars Region (76000) #see Turkey.txt for balance of region  
@@ -585,7 +660,12 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 2725
+		size = 1635
+	}
+	serfs = {
+		culture = turkish
+		religion = sunni 	
+		size = 1090
 	}
 
 	clergymen = {
@@ -603,7 +683,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 3725
+		size = 2235
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 1490
 	}
 
 	aristocrats = {
@@ -634,7 +719,13 @@
 	farmers = {
 		culture = georgian
 		religion = sunni
-		size = 11250
+		size = 6750
+	}
+	serfs = {
+		culture = georgian
+		religion = sunni 	
+		size = 4500
 	}
 
 }
+

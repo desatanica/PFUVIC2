@@ -61,7 +61,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 45350
+		size = 27210
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 18140
 	}
 
 	aristocrats = {
@@ -98,7 +103,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = shiite
-		size = 10985
+		size = 6591
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = shiite 	
+		size = 4394
 	}
 
 	clergymen = {
@@ -155,7 +165,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 2725
+		size = 1635
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 1090
 	}
 
 	aristocrats = {
@@ -186,7 +201,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = shiite
-		size = 6400
+		size = 3840
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = shiite 	
+		size = 2560
 	}
 
 	aristocrats = {
@@ -221,8 +241,13 @@
 	farmers = {
 		culture = north_caucasian
 		religion = sunni
-		size = 3600
+		size = 2160
 		militancy = 9
+	}
+	serfs = {
+		culture = north_caucasian
+		religion = sunni 	
+		size = 1440
 	}
 }
 #Sheki (24000/6000 POPS)
@@ -255,7 +280,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 1800
+		size = 1080
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 720
 	}
 
 	aristocrats = {
@@ -286,7 +316,12 @@
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 900
+		size = 540
+	}
+	serfs = {
+		culture = georgian
+		religion = orthodox 	
+		size = 360
 	}
 
 	aristocrats = {
@@ -321,8 +356,13 @@
 	farmers = {
 		culture = north_caucasian
 		religion = sunni
-		size = 2600
+		size = 1560
 		militancy = 9
+	}
+	serfs = {
+		culture = north_caucasian
+		religion = sunni 	
+		size = 1040
 	}
 }
 #Ganja (68000/17000 POPS)
@@ -355,7 +395,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = shiite
-		size = 9100
+		size = 5460
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = shiite 	
+		size = 3640
 	}
 
 	aristocrats = {
@@ -386,7 +431,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 6425
+		size = 3855
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 2570
 	}
 }
 #Agdam (60000/15000 POPS)
@@ -419,7 +469,12 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 8225
+		size = 4935
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = sunni 	
+		size = 3290
 	}
 
 	aristocrats = {
@@ -450,7 +505,12 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 5475
+		size = 3285
+	}
+	serfs = {
+		culture = armenian
+		religion = orthodox 	
+		size = 2190
 	}
 }
 #Lankaran (56000/14000 POPS)
@@ -483,7 +543,13 @@
 	farmers = {
 		culture = azerbaijani
 		religion = shiite
-		size = 12800
+		size = 7680
+	}
+	serfs = {
+		culture = azerbaijani
+		religion = shiite 	
+		size = 5120
 	}
 
 }
+

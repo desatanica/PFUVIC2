@@ -6439,68 +6439,6 @@ precision_machinery = {
 	}
 }
 
-modern_power_plants = {
-	limit = { 
-		modern_power_generation = 1 
-	}
-	news = no
-	chance = {
-		base = 5
-		modifier = {
-			factor = -10
-			not = { electricity = 1 }
-		}
-	}
-	effect = {
-		activate_building = Petrolium-based_powerplant
-		factory_goods_output = {
-			electric_power = 0.1
-		}
-		factory_goods_input = {
-			coal = -0.05
-			oil = -0.05
-		}
-	}
-}
-
-hydroelectricity = {
-	limit = { 
-		modern_power_generation = 1 
-	}
-	news = no
-	chance = {
-		base = 5
-		modifier = {
-			factor = -10
-			not = { electricity = 1 }
-		}
-	}
-	effect = {
-		factory_goods_output = {
-			electric_power = 0.05
-		}
-	}
-}
-
-geothermal_energy = {
-	limit = { 
-		modern_power_generation = 1 
-	}
-	news = no
-	chance = {
-		base = 5
-		modifier = {
-			factor = -10
-			not = { electricity = 1 }
-		}
-	}
-	effect = {
-		factory_goods_output = {
-			electric_power = 0.05
-		}
-	}
-}
-
 household_electrification = {
 	limit = { 
 		modern_power_generation = 1 

@@ -30,7 +30,12 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 9200
+		size = 5520
+	}
+	serfs = {
+		culture = turkmen
+		religion = sunni 	
+		size = 3680
 	}
 }
 #Turkmenia Region (368000) 
@@ -65,7 +70,12 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 25675
+		size = 15405
+	}
+	serfs = {
+		culture = turkmen
+		religion = sunni 	
+		size = 10270
 	}
 
 	clergymen = {
@@ -90,7 +100,12 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 3750
+		size = 2250
+	}
+	serfs = {
+		culture = persian
+		religion = shiite 	
+		size = 1500
 	}
 }
 #Kizil Arvut (88000/22000 POPS)   
@@ -123,7 +138,12 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 17400
+		size = 10440
+	}
+	serfs = {
+		culture = turkmen
+		religion = sunni 	
+		size = 6960
 	}
 
 	clergymen = {
@@ -148,7 +168,12 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 2800
+		size = 1680
+	}
+	serfs = {
+		culture = persian
+		religion = shiite 	
+		size = 1120
 	}
 }
 #under the rule of Bukhara in 1836  
@@ -182,7 +207,12 @@
 	farmers = {
 		culture = tajik
 		religion = sunni
-		size = 1825
+		size = 1095
+	}
+	serfs = {
+		culture = tajik
+		religion = sunni 	
+		size = 730
 	}
 
 	aristocrats = {
@@ -213,7 +243,12 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 21025
+		size = 12615
+	}
+	serfs = {
+		culture = turkmen
+		religion = sunni 	
+		size = 8410
 	}
 
 	aristocrats = {
@@ -244,7 +279,13 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 7425
+		size = 4455
+	}
+	serfs = {
+		culture = persian
+		religion = shiite 	
+		size = 2970
 	}
 
 }
+

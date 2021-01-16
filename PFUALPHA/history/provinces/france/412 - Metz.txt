@@ -10,3 +10,13 @@ terrain = good_farmland
 		building = bronze_factory
 		upgrade = yes
 	}
+	state_building = {
+		level = 2
+		building = gunpowder_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = ammunition_factory
+		upgrade = yes
+	}

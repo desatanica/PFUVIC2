@@ -44,7 +44,12 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 33775
+		size = 13510
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 20265
 	}
 
 	aristocrats = {
@@ -75,7 +80,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 6450
+		size = 2580
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 3870
 	}
 
 	aristocrats = {
@@ -106,7 +116,12 @@
 	farmers = {
 		culture = uighur
 		religion = sunni
-		size = 7375
+		size = 2950
+	}
+	serfs = {
+		culture = uighur
+		religion = sunni 	
+		size = 4425
 	}
 }
 #Naryn (56000/14000 POPS) #now part of Kirghizstan    
@@ -139,7 +154,12 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 2775
+		size = 1110
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 1665
 	}
 
 	aristocrats = {
@@ -170,7 +190,12 @@
 	farmers = {
 		culture = kirgiz
 		religion = animist
-		size = 4575
+		size = 1830
+	}
+	serfs = {
+		culture = kirgiz
+		religion = animist 	
+		size = 2745
 	}
 
 	aristocrats = {
@@ -201,7 +226,12 @@
 	farmers = {
 		culture = kazak
 		religion = sunni
-		size = 4600
+		size = 1840
+	}
+	serfs = {
+		culture = kazak
+		religion = sunni 	
+		size = 2760
 	}
 }
 #Mawarannahr Region (112000) #see Kazakhstan.txt, Tajikistan.txt, Uzbekistan.txt for balance of region 
@@ -236,7 +266,12 @@
 	farmers = {
 		culture = uzbek
 		religion = sunni
-		size = 8200
+		size = 3280
+	}
+	serfs = {
+		culture = uzbek
+		religion = sunni 	
+		size = 4920
 	}
 
 	aristocrats = {
@@ -274,7 +309,13 @@
 	farmers = {
 		culture = kirgiz
 		religion = sunni
-		size = 13550
+		size = 5420
+	}
+	serfs = {
+		culture = kirgiz
+		religion = sunni 	
+		size = 8130
 	}
 
 }
+

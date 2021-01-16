@@ -1712,8 +1712,8 @@ country_event = {
 	picture = "Waitangi"
 
 	trigger = {
+        tag = ENG
 		NOT = { has_global_flag = treaty_of_waitangi }
-                tag = ENG
 		owns = 2509 #Auckland
 		year = 1840
 	}
@@ -1736,21 +1736,21 @@ country_event = {
 		name = "EVTOPTA36940"
 		set_global_flag = treaty_of_waitangi
 		prestige = 5
-		ENG_2509 = { add_core = THIS add_core = NZL } #North Island
-		ENG_2513 = { add_core = THIS add_core = NZL } #South Island
 		any_pop = { 
 			limit = { has_pop_culture = maori }
 			militancy = -3
 		}
-		any_owned = {
-			limit = {
-				is_core = NZL
-				is_colonial = yes
-			}
+		ENG_2509 = {
 			add_province_modifier = {
 				name = small_immigration_boom
 				duration = 1825
 			}
+		} 
+		ENG_2513 = {
+			add_province_modifier = {
+				name = small_immigration_boom
+				duration = 1825
+			}	
 		}
 	}
 }
@@ -1822,10 +1822,6 @@ country_event = {
 
 	trigger = {
 		tag = ENG
-		NZL = {
-			exists = no
-			all_core = { owned_by = THIS }
-		}
 	}
 
 	mean_time_to_happen = {
@@ -1847,57 +1843,6 @@ country_event = {
 				name =	colonial_recruitment
 				duration = 730
 			}
-		}
-	}
-}
-
-country_event = {
-	id = 36943
-	title = "EVTNAME36943" #The New Zealand Colony
-	desc = "EVTDESC36943"
-	picture = "flagstaffwar"
-
-	trigger = {	exists = yes
-		OR = {
-			tag = ENG
-			tag = ENL
-		}
-		has_global_flag = treaty_of_waitangi
-		any_owned_province = {
-			is_core = NZL
-			NOT = {
-				life_rating = 35
-				average_militancy = 2
-			}
-		}
-	}
-
-	mean_time_to_happen = {
-		months = 12
-	}
-
-	option = {
-		name = "All in the name of progress."
-		any_owned = {
-			limit = {
-				is_core = NZL
-				NOT = {
-					life_rating = 35
-					average_militancy = 2
-				}
-			}
-			life_rating = 5
-		}
-		any_pop = {
-			limit = {
-				has_pop_culture = maori
-				location = { is_core = NZL }
-			}
-			ideology = {
-				value = reactionary
-				factor = 0.10
-			}
-			militancy = 3
 		}
 	}
 }

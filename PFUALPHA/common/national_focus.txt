@@ -303,7 +303,6 @@ production_focus = {
 		radio = 50
 		telephones = 50
 		electric_gear = 50
-		electric_power = 50
 		icon = 23
 		limit = {
 			year = 1880 

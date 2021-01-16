@@ -53,7 +53,6 @@ luxury_needs = {
 	print = 5000
 	shares = 5000
 	pharmaceuticals = 5000
-	electric_power = 5000
 	financial_services = 5000
 	liquor = 5000
 	wine = 5000

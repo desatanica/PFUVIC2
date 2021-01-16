@@ -381,56 +381,16 @@ political_decisions = {
 		}
 	}	
 	
-	embrace_czech_minority = {
-		picture = embrace_minority
-		potential = {
-			tag = KUK
-			any_owned_province = { is_core = BOH }
-			NOT = {
-				accepted_culture = czech
-				has_country_flag = embraced_czechs
-				has_country_flag = danube_proposal_in_progress
-			}
-		}
-		allow = {
-			year = 1860
-			prestige = 50
-			nationalism_n_imperialism = 1
-			experimental_psychology = 1
-		}
-		effect = {
-			set_country_flag = embraced_czechs
-			add_accepted_culture = czech
-			prestige = -25
-			any_pop = {
-				limit = { has_pop_culture = hungarian }
-				consciousness = 4
-				militancy = 4
-			}
-			any_pop = {
-				limit = { has_pop_culture = czech }
-				consciousness = -4
-				militancy = -4
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
 	embrace_slovene_minority = {
 		picture = embrace_minority
 		potential = {
+			OR = {
+			tag = AUS
 			tag = KUK
-			any_owned_province = { is_core = SLO }
+			}
 			NOT = {
 				accepted_culture = slovene
 				has_country_flag = embraced_slovenes
-				has_country_flag = danube_proposal_in_progress
-			}
-			OR = {
-				accepted_culture = croat
-				NOT = { any_owned_province = { is_core = CRO } }
 			}
 		}
 		allow = {
@@ -439,6 +399,7 @@ political_decisions = {
 			revolution_n_counterrevolution = 1
 			psychoanalysis = 1
 			social_science = 1
+			any_owned_province = { is_core = SLO }
 		}
 		effect = {
 			set_country_flag = embraced_slovenes
@@ -469,16 +430,13 @@ political_decisions = {
 	embrace_croat_minority = {
 		picture = embrace_minority
 		potential = {
+			OR = {
+			tag = AUS
 			tag = KUK
-			any_owned_province = { is_core = CRO }
+			}
 			NOT = {
 				accepted_culture = croat
 				has_country_flag = embraced_croats
-				has_country_flag = danube_proposal_in_progress
-			}
-			OR = {
-				accepted_culture = czech
-				NOT = { any_owned_province = { is_core = BOH } }
 			}
 		}
 		allow = {
@@ -486,6 +444,7 @@ political_decisions = {
 			prestige = 50
 			revolution_n_counterrevolution = 1
 			psychoanalysis = 1
+			any_owned_province = { is_core = CRO }
 		}
 		effect = {
 			set_country_flag = embraced_croats
@@ -515,17 +474,14 @@ political_decisions = {
 	embrace_polish_minority = {
 		picture = embrace_minority
 		potential = {
+			OR = {
+			tag = AUS
 			tag = KUK
+			}
 			NOT = {
 				accepted_culture = polish
 				has_country_flag = embraced_poles
-				has_country_flag = danube_proposal_in_progress
-			}
-			OR = {
-				accepted_culture = slovene
-				NOT = { any_owned_province = { is_core = SLO } }
-			}
-					
+			}				
 		}
 		allow = {
 			year = 1900
@@ -5570,16 +5526,15 @@ political_decisions = {
 	clear_out_the_manchu_elite = {
 		potential = {
 			tag = QNG
-			government = absolute_monarchy
-			is_greater_power = no
-			civilized = no
-			has_global_flag = taiping_has_happened
 			NOT = {
 				has_country_flag = manchu_elite_cleared_out
 			}
 		}
 		allow = {
 			average_consciousness = 3
+			civilization_progress = 0.6
+			is_greater_power = no
+			civilized = no
 		}
 		effect = {
 			years_of_research = 0.1
@@ -5607,14 +5562,8 @@ political_decisions = {
 		}
 		
 		allow = {
+			civilized = yes
 			war = no
-			owns = 1616
-			NOT = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = { has_country_flag = mandate }
 		}
 		
 		effect = {
@@ -5622,51 +5571,7 @@ political_decisions = {
 			all_core = { remove_core = QNG }
 			change_tag = CHI
 			primary_culture = beifaren
-			random_country = {
-				limit = {
-					tag = TIB
-					vassal_of = THIS
-				}
-				THIS = { release_vassal = TIB }
-			}
-			random_owned = {
-				limit = {
-					province_id = 1587
-					NOT = { exists = TIB }
-				}
-				owner = {
-					any_owned = {
-						limit = {
-							OR = {
-								region = TIB_1587
-								region = NEP_1326
-							}
-						}
-						secede_province = TIB
-					}
-				}
-			}
-			random_country = {
-				limit = {
-					tag = MGL
-					vassal_of = THIS
-				}
-				THIS = { release_vassal = MGL }
-			}
-			random_owned = {
-				limit = {
-					province_id = 1465
-					NOT = { exists = MGL }
-				}
-				owner = {
-					any_owned = {
-						limit = {
-							is_core = MGL
-						}
-						secede_province = MGL
-					}
-				}
-			}
+			add_accepted_culture = manchu
 			CHI_1465 = { remove_core = CHI }
 			1469 = { remove_core = CHI }
 			CHI_1082 = { add_core = MCK }
@@ -5749,7 +5654,7 @@ political_decisions = {
 		
 		allow = {
 			war = no
-			civilization_progress = 0.5
+			civilization_progress = 0.4
 		}
 		
 		effect = {
@@ -16096,6 +16001,14 @@ appoint_camillo_cavour = {
 		}
 		
 		effect = {
+			
+			#######Turkey##########
+			any_pop = { limit = { has_pop_culture = serb } literacy = 0.05 } 
+			any_pop = { limit = { has_pop_culture = bosniak } literacy = 0.05 } 
+			any_pop = { limit = { has_pop_culture = romanian } literacy = 0.05 } 
+			any_pop = { limit = { has_pop_culture = greek } literacy = 0.05 } 
+			any_pop = { limit = { has_pop_culture = albanian } literacy = 0.05 } 
+			any_pop = { limit = { has_pop_culture = croat } literacy = 0.05 } 
 			#################Provinces Setup######################
 			2509 = { add_province_modifier = { name = small_immigration_boom duration = 10950 } }	#Auckland, NZ
 			46 = { add_province_modifier = { name = small_immigration_boom duration = 10950 } }		#Toronto, CA
@@ -16115,14 +16028,40 @@ appoint_camillo_cavour = {
 			2491 = { add_province_modifier = { name = small_immigration_boom duration = 7300 } }	#Adelaide, AU
 			372 = { add_province_modifier = { name = sound_dues_toll duration = -1 } } #Copenhagen		
 			163 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Chicago
+			978 = { add_province_modifier = { name = kharkov_university duration = 18000 } } #Kharkov	
+			#######Rural pops##########
+
 			######################Literacy Setup######################
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = japanese } literacy = -0.25 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = swedish } literacy = 0.10 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = norwegian } literacy = 0.10 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = finnish } literacy = 0.10 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = polish } literacy = 0.15 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = slovak } literacy = 0.1 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = spanish } literacy = 0.1 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = basque } literacy = 0.1 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = catalan } literacy = 0.1 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = portuguese } literacy = 0.05 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = serb } literacy = 0.05 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = bosniak } literacy = 0.05 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = romanian } literacy = 0.05 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = greek } literacy = 0.05 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = albanian } literacy = 0.05 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = croat } literacy = 0.05 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = north_german } literacy = 0.10 } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = czech } literacy = 0.2 } }
+			SIC = { any_pop = { limit = { has_pop_culture = north_italian } literacy = 0.05 } }
+			FRA = { any_pop = { limit = { has_pop_culture = north_german } literacy = 0.55 } }
+
+			
 			any_pop = { limit = { has_pop_religion = animist } literacy = -0.5 }
 			any_country = { limit = { exists = yes has_pop_type = slaves } slaves = { literacy = -0.99 } }
+			
+			#########Serfs##########
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = native_american_minor } pop_type = serfs } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = maori } pop_type = serfs } }
+			any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = aborigine } pop_type = serfs } }
+			
 		    #################Giving Starting Money to Pops and Countries######################
 			any_country = { limit = { is_greater_power = yes } capitalists = { money = 1000 } aristocrats = { money = 500 } artisans = { money = 200 } }
 			any_country = { limit = { is_secondary_power = yes } capitalists = { money = 800 } aristocrats = { money = 400 } artisans = { money = 100 } }
@@ -16157,8 +16096,47 @@ appoint_camillo_cavour = {
 			MON_2582 = { add_province_modifier = { name = baby_boom duration = 3650 } }
 			TUR_674 = { add_province_modifier = { name = baby_boom duration = 3650 } }
 			TUR_860 = { add_province_modifier = { name = baby_boom duration = 3650 } }
+			
+			#######Sweden#########
+			SWE_334 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
+			SWE_329 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
+			SWE_322 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
+			SWE_318 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
+			######Norway########
+			SWE_313 = { add_province_modifier = { name = small_baby_boom duration = 2620 } }
+			SWE_309 = { add_province_modifier = { name = small_baby_boom duration = 2620 } }
+			SWE_308 = { add_province_modifier = { name = small_baby_boom duration = 2620 } }
+			DEN_251 = { add_province_modifier = { name = small_baby_boom duration = 2620 } }
+			#######Denmark#######
+			DEN_372 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
+			DEN_367 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
+			####Germany########
+			PRU_570 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_575 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_578 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			HES_2560 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_581 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			SAX_558 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_554 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_553 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_549 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			PRU_544 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			HAN_540 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			HAN_534 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			HAN_528 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			HOL_369 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			SCH_370 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			###Low Germany########
+			WUR_589 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			BAD_586 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			BAV_595 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			BAV_599 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			###Austria########
+			AUS_619 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			AUS_612 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
+			AUS_613 = { add_province_modifier = { name = small_baby_boom duration = 6920 } }
 		
-		EGY = {	
+		EGY = {
 			any_owned = {
 				limit = { is_core = EGY }
                 add_core = TUR
@@ -16193,7 +16171,7 @@ appoint_camillo_cavour = {
 		effect = {
 			add_country_modifier = { name = russian_serfdom duration = -1 } 
 			any_pop = { limit = { OR = { has_pop_culture = ashkenazi has_pop_culture = north_german } } literacy = 0.54 }
-			any_pop = { limit = { OR = { has_pop_culture = polish has_pop_culture = lithuanian } } literacy = 0.19 }
+			any_pop = { limit = { has_pop_culture = lithuanian } literacy = 0.19 }
 			any_pop = { limit = { has_pop_culture = swedish } literacy = 0.79 }
 			any_pop = {
 				limit = {
@@ -16273,8 +16251,7 @@ appoint_camillo_cavour = {
 		
 		effect = {
             any_pop = { limit = { has_pop_culture = north_italian } literacy = 0.3 }
-			any_pop = { limit = { has_pop_culture = north_german } literacy = 0.1 }
-			any_pop = { limit = { has_pop_culture = czech } literacy = 0.4 }
+			any_pop = { limit = { has_pop_culture = north_german } literacy = 0.2 }
 			any_pop = { limit = { has_pop_culture = slovene } literacy = 0.2 }
 			any_pop = { limit = { has_pop_culture = croat } literacy = 0.15 }
 			any_pop = { limit = { has_pop_culture = slovak } literacy = 0.1 }
@@ -21849,7 +21826,6 @@ appoint_camillo_cavour = {
 				OR = {
 					tag = CAN
 					tag = AST
-					tag = NZL
 				}
 				overlord = { tag = ENG }
 				NOT = { revolt_percentage = .25 }
@@ -23676,7 +23652,19 @@ appoint_camillo_cavour = {
 					value = -100
 				}
 			}
-
+			
+			any_country = {	
+				any_owned = {
+					limit = {
+					is_core = FRA
+					NOT = { is_core = ALG }
+					}
+					add_province_modifier = {
+						name = low_birth_rates
+						duration = -1
+					}
+				}			
+			}
 		}
 		
 		ai_will_do = { factor = 1 }
