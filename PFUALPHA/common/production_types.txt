@@ -674,10 +674,10 @@ winery = {
 lumber_mill = {       
 	template = cheap_factory_template     
 	input_goods = {       
-		timber = 15   
+		timber = 16   
 	}
 	output_goods = lumber 
-	value = 16.5
+	value = 20
 	bonus = {
 		trigger = {
 			trade_goods_in_state = timber
@@ -1336,7 +1336,7 @@ tea_plantation = {
 timber_lodge = {
 	template = RGO_template_labourers
 	output_goods = timber 
-	value = 1.5
+	value = 2
 	mine = yes
 }
 
@@ -1678,10 +1678,10 @@ artisan_winery = {
 
 artisan_lumber = {       
 	input_goods = {       
-	timber = 15 #72
+	timber = 16 #72
 	}
 	output_goods = lumber 
-	value = 16.5 #84
+	value = 20 #84
 	
 	owner = {
 		poptype = artisan 
