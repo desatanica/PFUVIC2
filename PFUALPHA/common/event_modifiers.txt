@@ -3661,6 +3661,15 @@ thorbecke_reforms = {
 
 ###HFM Russia/Balkans Modifiers
 
+nicholas_reforms = {
+	tax_efficiency = 0.2
+	tariff_efficiency_modifier = 0.2
+	org_regain = 0.05
+	army_tech_research_bonus = 0.05
+	icon = 5
+}
+
+
 kharkov_university = {
 	research_points_modifier = 0.5
 	prestige = 0.01

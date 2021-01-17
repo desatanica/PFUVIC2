@@ -16030,7 +16030,13 @@ appoint_camillo_cavour = {
 			163 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Chicago
 			978 = { add_province_modifier = { name = kharkov_university duration = 18000 } } #Kharkov	
 			#######Rural pops##########
-
+            RUS_1069 = { any_pop = { pop_type = serfs } }
+			RUS_1070 = { any_pop = { pop_type = serfs } }
+			RUS_1072 = { any_pop = { pop_type = serfs } }
+			RUS_1074 = { any_pop = { pop_type = serfs } }
+			RUS_1065 = { any_pop = { pop_type = serfs } }
+			RUS_2589 = { any_pop = { pop_type = serfs } }
+			
 			######################Literacy Setup######################
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = japanese } literacy = -0.25 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = swedish } literacy = 0.10 } }
@@ -16077,6 +16083,7 @@ appoint_camillo_cavour = {
 			BRZ = {	add_country_modifier = { name = global_baby_boom duration = 2190 } }
 			TUR = {	add_country_modifier = { name = ottoman_oppression duration = 21190 } }
 			EGY = {	add_country_modifier = { name = egypt_cotton duration = 21190 } }
+			RUS = {	add_country_modifier = { name = nicholas_reforms duration = 7478 } }
 			#################Starting Birth Rate Buffs######################
 			765 = { add_province_modifier = { name = baby_boom duration = 2650 } }
 			WAL_665 = { add_province_modifier = { name = small_baby_boom duration = 2555 } }

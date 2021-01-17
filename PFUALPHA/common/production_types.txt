@@ -1322,7 +1322,7 @@ sugar_plantation = {
 sulphur_mine = {
 	template = RGO_template_labourers
 	output_goods = sulphur 
-	value = 1.5
+	value = 1.6
 	mine = yes
 }
 

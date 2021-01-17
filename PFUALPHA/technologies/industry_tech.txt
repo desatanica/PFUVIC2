@@ -1394,10 +1394,10 @@ clean_coal = {
 		iron = 0.1
 	}
 	rgo_goods_throughput = {
-		sulphur = 0.1
+		sulphur = 0.25
 	}
 	factory_goods_throughput = {
-		steel = 0.05 
+		steel = 0.1 
 	}
 	rgo_goods_throughput = {
 		copper = 0.1
@@ -1593,7 +1593,7 @@ cheap_steel = {
 	year = 1860
 	cost = 15000
 	rgo_goods_throughput = {
-		sulphur = 0.1
+		sulphur = 0.25
 	}
 	rgo_goods_throughput = {
 		coal = 0.5
