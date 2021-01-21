@@ -3,6 +3,18 @@
 ##################################################################################################
 
 
+crimean_war_timer = {
+    icon = 5
+}
+
+abandoned_eastern_christendom = {
+    prestige = -0.5
+	influence_modifier = -0.5
+	tax_efficiency = -0.1
+	tariff_efficiency_modifier = -0.1
+    icon = 18
+}
+
 egypt_cotton = {
 	tax_efficiency = 0.25
 	tariff_efficiency_modifier = 0.20
