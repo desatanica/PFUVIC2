@@ -1478,6 +1478,7 @@ protector_of_eastern_christendom = {
 	icon = 17
 }
 
+
 egyptian_excavations = {
 	prestige = 0.01
 	icon = 5
@@ -1613,7 +1614,7 @@ german_general_staff = {
 	icon = 15
 }
 
-auschwitz = {
+auschwitz = {   # lmao?
 	local_factory_throughput = 0.20
 	rgo_output = -0.80
 	population_growth = -0.002
@@ -3661,6 +3662,12 @@ thorbecke_reforms = {
 
 ###HFM Russia/Balkans Modifiers
 
+
+
+abandoned_eastern_christendom = {
+	prestige = -0.5
+	icon = 18
+}
 kharkov_university = {
 	research_points_modifier = 0.5
 	prestige = 0.01
@@ -4286,4 +4293,8 @@ colonial_exploitation_tech_effect = {
 purchased_goods = {
 	prestige = -0.02
 	icon = 13
+}
+
+crimean_war_timer = {
+	icon = 5
 }

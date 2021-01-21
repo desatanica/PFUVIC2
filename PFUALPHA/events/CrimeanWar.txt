@@ -14,9 +14,8 @@ country_event = {
 	
 	option = {
 		name = "Russia protects the Holy Land, not France."
-		prestige = 10
 		RUS = {
-			prestige = 10
+			prestige = 25
 			relation = { who = FRA value = -50 }
 		}
 		FRA = { country_event = 97501 }
@@ -40,7 +39,7 @@ country_event = {
 	option = {
 		name = "We will agree to the French demands."
 		set_global_flag = france_protector_of_eastern_christians
-		prestige = -10
+		prestige = 25
 		FRA = { country_event = 97504 }
 		RUS = { country_event = 97503 }
 		ai_chance = {
@@ -83,7 +82,24 @@ country_event = {
 	
 	option = {
 		name = "Abandon our claim before this goes further."
-		prestige = -50
+		prestige = -100
+
+		any_pop = {
+			limit = {
+				is_primary_culture = yes
+				is_primary_religion = yes
+			}
+			scaled_militancy = {
+				factor = 4
+				issue = jingoism
+			}
+			scaled_militancy = {
+				factor = 3
+				issue = pro_military
+			}
+		}
+
+
 		relation = { who = TUR value = -50 }
 		ai_chance = {
 			factor = 5
@@ -100,9 +116,12 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "We must give in to the French."
+		name = "We will place our faith in the French."
 		set_global_flag = france_protector_of_eastern_christians
-		prestige = -20
+		prestige = 30
+		RUS = {
+			prestige = -45
+		}
 		create_alliance = FRA
 		FRA = { country_event = 97504 }
 		RUS = { country_event = 97503 }
@@ -116,9 +135,8 @@ country_event = {
 	}
 	
 	option = {
-		name = "Never! Let them come, if they dare!"
+		name = "Never! Russia remains defender of Eastern Christendom!"
 		set_country_flag = refused_french_claim
-		prestige = 5
 		relation = { who = RUS value = 50 }
 		FRA = {
 			diplomatic_influence = { who = TUR value = -100 }
@@ -164,6 +182,16 @@ country_event = {
 		name = "We are the protectors of Eastern Christians, not the French."
 		diplomatic_influence = { who = TUR value = -400 }
 		relation = { who = TUR value = -400 }
+		any_pop = {
+			limit = {
+				has_pop_religion = orthodox 		
+			}
+			militancy = 4
+		}
+		add_country_modifier = {
+			name = abandoned_eastern_christendom
+			duration = 9125
+		}
 	}
 }
 
@@ -177,7 +205,7 @@ country_event = {
 	
 	option = {
 		name = "Excellent."
-		prestige = 20
+		prestige = 5
 		random_country = {
 			limit = {
 				is_sphere_leader_of = TUR
@@ -262,7 +290,7 @@ country_event = {
 	
 	option = {
 		name = "We intend to stay out of the conflict."
-		prestige = -10
+		prestige = -25
 		diplomatic_influence = { who = TUR value = -50 }
 		relation = { who = RUS value = 50 }
 		ai_chance = {
@@ -283,7 +311,7 @@ country_event = {
 	option = {
 		name = "We will protect our interests."
 		set_country_flag = england_protecting_interests
-		prestige = 5
+		prestige = 15
 		diplomatic_influence = { who = TUR value = 100 }
 		relation = { who = TUR value = 100 }
 		relation = { who = RUS value = -50 }
@@ -363,10 +391,13 @@ country_event = {
 	major = yes
 	
 	is_triggered_only = yes
+	fire_only_once = yes
+
 	
 	option = {
 		name = "We accept."
 		set_country_flag = crimean_surrender
+		set_global_flag = treaty_of_paris_russia
 		TUR = { country_event = 97509 }
 		end_war = TUR
 		any_country = {
@@ -392,6 +423,8 @@ country_event = {
 	picture = "administration"
 	
 	is_triggered_only = yes
+	fire_only_once = yes
+
 	
 	option = {
 		name = "A great relief."
@@ -405,6 +438,12 @@ country_event = {
 			}
 			end_war = THIS
 		}
+
+
+		country_event = {
+			id = 97512
+			days = 7
+		}
 	}
 }
 
@@ -415,6 +454,7 @@ country_event = {
 	picture = "rebellion"
 	
 	is_triggered_only = yes
+	fire_only_once = yes
 	
 	option = {
 		name = "It's about time!"
@@ -425,6 +465,8 @@ country_event = {
 	}
 }
 
+
+
 country_event = {
 	id = 97512
 	title = "EVTNAME97510" #The Treaty of Paris (Russian Version)
@@ -433,13 +475,40 @@ country_event = {
 	news_desc_long = "EVTDESC97512_NEWS_LONG"
 	news_desc_medium = "EVTDESC97512_NEWS_MEDIUM"
 	news_desc_short = "EVTDESC97512_NEWS_SHORT"
-	picture = "treaty"
+	picture = "treaty_of_paris_1856"
 	
 	is_triggered_only = yes
+	fire_only_once = yes
+
+
+	trigger = {
+		AND = {
+			tag = TUR
+		
+			has_global_flag = crimea_has_happened
+			OR = {
+				NOT = { 
+					has_global_flag = treaty_of_paris_1856 
+				}
+				NOT = { 
+					has_global_flag = treaty_of_paris_russia 
+				}
+				NOT = {
+						has_global_flag = crimean_war_white_peace
+				}
+
+			}
+		}
+		
+	}
 	
+
+
 	option = {
 		name = "There shall be a reckoning."
-		prestige = -20
+		RUS = { country_event = 133701 }
+
+		prestige = -50
 		treasury = -250000
 		any_owned = {
 			limit = {
@@ -519,6 +588,90 @@ country_event = {
 }
 
 country_event = {
+	id = 133701
+
+	title = "Victor of the Crimean War"
+
+	is_triggered_only = yes
+	trigger = {
+		tag = RUS
+		has_global_flag = crimea_has_happened
+		has_global_flag = treaty_of_paris_russia
+
+		NOT = {
+			war_with = TUR
+		}
+	}
+	option = {
+		name = "sweet"
+		trigger = {
+			tag = RUS
+		}
+		remove_country_modifier = abandoned_eastern_christendom
+
+		any_pop = {
+			limit = { has_pop_religion = orthodox }
+			militancy = -4
+			dominant_issue = {
+				factor = 0.25
+				value = jingoism
+			}
+		}
+
+		prestige = 45
+	}
+}
+
+
+country_event = {
+	id = 133702
+
+	title = "EVTNAME133702"
+	desc = "EVTDESC133702"
+	is_triggered_only = yes
+
+	
+	option = {
+		name = "EVTOPTA133702"
+
+		prestige = -50
+		any_pop = {
+			scaled_militancy = {
+				factor = 4
+				issue = jingoism
+			}
+			scaled_militancy = {
+				factor = 3
+				issue = pro_military
+			}
+		}
+
+	}
+}
+
+country_event = {
+
+	id = 133703
+
+	title = "test"
+	is_triggered_only = yes
+
+	trigger = {
+		tag = KWT
+		TUR = {
+			has_country_flag = crimea_has_happened
+			
+		}
+	}
+
+
+	option = {
+
+	}
+}
+
+
+country_event = {
 	id = 97510
 	title = "EVTNAME97510" #The Treaty of Paris (French Version)
 	desc = "EVTDESC97510"
@@ -526,19 +679,39 @@ country_event = {
 	news_desc_long = "EVTDESC97510_NEWS_LONG"
 	news_desc_medium = "EVTDESC97510_NEWS_MEDIUM"
 	news_desc_short = "EVTDESC97510_NEWS_SHORT"
-	picture = "treaty"
-	
+	picture = "treaty_of_paris_1856"
 	is_triggered_only = yes
+	fire_only_once = yes
+
+
+	trigger = {
+		tag = RUS
+		has_global_flag = crimea_has_happened
+		NOT = { has_global_flag = treaty_of_paris_1856 }
+		NOT = { has_global_flag = treaty_of_paris_russia }
+		NOT = { has_country_flag = crimean_surrender }
+
+		NOT = {
+			war_with = TUR
+		}
+		has_recently_lost_war = yes
+
+
+	}
 	
 	option = {
-		name = "Give them Izmail."
-		prestige = -10
+		
+		name = "Give them Bessarabia"
+		set_global_flag = treaty_of_paris_1856
+		prestige = -25
 		remove_country_modifier = protector_of_eastern_christendom
 		any_owned = {
 			limit = {
 				OR = {
 					region = MOL_673
 					province_id = 678
+					province_id = 677
+					province_id = 676
 				}
 			}
 			secede_province = ROM
@@ -548,42 +721,39 @@ country_event = {
 		ROM = {
 			any_pop = { militancy = -8 }
 		}
+	
 		ai_chance = {
-			factor = 90
+			factor = 100
 		}
 	}
 	
 	option = {
 		name = "Never! They will have to take it from us!"
+		set_global_flag = treaty_of_paris_1856
 		relation = { who = ROM value = -100 }
-		badboy = 10
+		badboy = 30
 		any_greater_power = {
 			limit = {
 				NOT = { tag = THIS }
-				OR = {
-					tag = FRA
-					has_country_flag = england_protecting_interests
-					alliance_with = TUR
-				}
 			}
 			casus_belli = {
 				target = THIS
 				type = free_allied_cores
-				months = 100
+				months = 120
 			}
 			casus_belli = {
 				target = THIS
 				type = free_peoples
-				months = 100
+				months = 120
 			}
 			casus_belli = {
 				target = THIS
 				type = humiliate
-				months = 100
+				months = 120
 			}
 		}
 		ai_chance = {
-			factor = 10
+			factor = 0
 			modifier = {
 				factor = 0
 				badboy = 0.6

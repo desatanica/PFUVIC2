@@ -94,6 +94,77 @@ establish_protectorate_NI_casus_belli
 establish_protectorate_casus_belli
 status_quo
 negotiated_transfer
+crimean_war_cut_down_to_size
+}
+
+#Crimean War Russia's CB
+crimean_war_cut_down_to_size = {
+	sprite_index = 8
+
+	is_triggered_only = yes
+	months = 0
+	crisis = no
+
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+	construction_speed = 2.0
+
+	can_use = {
+		always = no
+
+	}
+		
+	war_name = CUT_DOWN_TO_SIZE_WAR_NAME
+
+
+	on_po_accepted = {
+		set_global_flag = treaty_of_paris_russia
+
+
+		TUR = {
+			country_event = {
+				days = 14
+				id = 97512
+			}
+		}
+		
+		random_owned = {
+			limit = {
+				owner = {
+					civilized = no
+					is_culture_group = east_asian
+					OR = {
+						owns = 1481
+						owns = 1496
+						owns = 1498
+						owns = 1538
+						owns = 1566
+						owns = 1569
+						owns = 1606
+					}
+				}
+				THIS = {
+					civilized = yes
+					NOT = { is_culture_group = east_asian }
+				}
+			}
+			owner = { country_event = 1316089 }
+		}
+	}
+	
+
 }
 
 
@@ -2511,6 +2582,7 @@ cut_down_to_size = {
 	}
 	
 	on_po_accepted = {
+		
 		random_owned = {
 			limit = {
 				owner = {
@@ -4075,6 +4147,11 @@ status_quo = {
 	po_status_quo = yes
 	
 	war_name = WAR_NAME
+
+	on_po_accepted = {
+		country_event = 97510 # French treaty of Paris
+
+	}
 }
 
 # Make Puppet

@@ -1,4 +1,4 @@
-color = { 65 105 225 }
+color = { 25 75 210 }
 fascist_dictatorship = { 25 25 75 }
 graphical_culture = FrenchGC
 
