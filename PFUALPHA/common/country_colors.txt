@@ -37,7 +37,7 @@ ALB = {
 }
 
 # Belgium FIXED
-BEL	 = {
+BEL	= {
     color1= { 244 56 49  }
     color2= { 248 199 67  }
     color3= { 107 170 77  }

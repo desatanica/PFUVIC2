@@ -20,11 +20,10 @@ on_battle_lost = {
 }
 
 #country, from = occupier.
-on_surrender = 
-{
+on_surrender =  {
+
 
 }
-
 on_new_great_nation = 
 {
 	10 = 19310

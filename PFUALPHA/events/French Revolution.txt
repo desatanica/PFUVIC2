@@ -1,7 +1,9 @@
+
+  
 #############################################################
-#															#
-#                French Revolution Events					#
-#															#
+#					                    #
+#                French Revolution Events		    #
+#							    #
 #############################################################
 
 country_event = {
@@ -12,8 +14,7 @@ country_event = {
 	news_desc_long = "EVTDESC10400_NEWS_LONG"
 	news_desc_medium = "EVTDESC10400_NEWS_MEDIUM"
 	news_desc_short = "EVTDESC10400_NEWS_SHORT"
-	picture = "communist_riot"
-	major = yes
+	picture = "french_revolution_1848"
 
 	fire_only_once = yes
 
@@ -26,11 +27,11 @@ country_event = {
 		}
 		OR = {
 			AND = {
-				average_militancy = 4
+				average_militancy = 3
 				has_country_modifier = springtime_of_nations
 			}
 			AND = {
-				average_militancy = 6
+				average_militancy = 5
 				NOT = { has_country_modifier = springtime_of_nations }
 			}
 			any_owned_province = {
@@ -230,11 +231,15 @@ country_event = {
 	option = {
 		name = "Napoleon shall be the rightful president."
 		set_country_flag = french_presidential_election
+
 		prestige = 20
+
+
 		add_country_modifier = {
 			name = louis_napoleon_iii
 			duration = 12125
 		}
+
 		ruling_party_ideology = conservative
 		any_pop = {
 			limit = {
@@ -254,6 +259,15 @@ country_event = {
 	option = {
 		name = "Rig the election. Cavaignac must win."
 		set_country_flag = french_presidential_election
+
+
+		define_general = {
+			name = "Louis-Eugène Cavaignac"
+			personality = indecisive
+			background = rising_star
+		}
+
+
 		remove_country_modifier = power_vacuum
 		add_country_modifier = {
 			name = military_man
@@ -351,7 +365,7 @@ country_event = {
 		has_country_modifier = louis_napoleon_iii
 		government = democracy
 		election = yes
-		year = 1850
+		year = 1842
 		rank = 5
 		is_disarmed = no
 		NOT = {
@@ -498,6 +512,12 @@ country_event = {
 
 	option = {
 		name = "Vive le 3me Republique!"
+
+
+
+
+
+
 		set_country_flag = louis_deposed
 		remove_country_modifier = louis_napoleon_iii
 		prestige = -25
@@ -549,6 +569,8 @@ country_event = {
 
 	option = {
 		name = "Favor the Count of Chambord!"
+
+
 		set_country_flag = louis_deposed
 		remove_country_modifier = louis_napoleon_iii
 		add_country_modifier = {
@@ -604,6 +626,9 @@ country_event = {
 
 	option = {
 		name = "Favor the Count of Paris!" 
+
+
+
 		set_country_flag = louis_deposed
 		remove_country_modifier = louis_napoleon_iii
 		add_country_modifier = {
@@ -688,6 +713,8 @@ country_event = {
 	
 	option = {
 		name = "Louis-Napoléon IV is the rightful heir."
+
+
 		set_country_flag = louis_deposed
 		remove_country_modifier = louis_napoleon_iii
 		prestige = 25
@@ -742,6 +769,8 @@ country_event = {
 	
 	option = {
 		name = "Restore the Bourbon dynasty!"
+
+
 		set_country_flag = louis_deposed
 		remove_country_modifier = louis_napoleon_iii
 		prestige = 25
@@ -784,6 +813,8 @@ country_event = {
 	option = {
 		name = "End the monarchy!"
 		set_country_flag = louis_deposed
+
+
 		remove_country_modifier = louis_napoleon_iii
 		prestige = -25
 		government = democracy

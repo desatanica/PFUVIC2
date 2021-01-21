@@ -6511,7 +6511,7 @@ political_decisions = {
 			define_general = {
 				name = "Alfred von Schlieffen"
 				personality = brilliant
-				background = brilliant_strategist
+				background = military_theoretician
 			}
 
 			define_general = {
@@ -6670,8 +6670,8 @@ political_decisions = {
 					OR = {
 						region = PRU_682 #Lower Silesia
 						region = PRU_701 #Posen
-						region = PRU_690 #Westpreußen
-						region = PRU_695 #Westpreußen
+						region = PRU_690 #Westpreu�en
+						region = PRU_695 #Westpreu�en
 						region = PRU_684
 						
 					}
@@ -6738,7 +6738,7 @@ luderitz_expedition = {
 		prestige = 2
 		treasury = -500000
 		set_country_flag = founding_german_namibia 
-		2084 = { secede_province = THIS change_province_name = "L�deritzbucht" any_pop = { literacy = -0.99 } life_rating = 21 add_province_modifier = { name = small_immigration_boom duration = 7300 } }
+		2084 = { secede_province = THIS change_province_name = "L�deritzbucht" any_pop = { literacy = -0.99 } life_rating = 21 add_province_modifier = { name = small_immigration_boom duration = 7300 } }
 		2086 = { secede_province = THIS change_province_name = "Keetmanshoop" any_pop = { literacy = -0.99 } life_rating = 10 }
 		2085 = { secede_province = THIS any_pop = { literacy = -0.99 } life_rating = 10 }
 		2078 = { secede_province = THIS any_pop = { literacy = -0.99 } }
@@ -8285,6 +8285,18 @@ claim_togoland = {
 		}
 		
 		effect = {
+
+			remove_country_modifier = abandoned_eastern_christendom
+
+			any_pop = {
+				limit = { has_pop_religion = orthodox }
+				militancy = -4
+				dominant_issue = {
+					factor = 0.25
+					value = jingoism
+				}
+			}
+
 			set_country_flag = eastern_christians_up_in_here_yall
 			set_global_flag = crimea_has_happened
 			ruling_party_ideology = reactionary
@@ -8292,23 +8304,17 @@ claim_togoland = {
 				name = protector_of_eastern_christendom
 				duration = -1
 			}
-			any_pop = {
-				limit = { has_pop_religion = orthodox }
-				militancy = -3
-				dominant_issue = {
-					factor = 0.20
-					value = jingoism
-				}
-			}
+
 			diplomatic_influence = { who = TUR value = -200 }
 			leave_alliance = FRA
-			random_country = {
-				limit = {
-					tag = ENG
-					has_country_flag = england_protecting_interests
-				}
-				leave_alliance = THIS
+			
+			KWT = {
+				add_country_modifier = {
+					name = crimean_war_timer
+					duration = 500
+				}		
 			}
+
 			random_country = {
 				limit = {
 					is_sphere_leader_of = TUR
@@ -8334,12 +8340,13 @@ claim_togoland = {
 			war = {
 				target = TUR
 				attacker_goal = {
-					casus_belli = cut_down_to_size
+					casus_belli = crimean_war_cut_down_to_size
 				}
 				defender_goal = {
-					casus_belli = status_quo
+					casus_belli = crimean_war_status_quo
 				}
 			}
+			
 		}
 		
 		ai_will_do = {
@@ -9037,7 +9044,7 @@ claim_togoland = {
 		}
 	}
 	
-	build_the_st_petersburg_moscow_railway = { #Saint Petersburg–Moscow Railway
+	build_the_st_petersburg_moscow_railway = { #Saint Petersburg�Moscow Railway
 		picture = whistlestop_tour
 		potential = {
 			tag = RUS
@@ -13062,7 +13069,7 @@ appoint_camillo_cavour = {
 				war_with = THIS
 				NOT = { has_country_flag = negotiate_unequal_treaty }
 				OR = {
-					owns = 1375 # Hué
+					owns = 1375 # Hu�
 					owns = 1380 # Saigon
 				}
 			}
@@ -15817,9 +15824,9 @@ appoint_camillo_cavour = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Stra�burg"
+				change_province_name = "Stra�burg"
 				state_scope = {
-					change_region_name = "Elsa�-Lothringen"
+					change_region_name = "Elsa�-Lothringen"
 				}
 			}
 			prestige = 5
@@ -16160,6 +16167,7 @@ appoint_camillo_cavour = {
 			}
 		}
 		
+
 		}
 		ai_will_do = { factor = 1 }
 	}
@@ -16856,7 +16864,7 @@ appoint_camillo_cavour = {
 	}
 
 ######VIP SHIT########
-	a_telegraph_line_to_uruguay = { #original VIP event idea by General Perón, scripted by Scythe
+	a_telegraph_line_to_uruguay = { #original VIP event idea by General Per�n, scripted by Scythe
 		potential = {
 			tag = ARG
 			exists = URU
@@ -16874,7 +16882,7 @@ appoint_camillo_cavour = {
 		}
 	}
 	
-	found_the_school_of_military_aviation = { #original VIP event idea by General Perón, scripted by Scythe
+	found_the_school_of_military_aviation = { #original VIP event idea by General Per�n, scripted by Scythe
 		potential = {
 			tag = ARG
 			owns = 2379 #Cordoba de Argentina
@@ -16892,7 +16900,7 @@ appoint_camillo_cavour = {
 		}
 	}
 
-	state_visit_to_argentina = { #original VIP event idea by General Perón, scripted by Scythe
+	state_visit_to_argentina = { #original VIP event idea by General Per�n, scripted by Scythe
 		potential = {
 			tag = BRZ
 			exists = ARG
@@ -18543,7 +18551,7 @@ appoint_camillo_cavour = {
 			regular_clothes = 100
 			leadership = 40
 			define_general = {
-				name = "Józef Bem"
+				name = "J�zef Bem"
 				personality = intelligent
 				background = brilliant_strategist
 			}
@@ -19885,14 +19893,14 @@ appoint_camillo_cavour = {
 			state_n_government = 1
 			TUR = {
 				war = no
-				is_greater_power = no
+				#is_greater_power = no
 				NOT = { truce_with = THIS }
 			}
 		}
 		
 		effect = {
 			set_country_flag = claimed_authority_over_holy_land
-			prestige = 10
+			prestige = 50
 			TUR = { country_event = 97500 }
 		}
 		
@@ -19901,104 +19909,9 @@ appoint_camillo_cavour = {
 		}
 	}
 	
-	treaty_of_paris_1856 = {
-		picture = treaty_signing
-		potential = {
-			tag = FRA
-			has_global_flag = crimea_has_happened
-			NOT = { has_global_flag = treaty_of_paris_1856 }
-			NOT = { has_global_flag = treaty_of_paris_russia }
-			NOT = { has_global_flag = berlin_congress_held }
-			NOT = { has_country_flag = crimean_surrender }
-		}
-		
-		allow = {
-			RUS = {
-				NOT = { war_with = TUR }
-				has_recently_lost_war = yes
-			}
-		}
-		
-		effect = {
-			prestige = 20
-			set_global_flag = treaty_of_paris_1856
-			diplomatic_influence = { who = TUR value = -100 }
-			leave_alliance = TUR
-			random_country = {
-				limit = {
-					tag = ENG
-					has_country_flag = england_protecting_interests
-				}
-				diplomatic_influence = { who = TUR value = -100 }
-				leave_alliance = TUR
-			}
-			random_country = {
-				limit = {
-					tag = RUS
-					owns = 678
-					ROM = {
-						exists = yes
-						OR = {
-							ai = yes
-							vassal_of = TUR
-						}
-					}
-				}
-				country_event = 97510
-			}
-		}
-		
-		ai_will_do = {
-			factor = 1
-		}
-	}
+
 	
-	treaty_of_paris_russia = {
-		picture = treaty_signing
-		potential = {
-			tag = RUS
-			has_global_flag = crimea_has_happened
-			NOT = { has_global_flag = treaty_of_paris_1856 }
-			NOT = { has_global_flag = treaty_of_paris_russia }
-			NOT = { has_global_flag = berlin_congress_held }
-		}
-		
-		allow = {
-			NOT = { war_with = TUR }
-			OR = {
-				has_recently_lost_war = no
-				has_country_flag = crimean_surrender
-			}
-		}
-		
-		effect = {
-			prestige = 20
-			set_global_flag = treaty_of_paris_russia
-			random_country = {
-				limit = {
-					tag = TUR
-					THIS = { has_country_flag = crimean_surrender }
-				}
-				country_event = 97512
-				RUS = { treasury = 250000 }
-			}
-			relation = { who = ROM value = 400 }
-			diplomatic_influence = { who = ROM value = 200 }
-			diplomatic_influence = { who = TUR value = 50 }
-			FRA = {
-				diplomatic_influence = { who = TUR value = -200 }
-				leave_alliance = TUR
-			}
-			random_country = {
-				limit = {
-					tag = ENG
-					has_country_flag = england_protecting_interests
-				}
-				diplomatic_influence = { who = TUR value = -200 }
-				leave_alliance = TUR
-			}
-		}
-	}
+
 	
 	########Political######
 		enact_liquor_prohibition = {
@@ -23663,6 +23576,55 @@ appoint_camillo_cavour = {
 		}
 		
 		ai_will_do = { factor = 1 }
+	}
+
+	
+	crimean_war_white_peace = {
+		picture = lavish_exhibition
+		alert = no
+		potential = {
+			tag = KWT
+		}
+
+		allow = {
+			
+			has_global_flag = crimea_has_happened
+			NOT = {
+				has_global_flag = treaty_of_paris_1856 
+			}
+			NOT = {
+				has_global_flag = treaty_of_paris_russia
+			}
+			NOT = {
+				has_global_flag = crimean_war_whitepeace
+			}
+			
+			has_country_modifier = crimean_war_timer
+
+
+			RUS = {
+				NOT = {
+					war_with = TUR
+				}
+			}
+		}
+
+		effect = {
+			set_global_flag = crimean_war_whitepeace
+
+			RUS = {
+				country_event = 133702
+			}
+			FRA = {
+				country_event = 133702
+			}
+			TUR = {
+				country_event = 133702
+			}
+		}
+		ai_will_do = { factor = 1 }
+
+
 	}
 	
 		expel_turks = {
