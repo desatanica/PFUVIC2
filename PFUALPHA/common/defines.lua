@@ -590,14 +590,14 @@ diplomacy = {
 	CRISIS_WARGOAL_MILITANCY_MULT = 0, -- Applied to all militancy from failed wargoals in a crisis
 	CRISIS_INTEREST_WAR_EXHAUSTION_LIMIT = 25, -- GPs with WE above this will not get invited to a crisis
 	
-	RANK_1_TENSION_DECAY = -0.05, -- extra flashpoint tension decay for GPs
-	RANK_2_TENSION_DECAY = -0.04,
-	RANK_3_TENSION_DECAY = -0.03,
-	RANK_4_TENSION_DECAY = -0.03,
-	RANK_5_TENSION_DECAY = -0.02,
-	RANK_6_TENSION_DECAY = -0.02,
-	RANK_7_TENSION_DECAY = -0.01,
-	RANK_8_TENSION_DECAY = -0.01,
+	RANK_1_TENSION_DECAY = -0.5, -- extra flashpoint tension decay for GPs
+	RANK_2_TENSION_DECAY = -0.4,
+	RANK_3_TENSION_DECAY = -0.3,
+	RANK_4_TENSION_DECAY = -0.2,
+	RANK_5_TENSION_DECAY = -0.08,
+	RANK_6_TENSION_DECAY = -0.06,
+	RANK_7_TENSION_DECAY = -0.04,
+	RANK_8_TENSION_DECAY = -0.02,
 
 	TWS_FULFILLED_SPEED = 0.1, -- Ticking War Score grows up with this speed daily once CB is fulfilled
 	TWS_NOT_FULFILLED_SPEED = 0.1, -- Ticking War Score falls down when CB is not fulfilled (or after grace period)
@@ -617,7 +617,7 @@ diplomacy = {
 pops = {
 	BASE_CLERGY_FOR_LITERACY = 0.005, 
 	MAX_CLERGY_FOR_LITERACY = 0.04, 
-	LITERACY_CHANGE_SPEED = 0.02,
+	LITERACY_CHANGE_SPEED = 0.04,
 
 
 	ASSIMILATION_SCALE = 0.005,
@@ -672,7 +672,7 @@ pops = {
 	SLAVE_GROWTH_DIVISOR = 1, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 8, -- how much militancy grows in a province if taken without being core.
-	LUXURY_CON_CHANGE = 0, -- con boost from over-buying luxuary goods
+	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxury goods
 	ARTISAN_SUPPRESSED_COLONIAL_GOODS_CATEGORY = 0, -- Goods category index not produced in colonies
 	ISSUE_MOVEMENT_JOIN_LIMIT = 11,
 	ISSUE_MOVEMENT_LEAVE_LIMIT = 10,
@@ -695,7 +695,7 @@ ai =
 	INDUSTRYWORKER_WEIGHT = 3.5, -- ai weight for new industry workers
 	EDUCATOR_WEIGHT = 4.5, -- ai weigth for new clergy
 	SOLDIER_WEIGHT = 5.0, -- ai weight for soldiers
-	SOLDIER_FRACTION = 0.05, -- max amount of population AI wants to be soldiers
+	SOLDIER_FRACTION = 0.1, -- max amount of population AI wants to be soldiers
 	CAPITALIST_FRACTION = 0.02, -- max amount of population AI wants to be capis
 	PRODUCTION_WEIGHT = 0.05, -- ai weight for new production
 	SPAM_PENALTY = 20, -- makes certain diplomatic action less common 

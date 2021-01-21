@@ -2518,7 +2518,7 @@ first_railroads = {
 	effect = {
 		shared_prestige = 5
 		activate_building = railroad
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 	}
 }
 
@@ -2543,7 +2543,7 @@ industrial_railroads = {
 	effect = {
 		shared_prestige = 10
 		max_railroad = 1
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 	}
 }
 
@@ -2568,7 +2568,7 @@ the_iron_horse = {
 	effect = {
 		shared_prestige = 15
 		max_railroad = 1
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 	}
 }
 
@@ -2593,7 +2593,7 @@ commercial_railroads = {
 	effect = {
 		shared_prestige = 20
 		max_railroad = 1
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 	}
 }
 
@@ -2618,7 +2618,7 @@ arteries_of_commerce = {
 	effect = {
 		shared_prestige = 25
 		max_railroad = 1
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 	}
 }
 
@@ -2639,7 +2639,7 @@ autobahn = {
 	effect = {
 		max_railroad = 1
 		shared_prestige = 30
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 	}
 }
 
@@ -4165,7 +4165,7 @@ modern_infrastructure_invention = {
 	}
 	effect = {
 		max_railroad = 1
-		mobilisation_size = 0.002
+		mobilisation_size = 0.005
 		shared_prestige = 50
 	}
 }
