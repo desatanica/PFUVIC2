@@ -6670,8 +6670,8 @@ political_decisions = {
 					OR = {
 						region = PRU_682 #Lower Silesia
 						region = PRU_701 #Posen
-						region = PRU_690 #Westpreuﬂen
-						region = PRU_695 #Westpreuﬂen
+						region = PRU_690 #WestpreuÔøΩen
+						region = PRU_695 #WestpreuÔøΩen
 						region = PRU_684
 						
 					}
@@ -6738,7 +6738,7 @@ luderitz_expedition = {
 		prestige = 2
 		treasury = -500000
 		set_country_flag = founding_german_namibia 
-		2084 = { secede_province = THIS change_province_name = "Lùderitzbucht" any_pop = { literacy = -0.99 } life_rating = 21 add_province_modifier = { name = small_immigration_boom duration = 7300 } }
+		2084 = { secede_province = THIS change_province_name = "LÔøΩderitzbucht" any_pop = { literacy = -0.99 } life_rating = 21 add_province_modifier = { name = small_immigration_boom duration = 7300 } }
 		2086 = { secede_province = THIS change_province_name = "Keetmanshoop" any_pop = { literacy = -0.99 } life_rating = 10 }
 		2085 = { secede_province = THIS any_pop = { literacy = -0.99 } life_rating = 10 }
 		2078 = { secede_province = THIS any_pop = { literacy = -0.99 } }
@@ -8286,11 +8286,15 @@ claim_togoland = {
 		
 		effect = {
 
-			KWT = {
-				add_country_modifier = {
-					name = crimean_war_timer
-					duration = 500
-				}		
+			remove_country_modifier = abandoned_eastern_christendom
+
+			any_pop = {
+				limit = { has_pop_religion = orthodox }
+				militancy = -4
+				dominant_issue = {
+					factor = 0.25
+					value = jingoism
+				}
 			}
 
 			set_country_flag = eastern_christians_up_in_here_yall
@@ -8303,13 +8307,14 @@ claim_togoland = {
 
 			diplomatic_influence = { who = TUR value = -200 }
 			leave_alliance = FRA
-			random_country = {
-				limit = {
-					tag = ENG
-					has_country_flag = england_protecting_interests
-				}
-				leave_alliance = THIS
+			
+			KWT = {
+				add_country_modifier = {
+					name = crimean_war_timer
+					duration = 500
+				}		
 			}
+
 			random_country = {
 				limit = {
 					is_sphere_leader_of = TUR
@@ -8338,9 +8343,10 @@ claim_togoland = {
 					casus_belli = crimean_war_cut_down_to_size
 				}
 				defender_goal = {
-					casus_belli = status_quo
+					casus_belli = crimean_war_status_quo
 				}
 			}
+			
 		}
 		
 		ai_will_do = {
@@ -9038,7 +9044,7 @@ claim_togoland = {
 		}
 	}
 	
-	build_the_st_petersburg_moscow_railway = { #Saint PetersburgñMoscow Railway
+	build_the_st_petersburg_moscow_railway = { #Saint PetersburgÔøΩMoscow Railway
 		picture = whistlestop_tour
 		potential = {
 			tag = RUS
@@ -13063,7 +13069,7 @@ appoint_camillo_cavour = {
 				war_with = THIS
 				NOT = { has_country_flag = negotiate_unequal_treaty }
 				OR = {
-					owns = 1375 # HuÈ
+					owns = 1375 # HuÔøΩ
 					owns = 1380 # Saigon
 				}
 			}
@@ -15818,9 +15824,9 @@ appoint_camillo_cavour = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Straùburg"
+				change_province_name = "StraÔøΩburg"
 				state_scope = {
-					change_region_name = "Elsaù-Lothringen"
+					change_region_name = "ElsaÔøΩ-Lothringen"
 				}
 			}
 			prestige = 5
@@ -16851,7 +16857,7 @@ appoint_camillo_cavour = {
 	}
 
 ######VIP SHIT########
-	a_telegraph_line_to_uruguay = { #original VIP event idea by General PerÛn, scripted by Scythe
+	a_telegraph_line_to_uruguay = { #original VIP event idea by General PerÔøΩn, scripted by Scythe
 		potential = {
 			tag = ARG
 			exists = URU
@@ -16869,7 +16875,7 @@ appoint_camillo_cavour = {
 		}
 	}
 	
-	found_the_school_of_military_aviation = { #original VIP event idea by General PerÛn, scripted by Scythe
+	found_the_school_of_military_aviation = { #original VIP event idea by General PerÔøΩn, scripted by Scythe
 		potential = {
 			tag = ARG
 			owns = 2379 #Cordoba de Argentina
@@ -16887,7 +16893,7 @@ appoint_camillo_cavour = {
 		}
 	}
 
-	state_visit_to_argentina = { #original VIP event idea by General PerÛn, scripted by Scythe
+	state_visit_to_argentina = { #original VIP event idea by General PerÔøΩn, scripted by Scythe
 		potential = {
 			tag = BRZ
 			exists = ARG
@@ -18538,7 +18544,7 @@ appoint_camillo_cavour = {
 			regular_clothes = 100
 			leadership = 40
 			define_general = {
-				name = "JÛzef Bem"
+				name = "JÔøΩzef Bem"
 				personality = intelligent
 				background = brilliant_strategist
 			}

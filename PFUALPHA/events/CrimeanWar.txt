@@ -59,6 +59,13 @@ country_event = {
 				is_secondary_power = no
 			}
 		}
+		
+		ENG = {
+			country_event = {
+				id = 97506
+				days = 7
+			}
+		}
 	}
 }
 
@@ -130,6 +137,13 @@ country_event = {
 			modifier = {
 				factor = 0.5
 				in_sphere = RUS
+			}
+		}
+		
+		ENG = {
+			country_event = {
+				id = 97506
+				days = 7
 			}
 		}
 	}
@@ -283,10 +297,7 @@ country_event = {
 			has_global_flag = treaty_of_paris_russia
 		}
 	}
-	
-	mean_time_to_happen = {
-		days = 10
-	}
+
 	
 	option = {
 		name = "We intend to stay out of the conflict."
@@ -586,11 +597,11 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = 133701
 
-	title = "Victor of the Crimean War"
+	title = "EVTNAME133701"
+	desc = "EVTDESC133701"
 
 	is_triggered_only = yes
 	trigger = {
@@ -603,20 +614,8 @@ country_event = {
 		}
 	}
 	option = {
-		name = "sweet"
-		trigger = {
-			tag = RUS
-		}
-		remove_country_modifier = abandoned_eastern_christendom
+		name = "EVTOPTA133701"
 
-		any_pop = {
-			limit = { has_pop_religion = orthodox }
-			militancy = -4
-			dominant_issue = {
-				factor = 0.25
-				value = jingoism
-			}
-		}
 
 		prestige = 45
 	}
@@ -649,26 +648,7 @@ country_event = {
 	}
 }
 
-country_event = {
 
-	id = 133703
-
-	title = "test"
-	is_triggered_only = yes
-
-	trigger = {
-		tag = KWT
-		TUR = {
-			has_country_flag = crimea_has_happened
-			
-		}
-	}
-
-
-	option = {
-
-	}
-}
 
 
 country_event = {
@@ -701,7 +681,7 @@ country_event = {
 	
 	option = {
 		
-		name = "Give them Bessarabia"
+		name = "Give them Bessarabia."
 		set_global_flag = treaty_of_paris_1856
 		prestige = -25
 		remove_country_modifier = protector_of_eastern_christendom
