@@ -95,6 +95,7 @@ establish_protectorate_casus_belli
 status_quo
 negotiated_transfer
 crimean_war_cut_down_to_size
+crimean_war_status_quo
 }
 
 crimean_war_status_quo = {
