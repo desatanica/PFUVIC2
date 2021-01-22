@@ -6508,37 +6508,6 @@ political_decisions = {
 			prestige = 25
 			set_country_flag = german_Staff
 					
-<<<<<<< Updated upstream
-			define_general = {
-				name = "Alfred von Schlieffen"
-				personality = brilliant
-				background = military_theoretician
-			}
-
-			define_general = {
-				name = "Paul von Hindenburg"
-				personality = decisive
-				background = school_of_firepower
-			}
-			
-			define_general = {
-				name = "Erich Ludendorff"
-				personality = brilliant
-				background = school_of_offense
-			}
-			
-			define_general = {
-				name = "Helmuth von Moltke"
-				personality = efficient
-				background = school_of_firepower
-			}
-			
-			define_general = {
-				name = "Erich von Falkenhayn"
-				personality = impetuous
-				background = old_school
-			}
-=======
 #			define_general = {
 #				name = "Alfred von Schlieffen"
 #				personality = brilliant
@@ -6568,7 +6537,7 @@ political_decisions = {
 #				personality = impetuous
 #				background = old_school
 #			}
->>>>>>> Stashed changes
+
 		
 		
 		}
