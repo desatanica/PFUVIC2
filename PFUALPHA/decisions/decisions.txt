@@ -15457,8 +15457,10 @@ appoint_camillo_cavour = {
 #########Unification##########
 	form_north_german_confederation = {
 		potential = {
-			tag = PRU
+			is_greater_power = yes
+			primary_culture = north_german
 			NOT = {
+				has_country_flag = post_colonial_country
 				exists = GER
 				exists = NGF
 			}
@@ -15466,14 +15468,32 @@ appoint_camillo_cavour = {
 		allow = {
 			war = no
 			state_n_government = 1
-			year = 1855
+			GER = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+								OR = {
+									is_vassal = no
+									vassal_of = THIS
+								}
+								war = no
+								is_greater_power = no
+							}
+						}
+						NOT = { culture = north_german }
+					}
+				}
+			}
 		}
 		
 		effect = {
 			prestige = 15
 			clr_country_flag = crown_from_the_gutter
 			clr_country_flag = secondary_union_formation
-			all_core = { add_core = NGF remove_core = THIS }
+			all_core = { add_core = NGF }
 			any_owned = {
 				limit = {
 					NOT = { is_core = THIS }
@@ -15487,9 +15507,47 @@ appoint_camillo_cavour = {
 				add_core = NGF
 			}
 			change_tag = NGF
-			
-			FRA_412 = { add_core = GER }		
-		
+			FRA_412 = { add_core = GER }
+			569 = { add_core = GER }
+			582 = { add_core = GER }
+			583 = { add_core = GER }
+			584 = { add_core = GER }
+			585 = { add_core = GER }
+			586 = { add_core = GER }
+			587 = { add_core = GER }
+			588 = { add_core = GER }
+			589 = { add_core = GER }
+			590 = { add_core = GER }
+			591 = { add_core = GER }
+			592 = { add_core = GER }
+			593 = { add_core = GER }
+			594 = { add_core = GER }
+			595 = { add_core = GER }
+			596 = { add_core = GER }
+			597 = { add_core = GER }
+			598 = { add_core = GER }
+			599 = { add_core = GER }
+			600 = { add_core = GER }
+			601 = { add_core = GER }
+			602 = { add_core = GER }
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_german
+						tag = SCH
+					}
+					in_sphere = THIS 
+					NOT = { tag = THIS }
+					NOT = { has_country_flag = post_colonial_country }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+				country_event = 11106
+			}
+
+
 		}
 		ai_will_do = {
 			factor = 1

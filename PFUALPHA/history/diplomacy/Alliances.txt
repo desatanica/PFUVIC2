@@ -1,18 +1,18 @@
 ####German Alliances
 alliance = {
-		first = PRU 
+		first = AUS
 		second = BAV 
 		start_date = 1835.1.1
 		end_date = 1867.1.1
 	}
 alliance = {
-		first = PRU 
+		first = AUS
 		second = WUR
 		start_date = 1835.1.1
 		end_date = 1867.1.1
 	}
 alliance = {
-		first = PRU 
+		first = AUS
 		second = BAD
 		start_date = 1835.1.1
 		end_date = 1867.1.1

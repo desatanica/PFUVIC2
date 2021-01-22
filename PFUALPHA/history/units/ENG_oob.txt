@@ -82,6 +82,11 @@ BEL = {
 	level = 5
 	influence_value = 0
 }
+HAN = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
 
 #South America
 VNZ = {
