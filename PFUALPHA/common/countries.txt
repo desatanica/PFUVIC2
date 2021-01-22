@@ -44,8 +44,8 @@ LUZ     = "countries/Luzica.txt"
 PML		= "countries/Pomerelia.txt"
 PZN		= "countries/Poznan.txt"
 SLS		= "countries/Silesia.txt"
-SAX		= "countries/Saxony.txt"
-HAN		= "countries/Hanover.txt"
+
+
 
 
 #Russia
@@ -222,6 +222,14 @@ BAD		= "countries/Baden.txt"
 BAV		= "countries/Bavaria.txt"
 WUR		= "countries/Wurttemberg.txt"
 DZG		= "countries/Danzig.txt"
+
+SAX		= "countries/Saxony.txt"
+HAN		= "countries/Hanover.txt"
+BRE		= "countries/Bremen.txt"
+MEC		= "countries/Mecklenburg.txt"
+HES		= "countries/Hesse-Darmstadt.txt"
+HOL		= "countries/Holstein.txt"
+COB		= "countries/Saxe-Coburg-Gotha.txt"
 
 
 # Italy

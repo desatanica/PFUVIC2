@@ -1,0 +1,7 @@
+PRU = {
+	value = 125
+}
+AUS = {
+	value = 125
+}
+

@@ -19,6 +19,8 @@ country_event = {
 			government = hms_government
 		}
 		NOT = { year = 1860 }
+		is_our_vassal = HAN
+
 	}
 	
 	major = yes
@@ -31,8 +33,17 @@ country_event = {
 	option = {
 		name = "EVTOPTA36898"
 		prestige = 15
+		
+		release_vassal = HAN
+		diplomatic_influence = {
+			who = HAN
+			value = -200
+		}
+		prestige = 5
 	}
 }
+
+
 
 country_event = {
 

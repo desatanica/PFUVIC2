@@ -32,18 +32,13 @@ army = {
 		type = artillery
 		home = 534
 	}
-}
-
-
-
-army = {
-	name = "Korps Göttingen"
-	location = 537
-	
-	
-regiment = {
+		
+	regiment = {
 		name = "4. Hannöversche Infanteriebrigade"
 		type = regular
 		home = 534
-	}	
+	}
 }
+
+
+

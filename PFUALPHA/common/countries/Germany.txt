@@ -1,4 +1,5 @@
-color = { 0 49 83 }
+# color = { 0 49 83 }
+color = { 77 93 83 }
 fascist_dictatorship = { 40 40 40 }
 democracy = { 147 130 110 }
 proletarian_dictatorship = { 200 10 10 }
