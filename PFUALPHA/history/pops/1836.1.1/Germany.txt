@@ -1224,7 +1224,7 @@
 	craftsmen = {
 		culture = north_german
 		religion = protestant
-		size = 90525
+		size = 99525
 	}
 
 	artisans = {
@@ -1282,7 +1282,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 76850
+		size = 96850
 	}
 
 	clergymen = {

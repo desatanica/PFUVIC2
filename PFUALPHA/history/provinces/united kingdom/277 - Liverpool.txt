@@ -1,13 +1,13 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-trade_goods = fish
-life_rating = 40
+trade_goods = wool
+life_rating = 35
 terrain = liverpool
 railroad = 1
 state_building = {
-	level = 3
-	building = fabric_factory
+	level = 6
+	building = wool_mill
 	upgrade = yes
 }
 state_building = {

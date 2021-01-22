@@ -1,7 +1,11 @@
 owner = FRA
 controller = FRA
 add_core = FRA
-
 trade_goods = copper
 life_rating = 30
 terrain = deciduous_forest_hills
+state_building = {
+level = 1
+building = bronze_factory
+upgrade = yes
+}

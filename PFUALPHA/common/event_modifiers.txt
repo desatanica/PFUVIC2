@@ -1606,12 +1606,13 @@ ruhr_boom_city = {
 }
 
 prussian_general_staff = {
-	org_regain = 0.1
-	land_organisation = 0.1
+	org_regain = 0.15
+	land_organisation = 0.15
 	mobilisation_economy_impact = -0.25
 	land_unit_start_experience = 10
 	mobilisation_size = 0.01
-	leadership_modifier = 0.25
+	leadership_modifier = 2
+	army_tech_research_bonus = 0.05
 	icon = 15
 }
 
@@ -1621,7 +1622,8 @@ german_general_staff = {
 	mobilisation_economy_impact = -0.25
 	land_unit_start_experience = 20
 	mobilisation_size = 0.05
-	leadership_modifier = 0.50
+	leadership_modifier = 3
+	army_tech_research_bonus = 0.1
 	icon = 15
 }
 
@@ -2194,6 +2196,13 @@ rebel_cell_discovered = {
 }
 
 #### FRA - France ####
+
+paris_diaspora = {
+	immigrant_attract = 2
+	immigrant_push = -2
+	icon = 19
+}
+
 paris_university = {
 	research_points_modifier = 0.2
 	prestige = 0.01
@@ -3610,7 +3619,7 @@ rangaku = {
 	global_pop_militancy_modifier = -0.05
 	global_pop_consciousness_modifier = 0.02
 	cb_generation_speed_modifier = -1.0
-	mobilisation_size = 0.02
+	mobilisation_size = 0.05
 	war_exhaustion = -3
 	icon = 5
 }
@@ -3634,7 +3643,7 @@ fukoku_kyohei = {
 	research_points = 0.5
 	core_pop_consciousness_modifier = 0.01
 	core_pop_militancy_modifier = -0.02
-	mobilisation_size = 0.1
+	mobilisation_size = 0.02
 	icon = 3
 }
 

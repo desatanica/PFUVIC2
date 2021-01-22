@@ -132,7 +132,7 @@ country_event = {
 			life_rating = 10
 			add_province_modifier = {
 				name = gateway_to_harbor
-				duration = 3650
+				duration = 1000
 			}
 			change_province_name = "Tokyo"
 		}
@@ -148,7 +148,7 @@ country_event = {
 			life_rating = 10
 			add_province_modifier = {
 				name = gateway_to_harbor
-				duration = 3650
+				duration = 1000
 			}
 		}
 		ai_chance = {
