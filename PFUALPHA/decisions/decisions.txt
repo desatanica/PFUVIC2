@@ -6071,7 +6071,6 @@ political_decisions = {
 								country_units_in_province = ENG
 							}
 						}
-
 					}	
 				}
 
