@@ -6047,34 +6047,35 @@ political_decisions = {
 			}
 		}
 		allow = {
-			OR = {
-				year = 1857  #He wasn't actually chief until 1857.
-				AND = {
-					OR = {
-						war_with = FRA
-						war_with = RUS
-						war_with = ENG
-					}
-					OR = {
-						THIS = {
-							any_owned_province = {
-								country_units_in_province = FRA
-							}
-						}
-						THIS = {
-							any_owned_province = {
-								country_units_in_province = RUS
-							}
-						}
-						THIS = {
-							any_owned_province = {
-								country_units_in_province = ENG
-							}
-						}
-					}	
-				}
+			year = 1848  #He wasn't actually chief until 1857.
 
-			}
+			# OR = {
+			# 	AND = {
+			# 		OR = {
+			# 			war_with = FRA
+			# 			war_with = RUS
+			# 			war_with = ENG
+			# 		}
+			# 		OR = {
+			# 			THIS = {
+			# 				any_owned_province = {
+			# 					country_units_in_province = FRA
+			# 				}
+			# 			}
+			# 			THIS = {
+			# 				any_owned_province = {
+			# 					country_units_in_province = RUS
+			# 				}
+			# 			}
+			# 			THIS = {
+			# 				any_owned_province = {
+			# 					country_units_in_province = ENG
+			# 				}
+			# 			}
+			# 		}	
+			# 	}
+
+			# }
 		}
 		effect = {
 			add_country_modifier = {
