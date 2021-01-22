@@ -1386,7 +1386,7 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 156500
+		size = 109500
 	}
 }
 #Chelmsford (276000/69000 POPS)
@@ -1686,7 +1686,7 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 186250
+		size = 146250
 	}
 
 	farmers = {
@@ -1744,7 +1744,7 @@
 	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 116000
+		size = 129000
 	}
 
 	artisans = {
@@ -1814,7 +1814,7 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 128250
+		size = 178250
 	}
 
 	artisans = {
@@ -1833,12 +1833,6 @@
 		culture = british
 		religion = jewish
 		size = 100
-	}
-
-	craftsmen = {
-		culture = british
-		religion = jewish
-		size = 1500
 	}
 
 	artisans = {

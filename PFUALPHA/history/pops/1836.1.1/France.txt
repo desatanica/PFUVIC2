@@ -1,6 +1,13 @@
 #frenchy Region (2388000)
 #Lille (620000/155000 POPS)
 399 = {
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -92,6 +99,13 @@
 }
 #Dunkirk (396000/99000 POPS)
 400 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -154,6 +168,13 @@
 }
 #Arras (428000/107000 POPS)
 401 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -192,6 +213,13 @@
 }
 #Amiens (552000/138000 POPS)
 402 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -235,6 +263,13 @@
 }
 #Beauvais (392000/98000 POPS)
 2570 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -282,6 +317,13 @@
 #Ardennes Region (1116000)
 #Laon (528000/132000 POPS)
 403 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -327,6 +369,13 @@
 }
 #Cambrai (280000/70000 POPS)
 404 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -360,6 +409,13 @@
 }
 #Charleville (308000/77000 POPS)
 405 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -395,6 +451,13 @@
 #Champagne Region (856000)
 #Troyes (252000/63000 POPS)
 406 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -446,6 +509,13 @@
 }
 #Chaumont (256000/64000 POPS)
 407 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -479,6 +549,13 @@
 }
 #Chalons (348000/87000 POPS)
 408 = {
+	
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -514,6 +591,7 @@
 #Alsace Region (976000 POPS)
 #Strasbourg (552000/138000 POPS)
 409 = {
+	
 	aristocrats = {
 		culture = north_german
 		religion = catholic
@@ -657,6 +735,7 @@
 }
 #Mulhausen (424000/106000 POPS)
 410 = {
+	
 	aristocrats = {
 		culture = north_german
 		religion = catholic
@@ -766,6 +845,13 @@
 #Lorraine Region (1584000)
 #Nancy (432000/108000 POPS)
 411 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -967,6 +1053,13 @@
 }
 #Verdun (320000/80000 POPS)
 413 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1025,6 +1118,13 @@
 }
 #Epinal (412000/103000 POPS)
 414 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1085,6 +1185,13 @@
 #Normandy Region (2670000)
 #Rouen (716000/179000 POPS)
 415 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1148,6 +1255,13 @@
 }
 #Evreux (424000/106000 POPS)
 416 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1181,6 +1295,13 @@
 }
 #Alencon (442000/110500 POPS)
 417 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1214,6 +1335,13 @@
 }
 #Caen (1088000/272000 POPS)
 418 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1261,6 +1389,13 @@
 #Brittany Region (2616000)
 #Brest (552000/138000 POPS)
 420 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1336,6 +1471,13 @@
 }
 #St Brieuc (604000/151000 POPS)
 421 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1369,6 +1511,13 @@
 }
 #Vannes (436000/109000 POPS)
 422 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1402,6 +1551,13 @@
 }
 #Nantes (476000/119000 POPS)
 423 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1466,6 +1622,13 @@
 }
 #Rennes (548000/137000 POPS)
 424 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1501,6 +1664,13 @@
 #Ile De France Region (2132000)
 #Paris (1520000/380000 POPS)
 425 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1540,7 +1710,7 @@
 	craftsmen = {
 		culture = french
 		religion = catholic
-		size = 117500
+		size = 157500
 	}
 
 	artisans = {
@@ -1648,7 +1818,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 52200
+		size = 72200
 	}
 
 	clergymen = {
@@ -1684,6 +1854,13 @@
 }
 #Chartres (284000/71000 POPS)
 426 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1723,6 +1900,13 @@
 }
 #Melun (328000/82000 POPS)
 427 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1764,6 +1948,13 @@
 #Burgundy Region (1872000)
 #Dijon (384000/96000 POPS)
 428 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1821,6 +2012,13 @@
 }
 #Auxerre (356000/89000 POPS)
 429 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1854,6 +2052,13 @@
 }
 #Moulins (596000/149000 POPS)
 430 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1893,6 +2098,13 @@
 }
 #Macon (536000/134000 POPS)
 431 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1934,6 +2146,13 @@
 #Franche Comte Region (914000)
 #Besancon (600000/150000 POPS)
 432 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -1985,6 +2204,13 @@
 }
 #Lons (314000/78500 POPS)
 433 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2020,6 +2246,13 @@
 #Pays de la Loire Region (1948800)
 #Angers (782000/195500 POPS)
 434 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2071,6 +2304,13 @@
 }
 #Laval (358000/89500 POPS)
 435 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2104,6 +2344,13 @@
 }
 #Le Mans (464000/116000 POPS)
 436 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2137,6 +2384,13 @@
 }
 #La Roche (344000/86000 POPS)
 437 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2172,6 +2426,13 @@
 #Val de Loire Region (1120000)
 #Orleans (312000/78000 POPS)
 438 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2227,6 +2488,13 @@
 }
 #Bourges (264400/66100 POPS)
 439 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2260,6 +2528,13 @@
 }
 #Blois (243600/60900 POPS)
 440 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2293,6 +2568,13 @@
 }
 #Tours (300000/75000 POPS)
 441 = {
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2388,9 +2670,21 @@
 		religion = catholic
 		size = 73625
 	}
+	
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
 }
 #Poitiers (288000/72000 POPS)
 443 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2424,6 +2718,12 @@
 }
 #Angouleme (364000/91000 POPS)
 444 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2459,6 +2759,12 @@
 #Limousin Region (1596000)
 #Limoges (288000/72000 POPS)
 445 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2504,6 +2810,12 @@
 }
 #Chateauroux (520000/130000 POPS)
 446 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2543,6 +2855,12 @@
 }
 #Tulle (788000/197000 POPS)
 447 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2555,12 +2873,6 @@
 		size = 2000
 	}
 
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-	
 	artisans = {
 		culture = french
 		religion = catholic
@@ -2583,13 +2895,19 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 163600
+		size = 123600
 	}
 
 }
 #Auvergne Region (1418000)
 #Clermont-Ferrand (728000/182000 POPS)
 448 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2652,6 +2970,12 @@
 }
 #Aurillac (404000/101000 POPS)
 449 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2690,6 +3014,12 @@
 }
 #Cahors (286000/71500 POPS)
 450 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2731,6 +3061,13 @@
 #Lyonnais-Dauphine Region (2588000)
 #Lyon (824000/206000 POPS)
 451 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2848,6 +3185,12 @@
 }
 #St Etienne (412000/103000 POPS)
 452 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2893,6 +3236,12 @@
 }
 #Valence (656000/164000 POPS)
 453 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2937,6 +3286,12 @@
 }
 #Grenoble (696000/174000 POPS)
 454 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -2983,6 +3338,12 @@
 #Midi Region (1604000)
 #Toulouse (672000/168000 POPS)
 455 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3070,6 +3431,12 @@
 }
 #Montauban (584000/146000 POPS)
 456 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3109,6 +3476,12 @@
 }
 #Foix (348000/87000 POPS)
 457 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3144,6 +3517,12 @@
 #Aquitaine Region (1864000)
 #Bordeaux (632000/158000 POPS)
 458 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3236,6 +3615,12 @@
 }
 #Mont de Marsan (556000/139000 POPS)
 459 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3274,6 +3659,12 @@
 }
 #Pau (676000/169000 POPS)
 460 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3346,6 +3737,12 @@
 #Languedoc Region (1668000)
 #Montpellier (724000/181000)
 461 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3410,6 +3807,12 @@
 }
 #Rodez (504000/126000 POPS)
 462 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3443,6 +3846,12 @@
 }
 #Carcassone (276000/69000 POPS)
 463 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3482,6 +3891,12 @@
 }
 #Perpignan (164000/41000 POPS)
 464 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3549,6 +3964,12 @@
 ##Sardinian until 1860
 #Annecy (258400/64600 POPS)
 465 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
@@ -3600,6 +4021,12 @@
 }
 #Chambery (228400/57100 POPS)
 466 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
@@ -3641,6 +4068,12 @@
 #Provence Region (1268400)
 #Marseilles (384800/96200 POPS)
 467 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3729,6 +4162,12 @@
 }
 #Avignon (243600/60900 POPS)
 468 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3768,6 +4207,12 @@
 }
 #Digne (113200/31000 POPS)
 469 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3807,6 +4252,12 @@
 }
 #Toulon (224000/56000 POPS)
 470 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3864,6 +4315,12 @@
 }
 #Frejus (132000/33000 POPS)
 471 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = french
 		religion = catholic
@@ -3903,6 +4360,12 @@
 }
 #Nice (Sardinian until 1860) (170800/42700 POPS)
 472 = {
+		craftsmen = {
+		culture = french
+		religion = catholic
+		size = 2000
+	}
+	
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
@@ -3944,6 +4407,7 @@
 #Corsica Region (210000)
 #Corsica (210000/52500 POPS)
 473 = {
+	
 	aristocrats = {
 		culture = french
 		religion = catholic

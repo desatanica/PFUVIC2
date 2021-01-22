@@ -6508,6 +6508,7 @@ political_decisions = {
 			prestige = 25
 			set_country_flag = german_Staff
 					
+<<<<<<< Updated upstream
 			define_general = {
 				name = "Alfred von Schlieffen"
 				personality = brilliant
@@ -6537,6 +6538,37 @@ political_decisions = {
 				personality = impetuous
 				background = old_school
 			}
+=======
+#			define_general = {
+#				name = "Alfred von Schlieffen"
+#				personality = brilliant
+#				background = military_theoretician
+#			}
+#
+#			define_general = {
+#				name = "Paul von Hindenburg"
+#				personality = decisive
+#				background = school_of_firepower
+#			}
+#			
+#			define_general = {
+#				name = "Erich Ludendorff"
+#				personality = brilliant
+#				background = school_of_offense
+#			}
+#			
+#			define_general = {
+#				name = "Helmuth von Moltke"
+#				personality = efficient
+#				background = school_of_firepower
+#			}
+#			
+#			define_general = {
+#				name = "Erich von Falkenhayn"
+#				personality = impetuous
+#				background = old_school
+#			}
+>>>>>>> Stashed changes
 		
 		
 		}
@@ -8939,7 +8971,7 @@ claim_togoland = {
 				limit = { 
 					is_core = RUS
 				}
-				add_province_modifier = { name = small_baby_boom duration = 4380 }
+				add_province_modifier = { name = small_baby_boom duration = 1600 }
 			}
 		}
 
@@ -16028,7 +16060,8 @@ appoint_camillo_cavour = {
 			2491 = { add_province_modifier = { name = small_immigration_boom duration = 7300 } }	#Adelaide, AU
 			372 = { add_province_modifier = { name = sound_dues_toll duration = -1 } } #Copenhagen		
 			163 = { add_province_modifier = { name = small_baby_boom duration = 3650 } } #Chicago
-			978 = { add_province_modifier = { name = kharkov_university duration = 18000 } } #Kharkov	
+			978 = { add_province_modifier = { name = kharkov_university duration = 18000 } } #Kharkov
+            425 = { add_province_modifier = { name = paris_diaspora duration = 18600 } } #Paris migration			
 			#######Rural pops##########
             RUS_1069 = { any_pop = { pop_type = serfs } }
 			RUS_1070 = { any_pop = { pop_type = serfs } }
@@ -16038,7 +16071,7 @@ appoint_camillo_cavour = {
 			RUS_2589 = { any_pop = { pop_type = serfs } }
 			
 			######################Literacy Setup######################
-		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = japanese } literacy = -0.25 } }
+		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = japanese } literacy = -0.15 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = swedish } literacy = 0.10 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = norwegian } literacy = 0.10 } }
 		    any_country = { limit = { exists = yes } any_pop = { limit = { has_pop_culture = finnish } literacy = 0.10 } }
@@ -16086,8 +16119,7 @@ appoint_camillo_cavour = {
 			RUS = {	add_country_modifier = { name = nicholas_reforms duration = 7478 } }
 			#################Starting Birth Rate Buffs######################
 			765 = { add_province_modifier = { name = baby_boom duration = 2650 } }
-			WAL_665 = { add_province_modifier = { name = small_baby_boom duration = 2555 } }
-			MOL_673 = { add_province_modifier = { name = small_baby_boom duration = 2555 } }
+
 			SER_794 = { add_province_modifier = { name = baby_boom duration = 3650 } }
 			GRE_837 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
 			GRE_826 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
@@ -16118,31 +16150,74 @@ appoint_camillo_cavour = {
 			DEN_372 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
 			DEN_367 = { add_province_modifier = { name = small_baby_boom duration = 2920 } }
 			####Germany########
-			PRU_570 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_575 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_578 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			HES_2560 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_581 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			SAX_558 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_554 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_553 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_549 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			PRU_544 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			HAN_540 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			HAN_534 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			HAN_528 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			HOL_369 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			SCH_370 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
+			PRU_570 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_575 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_578 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			HES_2560 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_581 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			SAX_558 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_554 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_553 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_549 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			PRU_544 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			HAN_540 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			HAN_534 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			HAN_528 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			HOL_369 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			SCH_370 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
 			###Low Germany########
-			WUR_589 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			BAD_586 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			BAV_595 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			BAV_599 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
+			WUR_589 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			BAD_586 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			BAV_595 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
+			BAV_599 = { add_province_modifier = { name = small_baby_boom duration = 2000 } }
 			###Austria########
-			AUS_619 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			AUS_612 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-			AUS_613 = { add_province_modifier = { name = small_baby_boom duration = 3000 } }
-		
+			AUS_619 = { add_province_modifier = { name = small_baby_boom duration = 1500 } }
+			AUS_612 = { add_province_modifier = { name = small_baby_boom duration = 1500 } }
+			AUS_613 = { add_province_modifier = { name = small_baby_boom duration = 1500 } }
+			
+			#######Population Balancing########
+			##Austria## 10% reduction in eastern provinces/Romania
+			AUS_652 = { any_pop = { reduce_pop = 0.9 } }
+			AUS_654 = { any_pop = { reduce_pop = 0.9 } }
+			AUS_657 = { any_pop = { reduce_pop = 0.9 } }
+		    AUS_633 = { any_pop = { reduce_pop = 0.9 } }
+			AUS_702 = { any_pop = { reduce_pop = 0.9 } }
+			AUS_662 = { any_pop = { reduce_pop = 0.9 } }
+			
+			###Germany/Eastern Germany########
+			695 = { any_pop = { reduce_pop = 0.9 } }
+			696 = { any_pop = { reduce_pop = 0.9 } }
+			699 = { any_pop = { reduce_pop = 0.9 } }
+		    701 = { any_pop = { reduce_pop = 0.9 } }
+			682 = { any_pop = { reduce_pop = 0.9 } }
+			683 = { any_pop = { reduce_pop = 0.9 } }
+			684 = { any_pop = { reduce_pop = 0.9 } }
+			685 = { any_pop = { reduce_pop = 0.9 } }
+			546 = { any_pop = { reduce_pop = 0.9 } }
+			
+			##Japan## 10% reduction in all provinces
+			##JAP_1088 = { any_pop = { reduce_pop = 0.9 } } ##Ezo northern island
+			JAP_1640 = { any_pop = { reduce_pop = 0.9 } }
+			JAP_1649 = { any_pop = { reduce_pop = 0.9 } }
+		    JAP_1655 = { any_pop = { reduce_pop = 0.9 } }
+			JAP_1660 = { any_pop = { reduce_pop = 0.9 } }
+			JAP_1665 = { any_pop = { reduce_pop = 0.9 } }
+			JAP_1672 = { any_pop = { reduce_pop = 0.9 } }
+			JAP_1675 = { any_pop = { reduce_pop = 0.9 } }
+			
+			
+			##Scotland## 10% reduction in all provinces
+			ENG_271 = { any_pop = { reduce_pop = 0.9 } }
+			ENG_266 = { any_pop = { reduce_pop = 0.9 } }
+		    
+		    #Northern England 5% reduction in all provinces		
+			ENG_277 = { any_pop = { reduce_pop = 0.95 } }
+			ENG_280 = { any_pop = { reduce_pop = 0.95 } }
+			ENG_284 = { any_pop = { reduce_pop = 0.95 } }
+	
+			#Bessarabia
+			MOL_676 = { any_pop = { reduce_pop = 0.9 } }
+			
 		EGY = {
 			any_owned = {
 				limit = { is_core = EGY }

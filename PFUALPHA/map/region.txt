@@ -210,7 +210,7 @@ FRA_425 = { 425 426 427 } #Ile de France
 
 FRA_428 = { 428 429 431 430 433 } #Bourgogne
 
-FRA_435 = { 435 434 437 } #Loire
+FRA_435 = { 437 435 434 } #Loire fixed capital
 
 FRA_438 = { 438 436 439 440 441 } #Region Centre
 

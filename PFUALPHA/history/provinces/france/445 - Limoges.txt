@@ -4,4 +4,9 @@ add_core = FRA
 trade_goods = cattle
 life_rating = 30
 terrain = hilly_farmland
+state_building = {
+level = 1
+building = paper_mill
+upgrade = yes
+}
 
