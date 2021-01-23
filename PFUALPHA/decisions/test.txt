@@ -1,8 +1,0 @@
-political_decisions = {
-
-	form_north_1german_confederation = {
-		
-	}
-
-}
-

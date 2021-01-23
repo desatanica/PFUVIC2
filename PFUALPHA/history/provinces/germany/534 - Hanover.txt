@@ -1,10 +1,10 @@
-owner = HAN
-controller = HAN
-add_core = HAN
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = GER
 trade_goods = fruit
 life_rating = 45
-terrain = good_farmland
+terrain = hanover
 #state_building = {
 #	level = 1
 #	building = liquor_distillery

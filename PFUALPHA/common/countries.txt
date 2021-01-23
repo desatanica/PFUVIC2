@@ -44,9 +44,6 @@ LUZ     = "countries/Luzica.txt"
 PML		= "countries/Pomerelia.txt"
 PZN		= "countries/Poznan.txt"
 SLS		= "countries/Silesia.txt"
-SAX		= "countries/Saxony.txt"
-HAN		= "countries/Hanover.txt"
-
 
 #Russia
 AKH		= "countries/Astrakhan.txt"
