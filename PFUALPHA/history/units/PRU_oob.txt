@@ -17,66 +17,12 @@ WUR = {
 	influence_value = 0
 	military_access = yes
 }
-BRE = {
-	value = 125
-	level = 5
-	influence_value = 0
-	military_access = yes
-}
-HAN = {
-	value = 125
-	level = 3
-	influence_value = 0
-	military_access = yes
-}
-SAX = {
-	value = 50
-	level = 3
-	influence_value = 0
-	military_access = yes
-}
-MEC = {
-	value = 125
-	level = 5
-	influence_value = 0
-	military_access = yes
-}
-COB = {
-	value = 125
-	level = 5
-	influence_value = 0
-	military_access = yes
-}
-HES = {
-	value = 125
-	level = 5
-	influence_value = 0
-	military_access = yes
-}
-HOL = {
-	value = 125
-	level = 5
-	influence_value = 0
-	military_access = yes
-}
-
 
 SAX = {
 	value = 50
 	level = 1
 	military_access = yes
 }
-
-KRA = {
-	value = 125
-	level = 4
-	influence_value = 0
-}
-
-DEN = {
-	value = 55
-}
-
 #Other GP's
 AUS = {
 	value = 150

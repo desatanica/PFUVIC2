@@ -5703,15 +5703,10 @@ political_decisions = {
 			FRA = {
 				NOT = { truce_with = THIS }
 			}
-			
-			412 = {
-				owned_by = FRA
-			}
-
 		}
 		
 		effect = {
-			prestige = 75
+			prestige = 5
 			FRA = { country_event = 19200 }
 			set_country_flag = ems_dispatch_sent
 		}
@@ -15514,7 +15509,6 @@ appoint_camillo_cavour = {
 			change_tag = NGF
 			FRA_412 = { add_core = GER }
 			569 = { add_core = GER }
-			571 = { add_core = GER }
 			582 = { add_core = GER }
 			583 = { add_core = GER }
 			584 = { add_core = GER }
